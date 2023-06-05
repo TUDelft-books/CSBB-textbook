@@ -1,3 +1,5 @@
-# Home
+# Home (Introductions?)
 
-This is a Jupyter Book template for the interactive textbooks project of CiTG.
+This is a textbook for the minor CSSB. 
+
+Note for us: We can use the 'home' page for our introduction
