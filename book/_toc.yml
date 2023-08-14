@@ -9,13 +9,16 @@ parts:
     #- file: "Teacher training"
   - caption: Quarter 1
     chapters:
-    - file: Quarter1/Week1/Week_1.md
-    - file: Quarter1/Week2/Introduction.md
-      sections:
-      - file: Quarter1/Week2/Lecture.md
-      - file: Quarter1/Week2/Workshop.md
-      - file: 'Quarter1/Week2/Discussion Questions.md'
-      - file: Quarter1/Week2/References.md
+    - file: Quarter1/Week1_1.md
+    - file: Quarter1/Week1_2.md
+    - file: Quarter1/Week1_3.md
+    - file: Quarter1/Week1_4.md
+    - file: Quarter1/Week1_5.md
+    - file: Quarter1/Week1_6.md
+    - file: Quarter1/Week1_7.md
+    - file: Quarter1/Week1_8.md
+    - file: Quarter1/Week1_9.md
+    - file: Quarter1/Week1_10.md
 
   - caption: Quarter 2
     chapters:
