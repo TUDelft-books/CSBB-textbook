@@ -47,7 +47,7 @@ deploy-book:
   before_script:
     - docker info
     - docker stop $CI_PROJECT_NAME || exit_code=$?
-    - if [ $exit_code -ne 0]; then echo "Container not found, cannot stop"; else docker rm $CI_PROJECT_NAME; fi
+    - if [ $exit_code -ne 0 ]; then echo "Container not found, cannot stop"; else docker rm $CI_PROJECT_NAME; fi
   script:
     - docker run -d -p 8001:8001 --name $CI_PROJECT_NAME $TAG_LATEST # Make sure to use a different port for each book!
   environment:
