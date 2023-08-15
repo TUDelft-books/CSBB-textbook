@@ -35,7 +35,7 @@ build-book:
   before_script:
     - docker info
   script:
-    - docker build -t $TAG_LATEST
+    - docker build -t $TAG_LATEST .
     - docker push $TAG_LATEST
 
 # This job takes down the existing container 
