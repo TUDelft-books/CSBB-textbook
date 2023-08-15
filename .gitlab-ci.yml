@@ -1,0 +1,55 @@
+stages:
+  - test
+  - build
+  - deploy
+
+variables:
+  PIP_CACHE_DIR: "$CI_PROJECT_DIR/.cache/pip"
+  REGISTRY_HOST: localhost:5000
+  TAG_LATEST: $REGISTRY_HOST/$CI_PROJECT_NAME/$CI_COMMIT_REF_NAME:latest
+
+cache:
+  paths:
+    - .cache/pip
+
+# This job tests if the book compiles gracefully after a new addition
+test-build:
+  stage: test
+  image: python:3.10-bullseye
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"
+  before_script:
+    - python -V
+  script:
+    - pip install -r requirements.txt
+    - jupyter-book clean book/
+    - jupyter-book build book/
+
+# This job builds the docker image and pushes it to the server
+build-book:
+  stage: build
+  image: docker
+  rules:
+    - if: $CI_COMMIT_BRANCH == "publish" && $CI_PIPELINE_SOURCE == "push"
+  before_script:
+    - docker info
+  script:
+    - docker build -t $TAG_LATEST
+    - docker push $TAG_LATEST
+
+# This job takes down the existing container 
+deploy-book:
+  stage: deploy
+  image: docker
+  rules:
+    - if: $CI_COMMIT_BRANCH == "publish" && $CI_PIPELINE_SOURCE == "push"
+  before_script:
+    - docker info
+    - docker stop $CI_PROJECT_NAME
+    - docker rm $CI_PROJECT_NAME
+  script:
+    - docker run -d -p 8001:8001 --name $CI_PROJECT_NAME $TAG_LATEST # Make sure to use a different port for each book!
+  environment:
+    name: production
+    url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME
