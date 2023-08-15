@@ -1,20 +1,19 @@
-# Week 7: Leaving a Mark
-
 ```{figure} ../images/week7.jpeg
 :name: week7image
 ```
+# Week 7: Leaving a Mark
 
 The scheduled components of this week are:
 
--   Science Spotlight by Jeroen van Rooij
+-   Science Spotlight
 
--   Workshop Knowledge Utilization\--Peter van Dongen
+-   Workshop Knowledge Utilization
 
 -   Workshop Grant Writing
 
 -   Friday Symposium
 
-# Introduction and goals
+## Introduction and goals
 
 The main topic of this week is "Impact". As participants in research, it
 is important be aware of the impact of your research on different levels
@@ -35,19 +34,19 @@ Grant writing will focus on the technical details of writing grants,
 developing some best practices, understanding requirements, how to read
 the instructions and the elements of a research grant.
 
-# Workshop Knowledge Utilization
+## Workshop Knowledge Utilization
 
-## Overview
+### Overview
 
-## Key concepts 
+### Key concepts 
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Workshop Grant Writing
+## Workshop Grant Writing
 
-## Overview
+### Overview
 
-## Key concepts 
+### Key concepts 
 
 -   What are grants and what role do they play in research?
 
@@ -57,29 +56,29 @@ the instructions and the elements of a research grant.
 
 -   Tips for writing convincing grant applications
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Group activity of the week
+## Group activity of the week
 
 -   Write a draft of the knowledge utilization portion of your grant
     application.
 
-# Discussion Questions
+## Discussion Questions
 
-What does it mean to overpromise? How do you keep your knowledge
+- What does it mean to overpromise? How do you keep your knowledge
 utilization realistic?
 
-Is knowledge utilization an important criteria in evaluating a research
+- Is knowledge utilization an important criteria in evaluating a research
 project and funding for it? Why or why not?
 
-What are the problems with this method of funding research? What other
+- What are the problems with this method of funding research? What other
 ways could there be?
 
-How do you handle rejection?
+- How do you handle rejection?
 
 ### Writing Assignment
 
-How important is knowledge for knowledge's sake versus being able to
+- How important is knowledge for knowledge's sake versus being able to
 apply it immediately to problems? How do you balance the two?
 
-# References
+## References

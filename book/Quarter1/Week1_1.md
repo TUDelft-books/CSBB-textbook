@@ -1,8 +1,8 @@
-# Week 1: Getting Underway
-
 ```{figure} ../images/week1.jpeg
 :name: week1image
 ```
+# Week 1: Getting Underway
+
 
 Week 1 is meant for the students to get to know each other and the
 topics they will be working on. They will get to know their group, the
@@ -15,10 +15,10 @@ The schedule this week includes:
 
 Monday: **Communication**
 
--   [Introduction lecture](#intro-lecture-by-minor-director) where the structure of the minor, goals and
+- <a href=#intro-lecture-by-minor-director>Introduction lecture</a> where the structure of the minor, goals and
     assessments will be introduced.
 
--   [Technical tools](#workshop-technical-tools)---explanation and exploration of all the tools we
+-   <a href=#workshop-technical-tools>Technical Tools</a> - explanation and exploration of all the tools we
     will be using: textbook, Brightspace, Teams.
 
 -   Library searches. Citation management tool.
@@ -27,10 +27,10 @@ Monday: **Communication**
 
 Tuesday: **Research**
 
--   [Presentations of subtopics](#presentations-of-subtopics): short presentations by supervisors about
+-   <a href=#presentations-of-subtopics>Presentation of subtopics</a>: short presentations by supervisors about
     potential areas to do projects in.
 
--   [Group roles](#workshop-group-and-belbin-roles): understanding Belbin framework of group roles.
+-   <a href=#workshop-group-and-belbin-roles>Group roles</a>: understanding Belbin framework of group roles.
 
 -   (teaching team makes student groups)
 
@@ -38,14 +38,14 @@ Wednesday: **Collaboration**
 
 -   Students are informed of their group assignment
 
--   [Workshop peer feedback, teamwork, and communication](#workshop-peer-feedback-teamwork-and-collaboration)
+-   <a href=#workshop-peer-feedback-teamwork-and-collaboration>Workshop peer feedback, teamwork, and communication</a>
 
 -   Group free time to discuss name and topics, do a little reading of
     background materials.
 
 Thursday: **Reflection**
 
--   [Workshop reflective science](#workshop-reflective-science)
+-   <a href=#workshop-reflective-science>Workshop reflective science</a>
 
 -   Keep on reading and understanding background of subtopics.
 
@@ -55,7 +55,7 @@ Friday: **Integration**
 
 -   Topic selection
 
--   Submit first [writing assignment](#writing-prompt)
+-   Submit first <a href=#writing-prompt>writing assignment</a>
 
 -   First Friday symposium---reflect on the week.
 
@@ -167,20 +167,20 @@ This week there are lots of activities. In particular groups will work
 together to discuss which group project they want and then work to get
 it.
 
-#### Group assignment: 
+### Group assignment: 
 
 -   Decide on a team name and turn it in.
 
 ## Discussion Questions
 
-How is it going so far?
+- How is it going so far?
 
-What do you hope for next week?
+- What do you hope for next week?
 
-Going through the Belbin roles, what do you think about the results you
+- Going through the Belbin roles, what do you think about the results you
 got? What are the strengths and weaknesses of any of these frameworks?
 
-#### Writing prompt:
+### Writing prompt:
 This is the writing prompt for the weekly writing assignment. More details can be found on brightspace.
 
 -   What did you learn about yourself from the Belbin Roles workshop?

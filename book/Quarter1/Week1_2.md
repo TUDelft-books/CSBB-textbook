@@ -1,8 +1,17 @@
-# Week 2: Understanding your crew
-
 ```{figure} ../images/week2.jpeg
 :name: week2image
 ```
+# Week 2: Understanding your crew
+
+-   Lecture What is transdiciplinarity (Monday)
+
+-   Science Spotlight convergence flagships/supervisors/PhD (Monday)
+
+-   Workshop Perspectives and Values with the team
+
+-   Friday Symposium
+
+## Introduction and goals
 
 In every work environment but especially in science, it takes a team
 working together to build remarkable things or solve big problems. Often
@@ -28,19 +37,7 @@ family is its own kind of collaboration with its own kind of challenges.
 -   Taking time to specifically build these fundamental skills will
     start us off with a solid foundation to explore from.
 
-So far this week will include:
-
--   Lecture What is transdiciplinarity (Monday)
-
--   Science Spotlight convergence flagships/supervisors/PhD (Monday)
-
--   Workshop Perspectives and Values with the team
-
--   Friday Symposium
-
-# Introduction and goals
-
-# Lecture: What is Transdisciplinarity?
+## Lecture: What is Transdisciplinarity?
 
 A single situation or problem is often approached differently by
 different people, depending on multiple factors such as their upbringing
@@ -49,7 +46,7 @@ understanding different perspectives, and why diverse perspectives are
 valuable for solving problems. Further, students will begin creating
 self-inventories on knowledge, values, skills.
 
-## Overview
+### Overview
 
 This lecture is meant to introduce students to the concept of
 transdisciplinarity. The initial part of the lecture will thus be
@@ -68,7 +65,7 @@ skills. These self-inventories should help the student to better
 understand their role as part of the "whole" that is the
 transdisciplinary team.
 
-## Key concepts 
+### Key concepts 
 
 -   What is transdisciplinarity?
 
@@ -80,22 +77,22 @@ transdisciplinary team.
 
 -   Self-inventories, how to make them and how to use them
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Workshop Perspectives and Values with the Team
+## Workshop Perspectives and Values with the Team
 
 This week will have a team activity on different perspectives and how to
 understand them. Further, students will learn best practices for
 internal communication within their team. This should be a ground stone
 which will allow them to work together well over the coming weeks.
 
-## Overview
+### Overview
 
-## Key concepts 
+### Key concepts 
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Group activity of the week---Team Contract
+## Group activity of the week---Team Contract
 
 There is always research and reading to do as you explore your topic.
 
@@ -107,19 +104,19 @@ of it. And it should be regularly updated as things change.
 -   Write the group statement of shared values (the team contract). Link
     the students to where they can find the necessary resources
 
-# Discussion Questions
+## Discussion Questions
 
-What are you really good at?
+- What are you really good at?
 
-What skills do you bring to this project?
+- What skills do you bring to this project?
 
-What do you want in collaborative environments to be successful?
+- hat do you want in collaborative environments to be successful?
 
-What would you like to develop in yourself/or as a group?
+- What would you like to develop in yourself/or as a group?
 
-What are you likely to want help with?
+- What are you likely to want help with?
 
-What are your pet peeves in working in groups and how do you handle
+- What are your pet peeves in working in groups and how do you handle
 them?
 
 ### Writing assignment:
@@ -127,10 +124,10 @@ them?
 In addition to understanding the people around you, it's important to
 understand yourself.
 
-How does your background (cultural, educational, family) inform your
+- How does your background (cultural, educational, family) inform your
 perspectives?
 
-# References
+## References
 
 Interesting reading: [How to be Interdisciplinary - by Nils Gilman
 (substack.com)](https://nilsgilman.substack.com/p/how-to-be-interdisciplinary?utm_source=substack&utm_medium=email)

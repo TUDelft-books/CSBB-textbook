@@ -11,7 +11,7 @@ The components of this week are:
 
 -   Friday Symposium
 
-# Introduction and goals
+## Introduction and goals
 
 Many researchers and students are told "make a poster" and "give a
 presentation" with little guidance about how to do that. As with many
@@ -24,7 +24,7 @@ The second workshop will be on the presentation piece, strategies for
 handling difficult questions, stagefright and a little theater
 improvisation to get you ready.
 
-# Workshop Poster Design
+## Workshop Poster Design
 
 Posters are important tools in academia/research - compact way of
 presenting information visually. Every discipline and subspecialities
@@ -39,15 +39,15 @@ You will take the theory of what you have learned from constructing
 narratives and visualization workshops to design an effective poster in
 order to be able to explain and promote your idea.
 
-## Overview
+### Overview
 
-## Key concepts 
+### Key concepts 
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Workshop Presenting -- Improv, Handling Questions and Stage Fright 
+## Workshop Presenting -- Improv, Handling Questions and Stage Fright 
 
-## Overview
+### Overview
 
 Delivery, or the *actio* as ancient Roman and Greek orators put it, is
 the final step of giving a presentation. Once the curtains have opened
@@ -62,14 +62,13 @@ can you do if they get the better of you? Furthermore, we will practice
 how to handle questions -- a part of presenting that can only be
 prepared to a certain extent and that often involves some improvisation.
 We will touch upon guidelines for structuring answers and dealing with
-challenging questions and questioners.\
-\
-Key concepts\
-Delivery of a presentation: body language, voice and movement\
-Handling (challenging) questions\
-Coping with nerves
+challenging questions and questioners.
+### Key concepts
+- Delivery of a presentation: body language, voice and movement
+- Handling (challenging) questions
+- Coping with nerves
 
-## Relevant learning goals
+### Relevant learning goals
 
 -   Students know about advice for effectively delivering a presentation
 
@@ -81,26 +80,26 @@ Coping with nerves
 -   Students know guidelines for dealing with nerves prior or during a
     presentation
 
-# Group activity of the week
+## Group activity of the week
 
 -   Turn in final grant application to supervisor
 
 -   Design poster and send for printing.
 
-# Discussion Questions
+## Discussion Questions
 
-Do you feel ready for the presentations next week? What do you feel
+- Do you feel ready for the presentations next week? What do you feel
 confident about? What do you feel least confident about? Think of a way
 to prepare and lessen the worry.
 
-What are you proud of in the work you've done this quarter?
+- What are you proud of in the work you've done this quarter?
 
-What was your favorite thing to learn?
+- What was your favorite thing to learn?
 
 ### Writing assignment:
 
-What makes for a good presentation? How will you do that?
+- What makes for a good presentation? How will you do that?
 
-# References
+## References
 
 TU Present -- Delivery module

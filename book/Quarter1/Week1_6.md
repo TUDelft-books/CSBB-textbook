@@ -1,9 +1,7 @@
-# Week 6: Getting Money
-
 ```{figure} ../images/week6.jpeg
 :name: week6image
 ```
-
+# Week 6: Getting Money
 
 -   Science Spotlight by Daan Brinks
 
@@ -12,8 +10,7 @@
 -   Workshop Narratives (ITAV)
 
 -   Friday Symposium
-
-# Introduction and goals
+## Introduction and goals
 
 Research is expensive, especially lab based research involving high tech
 equipment, special materials, and people with specialized skills. And if
@@ -31,9 +28,9 @@ research funding work. Further, you will learn the skills to tell the
 story of your research, and how to effectively use that story to
 convince people of the value of your project.
 
-# Lecture: Research Funding
+## Lecture: Research Funding
 
-## Overview
+### Overview
 
 The lecture aims at presenting the importance of funding in the
 decision-making process when it comes to science. Moreover, the lecture
@@ -41,16 +38,16 @@ will include the steps that need to be taken during a grant application
 and the people that are involved in each part of the process. Examples
 from real-life situations will be provided as well.
 
-## Key concepts 
+### Key concepts 
 
-## Relevant learning goals
+### Relevant learning goals
 
 Students will understand the steps that need to be taken when applying
 for funds and their importance in the entire process
 
-# Workshop: Narratives
+## Workshop: Narratives
 
-Overview
+### Overview
 
 Humans like to process information through stories. Being able to create
 narratives is a valuable skill in communicating the relevance of your
@@ -66,11 +63,10 @@ to a broader audience including various stakeholders). This way,
 storytelling skills are taught in the context of funding applications
 and explaining your research to diverse groups of people.
 
-## Key concepts 
+### Key concepts 
 
-Narratives and storytelling\
-\
-Relevant learning goals
+Narratives and storytelling
+### Relevant learning goals
 
 -   Students learn how narratives work in information processing
 
@@ -83,28 +79,25 @@ Relevant learning goals
 -   Students learn to adapt their story depending on their audience
     (readers/listeners)
 
-# Group activity of the week
-
-~~Each group is asked to interview at least one person about their
-project, could be~~
+## Group activity of the week
 
 It's important when developing a narrative to have a clear idea of what
-are the key elements to include.
+the key elements to include are.
 
 -   Identify and justify 3 ideas/themes in your project that should be
     included in your narrative for both presentation and grant
     application.
 
-# Discussion Questions
+## Discussion Questions
 
-Can you begin to tell a story about your project? What do you think is
+- Can you begin to tell a story about your project? What do you think is
 important to include in a narrative about a research project?
 
-Do you know enough to develop a narrative? What do you bring as an
+- Do you know enough to develop a narrative? What do you bring as an
 individualist as tool, knowledge? Does that suit the expertise of our
 team?
 
-Does creating a narrative to spotlight a specific result or approach of
+- Does creating a narrative to spotlight a specific result or approach of
 your scientific study conflict with scientific values such as
 objectivity, reproducibility, and transparency? How?
 

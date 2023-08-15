@@ -1,8 +1,7 @@
-# Week 4: Exploring Questions
-
 ```{figure} ../images/week4.jpeg
 :name: week4image
 ```
+# Week 4: Exploring Questions
 
 -   Science Spotlight (Monday)
 
@@ -12,7 +11,7 @@
 
 -   Friday Symposium
 
-# Introduction and goals
+## Introduction and goals
 
 Doing science (and really any knowledge based work) requires taking time
 to stop and think about what you're doing. What do you not know about
@@ -29,9 +28,9 @@ This week we'll focus on these two sides of exploring questions while
 you get further in developing you and your group develop your research
 question.
 
-# Lecture: Reflection: What do we know? 
+## Lecture: Reflection - What do we know? 
 
-# Overview
+### Overview
 
 This lecture will teach students the importance of reflection, and how
 to properly use it to improve your own research and thinking. Reflection
@@ -52,45 +51,35 @@ availability heuristic, status quo bias or the misinformation effect
 willbe explained, so that students will in the future be able to avoid
 and mitigate any such biases.
 
-## Key concepts 
+### Key concepts 
 
 -   Reflection -- what is it and why do we want it?
 
-```{=html}
-<!-- -->
-```
 -   How to deal with what we know and what we do not
 
 -   Components of reflection: perceiving, doubting, thinking, believing,
     knowing, assuming, reasoning, questioning, \...
 
-```{=html}
-<!-- -->
-```
 -   Characteristics of a good reflective process
 
-```{=html}
-<!-- -->
-```
 -   Different biases, how to recognise your own biases and how to avoid
     them
 
-```{=html}
-<!-- -->
-```
 -   When to make assumptions, and which assumptions better not to make
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Workshop: Interviewing: Asking and Listening
+## Workshop: Interviewing - Asking and Listening
 
-Overview
+### Overview
 
 Interviewing is a useful method for gathering information on a research
 topic. A well-prepared conversation with stakeholders can lead to
 valuable insights into a study's societal relevance, approach or
 contributions. This workshop aims to prepare students for effectively
-conducting an interview. First, effective preparation of the interview
+conducting an interview. 
+
+First, effective preparation of the interview
 is addressed. Key focus is on formulating clear, open questions that
 invite interviewees to give informative answers, as well as prioritizing
 questions, keeping track of time and making agreements on how the
@@ -100,7 +89,7 @@ situations they practice effective listening, being able to adapt and
 respond to interviewees' answers while keeping an eye on the aim of the
 interview.
 
-Key concepts
+### Key concepts
 
 -   Formulate clear and open questions (e.g., with the technique of
     non-directive questioning)
@@ -109,25 +98,20 @@ Key concepts
 
 -   How to adapt to the context of the interview
 
-Relevant learning goals
+### Relevant learning goals
 
 Students are able to:
 
--   prepare an interview (e.g., keep track of time, prioritize
+-   Prepare an interview (e.g., keep track of time, prioritize
     questions, stay in control without being inflexible)
 
--   formulate effective questions during an interview
+-   Formulate effective questions during an interview
 
--   understand in practice how to listen effectively and reflectively
+-   Understand in practice how to listen effectively and reflectively
 
--   deal with challenging situations during an interview
+-   Deal with challenging situations during an interview
 
-Eva mentioned on the miro that she might have a nice workshop on asking
-questions/a role playing game with cards which could help with the
-interview. Maybe whether we use it or not this might be nice to have
-here or in further resources for students to make use of.
-
-# Group activity of the week 
+## Group activity of the week 
 
 By week 4, groups should have a solid specific research question with
 preliminary ideas of how they might address it in a research project.
@@ -136,19 +120,19 @@ application.
 
 -   What question are you focusing on for your project? Why?
 
-# Discussion Questions
+## Discussion Questions
 
-What do you think about reflection and learning in a research context?
+- What do you think about reflection and learning in a research context?
 
-Do you have instances in your life where reflection has helped you
+- Do you have instances in your life where reflection has helped you
 resolve a problem or learn from an experience?
 
-Listening\--what does it mean? What does it mean to feel heard? What
+- Listening\--what does it mean? What does it mean to feel heard? What
 does it mean to hear those around you?
 
-How do you feel about not knowing things?
+- How do you feel about not knowing things?
 
-Do you have tools you use to help you identify what you don't know you
+- Do you have tools you use to help you identify what you don't know you
 don't know?
 
 ### Written assignment
@@ -158,7 +142,7 @@ don't know?
 This will be useful to discuss next week in your one on one session with
 your supervisor to see what feedback they can give you.
 
-# References
+## References
 
 McGrath, C., Palmgren. P.J., & Liljedahl, M. (2019). Twelve tips for
 conducting qualitative research interviews. *Medical* Teacher, 41(9),

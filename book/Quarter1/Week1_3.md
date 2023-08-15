@@ -1,8 +1,8 @@
-# Week 3: Searching for Sources
-
 ```{figure} ../images/week3.jpeg
 :name: week3image
 ```
+# Week 3: Searching for Sources
+
 
 -   Science Spotlights (Monday)
 
@@ -12,7 +12,7 @@
 
 -   Friday Symposium
 
-# Introduction and goals
+## Introduction and goals
 
 A huge part of being a researcher is reading what others have done, and
 writing what you have done to contribute to the body of scientific
@@ -44,7 +44,9 @@ strategies to use.
 -   This is a topic that will be important to the students, but some may
     have already done part of this
 
-# Lecture Advanced Literature Search
+## Lecture Advanced Literature Search
+
+### Overview
 
 This workshop focusses on teaching participants how to effectively find
 appropriate sources for doing literature research. This includes the use
@@ -52,13 +54,13 @@ of sites such as Scopus, WebOfScience or similar webpages which help in
 finding sources. To search for scientific literature, it is also
 necessary to know how to pose specific and helpful research questions.
 
-## Key concepts 
+### Key concepts 
 
--   how to break the research topic down to concepts,
+-   How to break the research topic down to concepts,
 
--   how to come up with synonyms and alternative terms for each concept,
+-   How to come up with synonyms and alternative terms for each concept,
 
--   how to structure a search query (AND, OR, NOT, phrase searching
+-   How to structure a search query (AND, OR, NOT, phrase searching
     \["..."\] and truncation \[\*\]),
 
 -   Scopus and Pubmed and demonstrate a query in these databases
@@ -71,11 +73,11 @@ necessary to know how to pose specific and helpful research questions.
 
 -   Also how to cite references in papers.
 
-## Relevant learning goals
+### Relevant learning goals
 
-# Workshop Scientific Communication -- Critical Reading
+## Workshop Scientific Communication -- Critical Reading
 
-Overview
+### Overview
 
 The aim of the workshop *Scientific Communication -- Critical Reading*
 is twofold: (1) introduce the characteristics of the scientific
@@ -86,7 +88,7 @@ reading scientific texts.
 
 The second part of the workshop introduces critical reading as one of the first steps in both the research and writing process. Carrying out a critical literature review is an essential first step in the research process, of which scientific texts such as a research proposal or journal paper are an important part. This part of the workshop focuses on guidelines for critical reading of literature, to help students determine key information in relevant sources. It introduces the Scientific Argumentation Model, which is a helpful tool to systematically map scientific sources. Students will analyse and discuss critical examples of relevant papers and by recognizing helpful structural and stylistic elements to navigate such sources.
 
-## Key concepts
+### Key concepts
 
 -   Scientific communication: what is it?
 
@@ -97,7 +99,7 @@ The second part of the workshop introduces critical reading as one of the first 
 -   Writing process (and the role of critical reading in the writing
     process)
 
-## Relevant learning goals
+### Relevant learning goals
 
 -   Understand the elements of the scientific communication situation
 
@@ -114,9 +116,7 @@ The second part of the workshop introduces critical reading as one of the first 
 
 -   Reflect on the value of information provided in scientific texts
 
-# Group activity of the week
-
--   Describe this week\'s group activity
+## Group activity of the week
 
 This week's group activity will tie in with the previous week -- you
 will be asked to write a short pitch on your team. This should include
@@ -131,21 +131,21 @@ Useful resource for self-study:
 giving a presentation, created by ITAV. Modules can easily be integrated
 into a CSBB minor Brightspace environment.)
 
-# Discussion Questions
+## Discussion Questions
 
-How does critical reading of sources differ to how you read other
+- How does critical reading of sources differ to how you read other
 materials such as novels, magazines, and webslogs.
 
-How are you keeping track of what you've read so you can refer back to
+- How are you keeping track of what you've read so you can refer back to
 it?
 
-How do you share what you've read with others?
+- How do you share what you've read with others?
 
-What's the most interesting thing you've learned this week?
+- What's the most interesting thing you've learned this week?
 
-What did you find effective in good writing?
+- What did you find effective in good writing?
 
-# References
+## References
 
 -   TU Write -- Scientific Writing \>\> General strategies for
     scientific reading and writing \>\> 1. Reading strategies

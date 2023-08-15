@@ -1,8 +1,7 @@
-# Week 5: Stakeholders 
-
 ```{figure} ../images/week5.jpeg
 :name: week5image
 ```
+# Week 5: Stakeholders 
 
 -   Science Spotlight
 
@@ -12,7 +11,7 @@
 
 -   Friday Symposium
 
-# Introduction and goals
+## Introduction and goals
 
 Stakeholder can be defined as someone who has an interest in the success
 of something. This includes the people working on it, paying for it, and
@@ -33,9 +32,9 @@ aware of who they are and how they impact your research and actions can
 help you to produce a result that best fits the circumstances and
 expectations present.
 
-# Lecture Stakeholders
+## Lecture Stakeholders
 
-## Overview
+### Overview
 
 Other than "what are they" and "why do we care about them", this lecture
 should help you answer more questions about the importance of
@@ -68,16 +67,13 @@ external but interested party. Keywords for this are speaker/writer,
 message, audience and context. Considering each of these is vital to for
 relaying information.
 
-## Key concepts 
+### Key concepts 
 
 After this lecture, groups should be able to answer the following
 questions when it comes to their own project:
 
 -   What are stakeholders?
 
-```{=html}
-<!-- -->
-```
 -   Who are the stakeholders in their project?
 
 -   What do they find important?
@@ -88,7 +84,7 @@ questions when it comes to their own project:
 
 -   What is your relationship with stakeholders?
 
-## Relevant learning goals
+### Relevant learning goals
 
 -   Students can describe the concept of a stakeholder and why this is
     relevant in the context of research
@@ -110,22 +106,22 @@ questions when it comes to their own project:
 
 -   Students know how to present information to stakeholders
 
-# Workshop Stakeholder Panels
+## Workshop Stakeholder Panels
 
 This workshop will be a stakeholder panel. Students will ask questions.
 Panel members may include education experts, researchers, industry,
 patient advocates.
 
-## Overview
+### Overview
 
-## Key concepts 
+### Key concepts 
 
-## Relevant learning goals
+### Relevant learning goals
 
 Understand different perspectives of why people engage or participate.
 They're hopes and desires.
 
-# Group activity of the week
+## Group activity of the week
 
 Your project should be coming along, and your background research should
 be nearing adequate stage.
@@ -133,27 +129,27 @@ be nearing adequate stage.
 -   Prepare an annotated list of your sources so far. Also include what
     things you still need to research? What don't you know?
 
-# Discussion Questions
+## Discussion Questions
 
-what are you a stakeholder in? How does that influence you? What are
+- What are you a stakeholder in? How does that influence you? What are
 different ways you are a stakeholder in things?
 
-How would you describe the difference between internal and external
+- How would you describe the difference between internal and external
 stakeholders?
 
-Would you consider your family something you are a stakeholder in?
+- Would you consider your family something you are a stakeholder in?
 
 Regarding the project:
 
-What is your role in this project?
+- What is your role in this project?
 
-What is your goal in this project? What should this project accomplish?
+- What is your goal in this project? What should this project accomplish?
 How do these two questions differ?
 
-How will you communicate the goals and progress made to internal and
+- How will you communicate the goals and progress made to internal and
 external stakeholders?
 
-What is your strategy for considering people affected by your project,
+- What is your strategy for considering people affected by your project,
 who don't have influence on it?
 
 ### Written assignment:
@@ -161,4 +157,4 @@ who don't have influence on it?
 -   How are the things that you are a stakeholder in related to your
     sense of identity\--who you are? Who you want to be?
 
-# References
+## References
