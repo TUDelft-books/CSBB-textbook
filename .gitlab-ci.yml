@@ -44,7 +44,6 @@ deploy-book:
   image: docker
   rules:
     - if: $CI_COMMIT_BRANCH == "publish" && $CI_PIPELINE_SOURCE == "push"
-  allow_failure: true
   before_script:
     - docker info
     - docker stop $CI_PROJECT_NAME
