@@ -70,7 +70,7 @@ deploy-draft:
     - docker stop $CI_PROJECT_NAME-draft || exit_code=$?
     - if [ $exit_code -ne 0 ]; then echo "Container not found, connot stop"; else docker rm $CI_PROJECT_NAME-draft; fi
   script:
-    - docker run -d -p 8002:8002 --name $CI_PROJECT_NAME-draft $TAG_DRAFT
+    - docker run -d -p 8002:8001 --name $CI_PROJECT_NAME-draft $TAG_DRAFT
   environment:
     name: draft
     url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME
