@@ -1,0 +1,533 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Branches &#8212; Intro to Git, VS Code and Jupyter Books</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/tabs.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'workflows/git-branch';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Staging, committing and pushing" href="git-stage-commit-push.html" />
+    <link rel="prev" title="Cloning a repository" href="git-clone.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Home
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Installation and Setup</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/git-setup.html">Git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/vscode-setup.html">VS Code</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/jupyter-book-setup.html">Jupyter Book</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Workflows</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active has-children"><a class="reference internal" href="git-basic.html">Working with Git in VS Code</a><input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="git-clone.html">Cloning a repository</a></li>
+<li class="toctree-l2 current active"><a class="current reference internal" href="#">Branches</a></li>
+<li class="toctree-l2"><a class="reference internal" href="git-stage-commit-push.html">Staging, committing and pushing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="git-merge.html">Merging</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="git-advanced.html">Advanced Git topics</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="git-merge-conflict.html">Merge conflicts</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="gitlab.html">Useful GitLab features</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Cookbook</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../cookbook/recipes.html">Markdown and Notebook recipes for the MUDE Jupyter Book</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/workflows/git-branch.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Branches</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-make-a-branch">How to make a branch</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#predefined-branches">Predefined branches</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="branches">
+<span id="git-branch"></span><h1>Branches<a class="headerlink" href="#branches" title="Permalink to this heading">#</a></h1>
+<p>Branches are a very useful feature of Git. Branches allow you to work on multiple versions of your codebase simultaneously; you create a copy of your codebase, on which you can work independently of the main codebase. Some advantages of working with branches are:</p>
+<ul class="simple">
+<li><p>Isolation: when you work on your own branch, your changes are isolated from the main codebase. Unfinished or unreviewed parts of your book are “hidden”.</p></li>
+<li><p>Collaboration: branches make it easier for multiple project members to work on the same codebase simultaneously. If every member works on their own branch, they can make their changes without having to worry about interfering with another members’ changes.</p></li>
+</ul>
+<section id="how-to-make-a-branch">
+<h2>How to make a branch<a class="headerlink" href="#how-to-make-a-branch" title="Permalink to this heading">#</a></h2>
+<p>The act of making a new branch from an existing one is called <em>branching</em>. Usually, you want to branch from the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch, but you can of course also choose to branch from another branch. The branch from which you create a new branch is called the <em>source</em> branch.</p>
+<ol class="arabic simple">
+<li><p>On GitLab, navigate to the repository of your project. Under the project description, you should see a menu button with a “+” in it (see <a class="reference internal" href="#new-branch-button"><span class="std std-numref">Fig. 3</span></a>). Click this button, then click on “New branch”.</p></li>
+</ol>
+<figure class="align-default" id="new-branch-button">
+<img alt="../_images/gitlab-branch.png" src="../_images/gitlab-branch.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 3 </span><span class="caption-text">Click the highlighted button to make a new branch.</span><a class="headerlink" href="#new-branch-button" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<ol class="arabic simple" start="2">
+<li><p>A new page opens (<a class="reference internal" href="#new-branch-menu"><span class="std std-numref">Fig. 4</span></a>), on which you can specify the name of your branch and the source branch. Try to think of a good name for your branch. For example, <code class="docutils literal notranslate"><span class="pre">chapter-2</span></code> is a suitable name if we’re going to be working on Chapter 2 of our book. After you’ve made sure that the selected source branch is correct, click “Create branch”.</p></li>
+</ol>
+<figure class="align-default" id="new-branch-menu">
+<img alt="../_images/gitlab-branch-name.png" src="../_images/gitlab-branch-name.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 4 </span><span class="caption-text">We’re making a new branch called <code class="docutils literal notranslate"><span class="pre">chapter-2</span></code> from the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch.</span><a class="headerlink" href="#new-branch-menu" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<ol class="arabic simple" start="3">
+<li><p>You should be sent back to an overview page of your repository. In the branch selection menu (see <a class="reference internal" href="#new-branch-repo"><span class="std std-numref">Fig. 5</span></a>), it should now say <code class="docutils literal notranslate"><span class="pre">chapter-2</span></code> instead of <code class="docutils literal notranslate"><span class="pre">main</span></code>.</p></li>
+</ol>
+<figure class="align-default" id="new-branch-repo">
+<img alt="../_images/gitlab-new-branch-repo.png" src="../_images/gitlab-new-branch-repo.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 5 </span><span class="caption-text">The circled menu is the branch selection menu.</span><a class="headerlink" href="#new-branch-repo" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<ol class="arabic simple" start="4">
+<li><p>The final step is to <em>check out</em> our new branch in VS Code. <em>Checking out</em> means that we’re changing our working branch (i.e., the one to which we will be committing our changes) from one to the other. In VS Code, open the branch menu from the bottom left (see <a class="reference internal" href="#git-branch-menu-main"><span class="std std-numref">Fig. 6</span></a>). You’ll be be greeted with a menu that looks like the one in <a class="reference internal" href="#git-branch-selection-menu"><span class="std std-numref">Fig. 7</span></a>. In this menu, we get an overview of the branches of our repository. Notice that our new branch <code class="docutils literal notranslate"><span class="pre">chapter-2</span></code> appears as <code class="docutils literal notranslate"><span class="pre">origin/chapter-2</span></code>, and has a cloud icon in front of it. This means that the branch only exists on the remote repository. Check out the branch by simply clicking on it. Check that the branch is indeed checked out by looking at the branch menu button in the bottom left again; it should now say the name of your branch instead of <code class="docutils literal notranslate"><span class="pre">main</span></code> (in our case <code class="docutils literal notranslate"><span class="pre">chapter-2</span></code>).</p></li>
+</ol>
+<figure class="align-default" id="git-branch-menu-main">
+<img alt="../_images/git-branch-menu-main.png" src="../_images/git-branch-menu-main.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 6 </span><span class="caption-text">Location of the branch menu.</span><a class="headerlink" href="#git-branch-menu-main" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<figure class="align-default" id="git-branch-selection-menu">
+<img alt="../_images/git-branch-selection-menu.png" src="../_images/git-branch-selection-menu.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 7 </span><span class="caption-text">The branch selection menu, where our new branch has shown up.</span><a class="headerlink" href="#git-branch-selection-menu" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<ol class="arabic simple" start="5">
+<li><p>Now that we’ve created and checked out our new branch, we can start <a class="reference internal" href="git-stage-commit-push.html#stage-commit-push"><span class="std std-ref">making and committing changes</span></a>.</p></li>
+</ol>
+</section>
+<section id="predefined-branches">
+<h2>Predefined branches<a class="headerlink" href="#predefined-branches" title="Permalink to this heading">#</a></h2>
+<p>If your repository is located in the <a class="reference external" href="https://gitlab.tudelft.nl/interactivetextbooks-citg">Interactive Textbooks CiTG</a> group on GitLab, it is likely that it already has some predefined branches in addition to <code class="docutils literal notranslate"><span class="pre">main</span></code>, namely <code class="docutils literal notranslate"><span class="pre">publish</span></code> and <code class="docutils literal notranslate"><span class="pre">publish-html</span></code>. These branches serve the following purposes:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">main</span></code>: this is the main development branch on which new changes are collected. If you’re working on</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">publish</span></code>: this is the version of the book that is visible to the public (i.e., the version that the students will see). Again, you cannot push directly to this branch.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">publish-html</span></code>: this branch contains the HTML of the version of the book that lives on the <code class="docutils literal notranslate"><span class="pre">publish</span></code> branch. When a new version of the book is merged in the <code class="docutils literal notranslate"><span class="pre">publish</span></code> branch, the new book is built using the <code class="docutils literal notranslate"><span class="pre">jupyter</span> <span class="pre">book</span> <span class="pre">build</span></code> command and the HTML is uploaded to <code class="docutils literal notranslate"><span class="pre">publish-html</span></code>. The webserver is constantly fetching this branch and pulling any incoming changes.</p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./workflows"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="git-clone.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Cloning a repository</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="git-stage-commit-push.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Staging, committing and pushing</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-to-make-a-branch">How to make a branch</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#predefined-branches">Predefined branches</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Caspar Jungbacker
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

@@ -1,0 +1,614 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Markdown and Notebook recipes for the MUDE Jupyter Book &#8212; Intro to Git, VS Code and Jupyter Books</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/tabs.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'cookbook/recipes';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="&lt;no title&gt;" href="sometext.html" />
+    <link rel="prev" title="Useful GitLab features" href="../workflows/gitlab.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Home
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Installation and Setup</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/git-setup.html">Git</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/vscode-setup.html">VS Code</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../installation-and-setup/jupyter-book-setup.html">Jupyter Book</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Workflows</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../workflows/git-basic.html">Working with Git in VS Code</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/git-clone.html">Cloning a repository</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/git-branch.html">Branches</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/git-stage-commit-push.html">Staging, committing and pushing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/git-merge.html">Merging</a></li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../workflows/git-advanced.html">Advanced Git topics</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../workflows/git-merge-conflict.html">Merge conflicts</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../workflows/gitlab.html">Useful GitLab features</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Cookbook</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Markdown and Notebook recipes for the MUDE Jupyter Book</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/cookbook/recipes.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Markdown and Notebook recipes for the MUDE Jupyter Book</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#figures">Figures</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#videos">Videos</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equations">Equations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code-blocks-that-produce-figures">Code blocks that produce figures</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code">Code</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebooks">Notebooks</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="markdown-and-notebook-recipes-for-the-mude-jupyter-book">
+<h1>Markdown and Notebook recipes for the MUDE Jupyter Book<a class="headerlink" href="#markdown-and-notebook-recipes-for-the-mude-jupyter-book" title="Permalink to this heading">#</a></h1>
+<section id="figures">
+<h2>Figures<a class="headerlink" href="#figures" title="Permalink to this heading">#</a></h2>
+<p>To add a figure, just copy the figure to the correct directory. Then, in your markdown file, include the figure as follows:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>```{figure} &lt;figurename&gt;.png/.jpg
+---
+height/width: &lt;height or width in pixels&gt;
+name: &lt;name of the figure&gt;
+---
+&lt;Figure caption&gt;
+```
+</pre></div>
+</div>
+<p>You can find more documentation on including figures <a class="reference external" href="https://jupyterbook.org/en/stable/content/figures.html">here</a>.</p>
+</section>
+<section id="videos">
+<h2>Videos<a class="headerlink" href="#videos" title="Permalink to this heading">#</a></h2>
+<p>MUDE videos are uploaded to the YouTube channel. To embed them in the Jupyter Book, first obtain the embedding link of the video. In order to do so, go to the <em>YouTube</em> page of the video (so not the Brightspace page), then click <em>share</em> in the description box. There should be a button <em>embed</em>, click that. Copy the HTML code that appears in the panel. Then, to embed the video, use the following</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>```{eval-rst}
+.. raw:: html
+
+&lt;paste the HTML code here&gt;
+```
+</pre></div>
+</div>
+</section>
+<section id="equations">
+<h2>Equations<a class="headerlink" href="#equations" title="Permalink to this heading">#</a></h2>
+<p>Equations can be included in two ways: inline or display mode. To make an inline equation, just put the LaTeX equation between $-signs. For example, <code class="docutils literal notranslate"><span class="pre">$F</span> <span class="pre">=</span> <span class="pre">m</span> <span class="pre">\cdot</span> <span class="pre">a$</span></code> produces: <span class="math notranslate nohighlight">\(F = m \cdot a\)</span>.</p>
+<p>Display mode equations (the ones that take up a whole line), can be inserted using double $-signs, like this:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>$$
+    F = m \cdot a
+$$
+</pre></div>
+</div>
+<p>which will produce:</p>
+<div class="math notranslate nohighlight">
+\[
+    F = m \cdot a
+\]</div>
+<blockquote>
+<div><p><strong>Warning</strong></p>
+<p>Make sure there is a blank line <em>before</em> the display mode equations, otherwise it will render as inline and display the outer set of $$$ symbols. Also, the Euro symbol is not included in MathJax (see note below) and must be specified using <code class="docutils literal notranslate"><span class="pre">\unicode{0x20AC}</span></code> (note that it displays incorrectly in some Markdown renderers like VS Code).</p>
+</div></blockquote>
+<p>To number the equations and refer in text, you need to provide a label to the equation. Just put the label between brackets and place it after the last $$, like this:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span>$$
+    F = m \cdot a
+$$ (newtons_second_law)
+</pre></div>
+</div>
+<blockquote>
+<div><p><strong>Note</strong></p>
+<p>The Jupyter Book uses MathJax to display equations, which provides some LaTeX-like functionality, but not all! For example, the Euro symbol is missing, and packages like <code class="docutils literal notranslate"><span class="pre">siunitx</span></code> are not available (hint, use <code class="docutils literal notranslate"><span class="pre">\textrm{}</span></code> and <code class="docutils literal notranslate"><span class="pre">\textrm{}</span></code>). When something is not working, it’s useful to search for MathJax-specific solutions (hint, include “mathjax” in your Google search).</p>
+</div></blockquote>
+</section>
+<section id="code-blocks-that-produce-figures">
+<h2>Code blocks that produce figures<a class="headerlink" href="#code-blocks-that-produce-figures" title="Permalink to this heading">#</a></h2>
+<p>This can be done with notebooks, but it’s not easy to make references to figures in notebooks. You can also place the code that produces and saves the figure in a separate <code class="docutils literal notranslate"><span class="pre">.py</span></code> file, and include that in a markdown file. Let’s say we want to make a simple sine wave:</p>
+<ol class="arabic">
+<li><p>Place the code of the figure in a <code class="docutils literal notranslate"><span class="pre">.py</span></code> file. In this case, <code class="docutils literal notranslate"><span class="pre">sinewave.py</span></code> produces our figure. The code looks like this:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span> import numpy as np
+ import matplotlib.pyplot as plt
+
+ x = np.linspace(0, 2*np.pi, endpoint=True)
+ y = np.sin(x)
+
+ plt.figure()
+ plt.plot(x, y)
+ plt.title(&#39;$y=\sin(x)$&#39;)
+ plt.xlabel(&#39;$x$&#39;)
+ plt.ylabel(&#39;$y$&#39;)
+ plt.savefig(&#39;sinewave.svg&#39;)
+</pre></div>
+</div>
+</li>
+</ol>
+<blockquote>
+<div><p><strong>Warning</strong></p>
+<p>It is important that the name of the saved figure is <strong>exactly</strong> the same as the name of the Python script that generates it. Otherwise, the figure will not be generated by the Runner.</p>
+</div></blockquote>
+<ol class="arabic simple" start="2">
+<li><p>Test your code and make sure that the figure looks good. When you are ready to commit, place your code file in <code class="docutils literal notranslate"><span class="pre">book/code</span></code>.</p></li>
+</ol>
+<p>The book uses a Matplotlib <a class="reference external" href="https://matplotlib.org/stable/tutorials/introductory/customizing.html">style sheet</a>; to see what this looks like on your local machin you will have to run <code class="docutils literal notranslate"><span class="pre">plt.style.use('../../config/matplotlibrc')</span></code> after importing Matplotlib. This should be done outside of the <code class="docutils literal notranslate"><span class="pre">*.py</span></code> file you are creating. Note that the example style sheet path assumes you are working in the <code class="docutils literal notranslate"><span class="pre">book/code</span></code> directory. It is recommended to preserve a list of figures using a notebook in <code class="docutils literal notranslate"><span class="pre">code_checks</span></code>, where there are also working examples. It is not necessary to commit <code class="docutils literal notranslate"><span class="pre">*.svg</span></code> files as these are cleaned when the book is generated.</p>
+<ol class="arabic" start="3">
+<li><p>Now include the code file by using the following directives:</p>
+<div class="highlight-none notranslate"><div class="highlight"><pre><span></span> ````{toggle}
+ ```{eval-rst}
+ .. literalinclude:: ../sinewave.py
+    :language: python
+ ```
+ ````
+</pre></div>
+</div>
+</li>
+</ol>
+<blockquote>
+<div><p><strong>Note</strong></p>
+<p>the outer most directive needs an extra tick mark for nested cases.</p>
+</div></blockquote>
+<ol class="arabic simple" start="4">
+<li><p>Include the figure as described above. Remember that figures are saved in the <code class="docutils literal notranslate"><span class="pre">book/figures</span></code> directory. We also use a naming convention of <code class="docutils literal notranslate"><span class="pre">*_py.svg</span></code> for figures generated from code, to easily include them in <code class="docutils literal notranslate"><span class="pre">.gitignore</span></code>, since they are built in the CI/CD pipeline.</p></li>
+</ol>
+</section>
+<section id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
+<p>To make references to figures, equations et cetera, use the following syntax:</p>
+<ul class="simple">
+<li><p>For figures, use: <code class="docutils literal notranslate"><span class="pre">{numref}`&lt;name</span> <span class="pre">of</span> <span class="pre">the</span> <span class="pre">figure&gt;`</span> </code></p></li>
+<li><p>For equations, use: <code class="docutils literal notranslate"><span class="pre">{eq}`&lt;equation</span> <span class="pre">label&gt;`</span> </code></p></li>
+<li><p>For citations, use: <code class="docutils literal notranslate"><span class="pre">{cite:p}`&lt;bibtex_entry&gt;`</span> </code> for a citation between parenthesis, or <code class="docutils literal notranslate"><span class="pre">{cite:t}`&lt;bibtex_entry&gt;`</span> </code> for an inline citation.</p></li>
+</ul>
+</section>
+<section id="code">
+<h2>Code<a class="headerlink" href="#code" title="Permalink to this heading">#</a></h2>
+<p>There are two ways main ways to include code: directly within a Markdown file or as a Jupyter notebook. More methods are available, but we don’t include them here. The first option is great for including simple calculations, or generating simple figures when an image file is not practical. <em>More will be added later.</em></p>
+<p>Note that if you are using a <code class="docutils literal notranslate"><span class="pre">*.ipynb</span></code> file or including a code snippet in a <code class="docutils literal notranslate"><span class="pre">*.md</span></code> file, including a blank line between the text and the closing three tick marks will generate an empty code box of one line in the Jupyter Book.</p>
+</section>
+<section id="notebooks">
+<h2>Notebooks<a class="headerlink" href="#notebooks" title="Permalink to this heading">#</a></h2>
+<p>When making notebooks for the Book, you might want to hide certain cells from the reader. For example, when including a simple figure generated from code or making a JupyterQuiz, we have to execute a code cell that generates the quiz. This code cell is ugly and distracting, so we do not want to render this in the final book.</p>
+<p>We can change how the compiler treats notebook cells by using cell tags. You can find a detailled explanation on cell tags <a class="reference external" href="https://jupyterbook.org/en/stable/interactive/hiding.html?highlight=cell%20tag">here</a>. Specifically, have a look at the sections on <em>hiding</em> cell inputs and <em>removing</em> cell inputs.</p>
+<p>The workflow of editing cell tags depends on your editor. If you’re using Jupyter Lab, you can find instructions <a class="reference external" href="https://jupyterbook.org/en/stable/content/metadata.html#jupyter-cell-tags">here</a>.</p>
+<p>For example, the following tag is used to convert the code input into either a drop-down (<code class="docutils literal notranslate"><span class="pre">hide-input</span></code>) or make it invisible (replace <code class="docutils literal notranslate"><span class="pre">hide-input</span></code> with <code class="docutils literal notranslate"><span class="pre">remove-input</span></code>). Replace <code class="docutils literal notranslate"><span class="pre">input</span></code> with <code class="docutils literal notranslate"><span class="pre">output</span></code> to do the same with the cell output:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+    <span class="s2">&quot;tags&quot;</span><span class="p">:</span> <span class="p">[</span>
+        <span class="s2">&quot;remove-input&quot;</span>
+    <span class="p">]</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>Once a correctly typed tag is added to the notebook it will appear in the buttons at the top and can be added to other cells. Multiple tags can be added to the same cell, in which case the tags are separated by commas.</p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./cookbook"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="../workflows/gitlab.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Useful GitLab features</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="sometext.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">&lt;no title&gt;</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#figures">Figures</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#videos">Videos</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#equations">Equations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code-blocks-that-produce-figures">Code blocks that produce figures</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#code">Code</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebooks">Notebooks</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Caspar Jungbacker
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

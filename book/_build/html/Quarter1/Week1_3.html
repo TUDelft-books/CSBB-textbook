@@ -1,0 +1,638 @@
+
+
+<!DOCTYPE html>
+
+
+<html lang="en" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Week 3: Searching for Sources &#8212; CiTG Jupyter Book template</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+
+    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Quarter1/Week1_3';</script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Week 4: Exploring Questions" href="Week1_4.html" />
+    <link rel="prev" title="Week 2: Understanding your crew" href="Week1_2.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="../intro.html">
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../intro.html">
+                    Home (Introductions?)
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 1</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Week1_1.html">Week 1: Getting Underway</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_2.html">Week 2: Understanding your crew</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 3: Searching for Sources</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 4: Exploring Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_5.html">Week 5: Stakeholders</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_6.html">Week 6: Getting Money</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_7.html">Week 7: Leaving a Mark</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_8.html">Week 8: Telling your story</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_9.html">Week 9: Dress Rehearsal</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_10.html">Week 10: Taking the Stage</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week6.html">Week 2.1</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/Quarter1/Week1_3.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  </button>
+`);
+</script>
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Week 3: Searching for Sources</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-advanced-literature-search">Lecture Advanced Literature Search</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-scientific-communication-critical-reading">Workshop Scientific Communication – Critical Reading</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group activity of the week</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
+  <figure class="align-default" id="week3image">
+<img alt="../_images/week3.jpeg" src="../_images/week3.jpeg" />
+</figure>
+<section class="tex2jax_ignore mathjax_ignore" id="week-3-searching-for-sources">
+<h1>Week 3: Searching for Sources<a class="headerlink" href="#week-3-searching-for-sources" title="Permalink to this heading">#</a></h1>
+<ul class="simple">
+<li><p>Science Spotlights (Monday)</p></li>
+<li><p>Lecture Advanced literature search (Library?)</p></li>
+<li><p>Workshop Scientific Communication – Critical Reading</p></li>
+<li><p>Friday Symposium</p></li>
+</ul>
+<section id="introduction-and-goals">
+<h2>Introduction and goals<a class="headerlink" href="#introduction-and-goals" title="Permalink to this heading">#</a></h2>
+<p>A huge part of being a researcher is reading what others have done, and
+writing what you have done to contribute to the body of scientific
+knowledge. There are hundreds of scientific journals with thousands of
+articles published yearly. The quality varies hugely, some are just
+badly written, and some are actually fraudulent. This week is focused on
+developing skills in understanding and evaluating the articles you read.
+How to put them in context, what to look for. Also no one can read it
+all, so another important aspect in teamwork is distributing the reading
+load.</p>
+<p>The focus of week 3 will be learning how to effectively use, understand
+and deal with scientific literature. Being able to properly interpret
+scientific (and non-scientific) resources is important not only in
+science but also to be able to build well-based opinions in everyday
+life. In academia, papers published in academic journalswill be the
+basis of your research and allow you to gain insight into the current
+state of a topic, as well as challenges and open questions that
+researchers are facing.</p>
+<p>One additional piece is taking the time to develop a strategy of how
+you’ll keep track of what you’ve read, what notes you might make as you
+read things for later reference. There are technical tools but also
+strategies to use.</p>
+<ul class="simple">
+<li><p>Explanation of what we want to achieve and why we are including this
+lecture &amp; workshop</p></li>
+<li><p>This is a topic that will be important to the students, but some may
+have already done part of this</p></li>
+</ul>
+</section>
+<section id="lecture-advanced-literature-search">
+<h2>Lecture Advanced Literature Search<a class="headerlink" href="#lecture-advanced-literature-search" title="Permalink to this heading">#</a></h2>
+<section id="overview">
+<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h3>
+<p>This workshop focusses on teaching participants how to effectively find
+appropriate sources for doing literature research. This includes the use
+of sites such as Scopus, WebOfScience or similar webpages which help in
+finding sources. To search for scientific literature, it is also
+necessary to know how to pose specific and helpful research questions.</p>
+</section>
+<section id="key-concepts">
+<h3>Key concepts<a class="headerlink" href="#key-concepts" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>How to break the research topic down to concepts,</p></li>
+<li><p>How to come up with synonyms and alternative terms for each concept,</p></li>
+<li><p>How to structure a search query (AND, OR, NOT, phrase searching
+[”…”] and truncation [*]),</p></li>
+<li><p>Scopus and Pubmed and demonstrate a query in these databases
+(mention also that other databases exist and provide link to list),</p></li>
+<li><p>Google Scholar and what are some potential things to consider about
+using it</p></li>
+<li><p>How to evaluate the results of a search and adapt it if necessary.</p></li>
+<li><p>Also how to cite references in papers.</p></li>
+</ul>
+</section>
+<section id="relevant-learning-goals">
+<h3>Relevant learning goals<a class="headerlink" href="#relevant-learning-goals" title="Permalink to this heading">#</a></h3>
+</section>
+</section>
+<section id="workshop-scientific-communication-critical-reading">
+<h2>Workshop Scientific Communication – Critical Reading<a class="headerlink" href="#workshop-scientific-communication-critical-reading" title="Permalink to this heading">#</a></h2>
+<section id="id1">
+<h3>Overview<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<p>The aim of the workshop <em>Scientific Communication – Critical Reading</em>
+is twofold: (1) introduce the characteristics of the scientific
+communication environment, and (2) provide guidelines for critically
+reading scientific texts.</p>
+<p>Related to the first aim, the typical features of the rhetorical situation of communication in and about science will be addressed. Various elements in a communicative environment, such as audience, context, and conventions, can influence textual and stylistic choices by writers. We will discuss various genres of scientific communication that students will regularly come across, such as the scientific journal paper.</p>
+<p>The second part of the workshop introduces critical reading as one of the first steps in both the research and writing process. Carrying out a critical literature review is an essential first step in the research process, of which scientific texts such as a research proposal or journal paper are an important part. This part of the workshop focuses on guidelines for critical reading of literature, to help students determine key information in relevant sources. It introduces the Scientific Argumentation Model, which is a helpful tool to systematically map scientific sources. Students will analyse and discuss critical examples of relevant papers and by recognizing helpful structural and stylistic elements to navigate such sources.</p>
+</section>
+<section id="id2">
+<h3>Key concepts<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Scientific communication: what is it?</p></li>
+<li><p>Genres in scientific communication</p></li>
+<li><p>How to read and interpret scientific sources</p></li>
+<li><p>Writing process (and the role of critical reading in the writing
+process)</p></li>
+</ul>
+</section>
+<section id="id3">
+<h3>Relevant learning goals<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Understand the elements of the scientific communication situation</p></li>
+<li><p>Know about various genres in scientific communication and their
+characteristics</p></li>
+<li><p>Understand the various stages of the writing process</p></li>
+<li><p>Understand essential elements and features of scientific texts for
+critical evaluation</p></li>
+<li><p>Analyse examples of scientific papers with the Scientific
+Argumentation Model</p></li>
+<li><p>Reflect on the value of information provided in scientific texts</p></li>
+</ul>
+</section>
+</section>
+<section id="group-activity-of-the-week">
+<h2>Group activity of the week<a class="headerlink" href="#group-activity-of-the-week" title="Permalink to this heading">#</a></h2>
+<p>This week’s group activity will tie in with the previous week – you
+will be asked to write a short pitch on your team. This should include
+element such as what skills and interests your team has, and what you
+are enthusiastic about doing.</p>
+<p>Useful resource for self-study:</p>
+<ul class="simple">
+<li><p>TU Present - module on pitch presentations</p></li>
+</ul>
+<p>(TU Present: Brightspace modules on various aspects of developing and
+giving a presentation, created by ITAV. Modules can easily be integrated
+into a CSBB minor Brightspace environment.)</p>
+</section>
+<section id="discussion-questions">
+<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>How does critical reading of sources differ to how you read other
+materials such as novels, magazines, and webslogs.</p></li>
+<li><p>How are you keeping track of what you’ve read so you can refer back to
+it?</p></li>
+<li><p>How do you share what you’ve read with others?</p></li>
+<li><p>What’s the most interesting thing you’ve learned this week?</p></li>
+<li><p>What did you find effective in good writing?</p></li>
+</ul>
+</section>
+<section id="references">
+<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>TU Write – Scientific Writing &gt;&gt; General strategies for
+scientific reading and writing &gt;&gt; 1. Reading strategies
+(Brightspace module)</p></li>
+<li><p>TU Write - Scientific Writing &gt;&gt; General strategies for scientific
+reading and writing &gt;&gt; 2. Writing strategies (writing process and
+writing styles)</p></li>
+<li><p>TU Write - Scientific Writing &gt;&gt; General strategies for scientific
+reading and writing &gt;&gt; 3. Scientific Argumentation Model</p></li>
+<li><p>TU Write - Scientific Writing &gt;&gt; The sections of a scientific
+paper &gt;&gt; The research question</p></li>
+<li><p>The TUDelft library has an extensive guide dedicated to providing
+you with support while doing literature research and writing
+literature reviews. Access it via the following
+<a class="reference external" href="https://tulib.tudelft.nl/searching-resources/">link</a> or by looking
+for “Searching &amp; Resources” on the TUDelft library website.</p></li>
+<li><p><a class="reference external" href="https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1771511/uiconf_id/32831942/entry_id/1_cccfqcjh/embed/dynamic">this
+video</a>
+created by the TU Delft Library which explains reference managers
+and how they’re used.</p></li>
+</ul>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./Quarter1"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="Week1_2.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Week 2: Understanding your crew</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="Week1_4.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Week 4: Exploring Questions</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-advanced-literature-search">Lecture Advanced Literature Search</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-scientific-communication-critical-reading">Workshop Scientific Communication – Critical Reading</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group activity of the week</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#references">References</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
