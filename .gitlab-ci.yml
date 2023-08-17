@@ -73,4 +73,4 @@ deploy-draft:
     - docker run -d -p 8002:8001 --name $CI_PROJECT_NAME-draft $TAG_DRAFT
   environment:
     name: draft
-    url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME
+    url: https://interactivetextbooks.citg.tudelft.nl/$CI_PROJECT_NAME-draft
