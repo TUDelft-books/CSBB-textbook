@@ -5,12 +5,13 @@
 
 -   Science Spotlight
 
--   Lecture on Stakeholders: what does it mean and why do we care?
+-   <a href=#lecture-reflection---what-do-we-know> Lecture on Stakeholders</a>: what does it mean and why do we care?
 
--   Workshop Stakeholder Panel
+-   <a href=#workshop-stakeholder-panels> Workshop Stakeholder Panel</a>
+
+-   Group activity: <a href=#group-activity-of-the-week> What do(n't) you know?</a>
 
 -   Friday Symposium
-
 ## Introduction and goals
 
 Stakeholder can be defined as someone who has an interest in the success
@@ -120,9 +121,9 @@ external stakeholders?
 - What is your strategy for considering people affected by your project,
 who don't have influence on it?
 
-## Weekly Submitted Assignments:
+## Weekly Submitted Assignments
 
-### Group:
+### Group
 Prepare an annotated list of your sources so far. What do you need to research still?
 
 ### Individual
