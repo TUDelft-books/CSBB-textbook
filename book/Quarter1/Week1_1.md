@@ -11,7 +11,7 @@ include picking a team name and picking a subtopic.
 
 ## Schedule
 
-The schedule this week includes:
+The schedule for the introduction week is quite full and complex. It includes:
 
 Monday: **Communication**
 

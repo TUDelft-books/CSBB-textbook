@@ -2,13 +2,15 @@
 :name: week3image
 ```
 # Week 3: Searching for Sources
+The scheduled components for week 3 include: 
 
+-   Science Spotlights
 
--   Science Spotlights (Monday)
+-   Lecture: <a href=#lecture-advanced-literature-search> Advanced literature search</a>
 
--   Lecture Advanced literature search (Library?)
+-   Workshop: <a href=#workshop-scientific-communication---critical-reading> Scientific Communication -- Critical Reading</a>
 
--   Workshop Scientific Communication -- Critical Reading
+-   Group activity: <a href=#group-activity-of-the-week> Writing a short pitch</a>
 
 -   Friday Symposium
 
@@ -75,11 +77,11 @@ necessary to know how to pose specific and helpful research questions.
 
 ### Relevant learning goals
 
-## Workshop Scientific Communication -- Critical Reading
+## Workshop Scientific Communication - Critical Reading
 
 ### Overview
 
-The aim of the workshop *Scientific Communication -- Critical Reading*
+The aim of the workshop *Scientific Communication - Critical Reading*
 is twofold: (1) introduce the characteristics of the scientific
 communication environment, and (2) provide guidelines for critically
 reading scientific texts.

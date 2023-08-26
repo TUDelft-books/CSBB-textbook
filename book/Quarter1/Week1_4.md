@@ -3,11 +3,13 @@
 ```
 # Week 4: Exploring Questions
 
--   Science Spotlight (Monday)
+-   Science Spotlight 
 
--   Lecture Reflection: Philosophy: What do we know?
+-   Lecture: <a href=#lecture-reflection---what-do-we-know> Reflection -- What do we know?</a>
 
--   Workshop Interviewing/Reflecting/Listening (ITAV partially)
+-   Workshop: <a href=#workshop-interviewing---asking-and-listening> Interviewing -- Asking and Listening</a>
+
+-   Group activity: <a href=#group-activity-of-the-week> Research Question</a>
 
 -   Friday Symposium
 

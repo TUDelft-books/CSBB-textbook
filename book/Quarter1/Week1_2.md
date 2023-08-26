@@ -2,12 +2,15 @@
 :name: week2image
 ```
 # Week 2: Understanding your crew
+The schedule componenents of week 2 are: 
 
--   Lecture What is transdiciplinarity (Monday)
+-   Lecture: <a href=#lecture-what-is-transdisciplinarity>What is transdiciplinarity</a>
 
--   Science Spotlight convergence flagships/supervisors/PhD (Monday)
+-   Science Spotlight
 
--   Workshop Perspectives and Values with the team
+-   <a href=#workshop-perspectives-and-values-with-the-team>Workshop perspectives and values with the team</a>
+
+-   Writing a <a href=#group-activity-of-the-week---team-contract> team contract</a>
 
 -   Friday Symposium
 
