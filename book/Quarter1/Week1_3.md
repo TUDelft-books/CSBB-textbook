@@ -8,7 +8,7 @@ The scheduled components for week 3 include:
 
 -   Lecture: <a href=#lecture-advanced-literature-search> Advanced literature search</a>
 
--   Workshop: <a href=#workshop-scientific-communication---critical-reading> Scientific Communication -- Critical Reading</a>
+-   Workshop: <a href=#workshop-scholarly-communication---critical-reading> Scientific Communication -- Critical Reading</a>
 
 -   Group activity: <a href=#group-activity-of-the-week> Writing a short pitch</a>
 
@@ -47,7 +47,6 @@ strategies to use.
     have already done part of this
 
 ## Lecture Advanced Literature Search
-
 ### Overview
 
 This workshop focusses on teaching participants how to effectively find
@@ -62,11 +61,9 @@ necessary to know how to pose specific and helpful research questions.
 
 -   How to come up with synonyms and alternative terms for each concept,
 
--   How to structure a search query (AND, OR, NOT, phrase searching
-    \["..."\] and truncation \[\*\]),
+-   How to structure a search query
 
 -   Scopus and Pubmed and demonstrate a query in these databases
-    (mention also that other databases exist and provide link to list),
 
 -   Google Scholar and what are some potential things to consider about
     using it
@@ -77,7 +74,7 @@ necessary to know how to pose specific and helpful research questions.
 
 ### Relevant learning goals
 
-## Workshop Scientific Communication - Critical Reading
+## Workshop Scholarly Communication - Critical Reading
 
 ### Overview
 
@@ -125,13 +122,15 @@ will be asked to write a short pitch on your team. This should include
 element such as what skills and interests your team has, and what you
 are enthusiastic about doing.
 
-Useful resource for self-study:
+Things to do: 
 
--   TU Present - module on pitch presentations
+- TU Present - module on pitch presentations (see Brightspace, week 3) 
 
-(TU Present: Brightspace modules on various aspects of developing and
-giving a presentation, created by ITAV. Modules can easily be integrated
-into a CSBB minor Brightspace environment.)
+ Create shared Mendeley reference library 
+
+- Create a strategy of how you’re going to research your project, what will be necessary and your timelines.  
+
+- Start narrowing your research question.  
 
 ## Discussion Questions
 
@@ -143,25 +142,32 @@ it?
 
 - How do you share what you've read with others?
 
-- What's the most interesting thing you've learned this week?
-
 - What did you find effective in good writing?
+
+## Weekly Submitted Assignments
+### Group
+Summary of your group's research strategy (1-2 pages)
+### Individual
+What's the most interesing thing you've learned this week? What made you wonder (1/2 page)
 
 ## References
 
--   TU Write -- Scientific Writing \>\> General strategies for
+TU Write - Scientific Writing (see Brightspace):
+
+-   Scientific Writing \>\> General strategies for
     scientific reading and writing \>\> 1. Reading strategies
     (Brightspace module)
 
--   TU Write - Scientific Writing \>\> General strategies for scientific
+-   Scientific Writing \>\> General strategies for scientific
     reading and writing \>\> 2. Writing strategies (writing process and
     writing styles)
 
--   TU Write - Scientific Writing \>\> General strategies for scientific
+-   Scientific Writing \>\> General strategies for scientific
     reading and writing \>\> 3. Scientific Argumentation Model
 
--   TU Write - Scientific Writing \>\> The sections of a scientific
-    paper \>\> The research question
+TU Present:  
+
+- Module Pitch presentations 
 
 -   The TUDelft library has an extensive guide dedicated to providing
     you with support while doing literature research and writing
