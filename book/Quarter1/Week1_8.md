@@ -11,34 +11,19 @@ Scheduled components of this week:
 
 -   Workshop: Critical editing/feedback
 
--   Consult hours with Martijn
+-   Consult hours
 
 -   Friday Symposium
 
 ## Introduction and goals
 
-Research only really "matters" if it is shared. How it is shared greatly
-influences its impact on the world and likelihood of getting funded. In
-previous weeks we've talked about what and why we want to share our
-ideas, in this week we'll focus on the how. The topic of week 8 is
-*Visualisation.*
+Research only really “matters” if it is shared. How it is shared greatly influences its impact on the world and likelihood of getting funded. In previous weeks we’ve talked about what and why we want to share our ideas, in this week we’ll focus on the how. The topic of week 8 is *Visualisation*.   
 
-Two workshops, one titled "Visual Communication" and one titled
-"Critical Editing and Feedback" will be given this week to help with the
-goal of effective conveying of ideas.
+Two workshops, one titled “Visual Communication” and one titled “Critical Editing and Feedback” will be given this week to help with the goal of effective conveying of ideas.   
 
-When presenting information, in addition to understanding the narrative
-elements, it's important to consider the visual elements. What is
-aesthetically pleasing, how much eye-catching is too much? Good design
-principles of using white space, fonts, images.
+When presenting information, in addition to understanding the narrative elements, it’s important to consider the visual elements. What is aesthetically pleasing, how much eye-catching is too much? Good design principles of using white space, fonts, images.  
 
-One of the most important writing/design skills is critical editing. If
-you become really skilled at editing you can edit your own work
-effectively, but it is always better to ask for help with this from
-others, especially when starting. And as a collaborator it's important
-to develop your editing skills so you can contribute to making
-presentations better. No design or written document is perfect and there
-is always room (though not always time) for improvement.
+One of the most important writing/design skills is critical editing. If you become really skilled at editing you can edit your own work effectively, but it is always better to ask for help with this from others, especially when starting. And as a collaborator it’s important to develop your editing skills so you can contribute to making presentations better. No design or written document is perfect and there is always room (though not always time) for improvement.  
 
 ## Workshop Visual Communication
 
@@ -72,17 +57,7 @@ presenting their own slides.
 
 ### Overview
 
-Collaborative writing in a team is a complex activity. It involves
-making clear agreements about the text, editing and giving feedback on
-each other's work. The ingredients and storyline of your research should
-now be in place, and it is time to turn the document into a coherent,
-clear and attractive text. This workshop focuses on effective strategies
-for giving feedback on and revising a collaborative document. Working
-with your draft research proposals, we will discuss how to
-constructively give feedback on someone else's text, how to trace style
-and readability issues with the 'read aloud' method and how to solve
-such readability issues. After the workshop, time is reserved for
-writing consultations.
+Collaborative writing in a team is a complex activity. It involves making clear agreements about the text, editing and giving feedback on each other’s work. The ingredients and storyline of your research should now be in place, and it is time to turn the document into a coherent, clear and attractive text. This workshop focuses on effective strategies for giving feedback on and revising a collaborative document. Working with your draft research proposals, we will discuss how to constructively give feedback on someone else’s text, how to trace style and readability issues with the ‘read aloud’ method and how to solve such readability issues. Furthermore, we will discuss how to ask for, receive and process constructive feedback. This involves accepting feedback on your text and determining what feedback is most valuable to process. After the workshop, time is reserved for writing consultations. 
 
 ### Key concepts 
 
@@ -101,12 +76,9 @@ writing consultations.
 
 ## Group activity of the week
 
-Finish draft of proposal. Get peer feedback on it, and consult with
-communications expert.
+Finish draft of proposal.  Get peer feedback on it and consult with communications expert. It is supposed to be only two pages long (excluding references). This means that you must write concisely and focus on the essential information. You may have to summarize many paragraphs. 
 
-Groups should have identified key text blocks and visuals they want to
-include on their poster, even if they haven't done the layout yet.
-
+Identify key text blocks and visuals you want to include on your poster. 
 ## Discussion Questions
 
 - When reading a paper or watching a presentation, how much attention do
@@ -123,10 +95,12 @@ group? To what extent could you more effectively write together?
 could you do better? When giving something to someone else to edit, what
 do you particularly want help on?
 
-### Writing Assignment: 
+## Writing Assignment
+### Group:
+Finish the draft of your proposal (2-3 pages)
 
-- What do you think is important in writing a paper with a group? How well
-are you doing those things? What\'s being challenging?
+### Individual
+What do you think is important in writing a paper with a group? How well are you doing those things? What has been or is being a challenge? (½ page)
 
 ## References
 
