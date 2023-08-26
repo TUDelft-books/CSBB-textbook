@@ -1,3 +1,6 @@
+```{figure} /images/Minor_Drawing.png
+:name: Minor_Drawing
+```
 # Welcome and Introduction
 
 Welcome to the textbook for the Collaborative Research for Biomedical
