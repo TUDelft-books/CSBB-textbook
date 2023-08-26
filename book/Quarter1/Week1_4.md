@@ -9,7 +9,7 @@
 
 -   Workshop: <a href=#workshop-interviewing---asking-and-listening> Interviewing -- Asking and Listening</a>
 
--   Group activity: <a href=#group-activity-of-the-week> Research Question</a>
+-   Group activity: <a href=#group-activity-starting-your-proposal> Research Question</a>
 
 -   Friday Symposium
 
@@ -33,25 +33,9 @@ question.
 ## Lecture: Reflection - What do we know? 
 
 ### Overview
+This lecture will teach students the importance of reflection and how to properly use it to improve their own research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind.  
 
-This lecture will teach students the importance of reflection, and how
-to properly use it to improve your own research and thinking. Reflection
-is a vital component of critical and independent thinking, and as such
-an important part of the scientific process. To better understand
-reflection, you will learn some of the philosophical backgrounds behind
-this technique, which was first described as the observation of internal
-operations of the mind.
-
-The main focus however should be on teaching techniques for reflection,
-and how to turn them into habits that will accompany them through any
-future research and scientific endeavour they are part of. They should
-also be sensitised to the presence of internal biases and assumptions,
-which have the ability to skew and influence any research. For such,
-common biases such as the confirmation bias, anchoring bias,
-availability heuristic, status quo bias or the misinformation effect
-(this list is not exhaustive) and how they can come back in research
-willbe explained, so that students will in the future be able to avoid
-and mitigate any such biases.
+The main focus, however, should be on teaching techniques for reflection and how to turn them into habits that will accompany them through any future research and scientific endeavour they are part of. They should also be sensitised to the presence of internal biases and assumptions, which have the ability to skew and influence any research. For such, common biases such as the confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will 
 
 ### Key concepts 
 
@@ -67,29 +51,13 @@ and mitigate any such biases.
 -   Different biases, how to recognise your own biases and how to avoid
     them
 
--   When to make assumptions, and which assumptions better not to make
-
-### Relevant learning goals
+-   When to make assumptions? Which assumptions are better not to make?
 
 ## Workshop: Interviewing - Asking and Listening
 
 ### Overview
 
-Interviewing is a useful method for gathering information on a research
-topic. A well-prepared conversation with stakeholders can lead to
-valuable insights into a study's societal relevance, approach or
-contributions. This workshop aims to prepare students for effectively
-conducting an interview. 
-
-First, effective preparation of the interview
-is addressed. Key focus is on formulating clear, open questions that
-invite interviewees to give informative answers, as well as prioritizing
-questions, keeping track of time and making agreements on how the
-information is used for research purposes. Second, students practice
-interviewing in class activities such as role plays; in challenging
-situations they practice effective listening, being able to adapt and
-respond to interviewees' answers while keeping an eye on the aim of the
-interview.
+Interviewing is a useful method for gathering information on a research topic. A well-prepared conversation with stakeholders can provide valuable insights into a study’s societal relevance, approach, or contributions. This workshop aims to prepare students for effectively conducting an interview. First, effective preparation of the interview is addressed. The key focus is on formulating clear, open questions that invite interviewees to give informative answers, as well as prioritizing questions, keeping track of time, and making agreements on how the information is used for research purposes. Second, students practice interviewing in-class activities such as role plays; in challenging situations, they practice effective listening, adapting and responding to interviewees’ answers while keeping an eye on the aim of the interview.  
 
 ### Key concepts
 
@@ -113,14 +81,9 @@ Students are able to:
 
 -   Deal with challenging situations during an interview
 
-## Group activity of the week 
+## Group activity: starting your proposal
 
-By week 4, groups should have a solid specific research question with
-preliminary ideas of how they might address it in a research project.
-This is called the hypothesis and will be part of your grant
-application.
-
--   What question are you focusing on for your project? Why?
+By week 4, groups should have a solid specific research question with preliminary ideas of how they might address it in a research project. This is called the hypothesis and will be part of your grant application.  Refer back to examples of proposals to see how it should be written.  
 
 ## Discussion Questions
 
@@ -128,6 +91,10 @@ application.
 
 - Do you have instances in your life where reflection has helped you
 resolve a problem or learn from an experience?
+
+- What advice for asking questions do you find most valuable and why?
+
+- What advice for asking do you find most valuable and why?
 
 - Listening\--what does it mean? What does it mean to feel heard? What
 does it mean to hear those around you?
@@ -137,12 +104,14 @@ does it mean to hear those around you?
 - Do you have tools you use to help you identify what you don't know you
 don't know?
 
-### Written assignment
+## Weekly Submitted Assignments:
+### Group
+What question are you focusing on for your proposal? (½ page)
 
--   What is challenging you in this minor? How are you addressing it?
+### Individual
+What is challenging you in this minor? How are you adressing it? (½ page)
 
-This will be useful to discuss next week in your one on one session with
-your supervisor to see what feedback they can give you.
+This will be useful to discuss next week in your one-on-one session with your supervisor to see what feedback they can give you.
 
 ## References
 
@@ -150,3 +119,5 @@ McGrath, C., Palmgren. P.J., & Liljedahl, M. (2019). Twelve tips for
 conducting qualitative research interviews. *Medical* Teacher, 41(9),
 1002-1006, DOI:
 [10.1080/0142159X.2018.1497149.](https://doi.org/10.1080/0142159X.2018.1497149)
+
+Ribbs, G.R. (2013). [How to do a research interview](https://www.youtube.com/watch?v=9t-_hYjAKww)
