@@ -1,12 +1,10 @@
 format: jb-book
-root: intro
+root: Introduction
 
 parts:
-  #- caption: Introduction and Overwiew
-   # chapters:
-    #- file: "minor structures"
-    #- file: "participants"
-    #- file: "Teacher training"
+  #- caption: Introduction
+    #chapters:
+   # - file: Introduction.md
   - caption: Quarter 1
     chapters:
     - file: Quarter1/Week1_1.md
@@ -19,12 +17,9 @@ parts:
     - file: Quarter1/Week1_8.md
     - file: Quarter1/Week1_9.md
     - file: Quarter1/Week1_10.md
-
-  - caption: Quarter 2
-    chapters:
-      - file: Quarter2/Week6.md
-  #  chapters:
-
- # - caption: Workshops
+  - caption: Contributors
+    chapters: 
+    - file: Credits.md
+ 
     
   
