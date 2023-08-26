@@ -1,10 +1,10 @@
 format: jb-book
-root: Introduction
+root: intro
 
 parts:
-  #- caption: Introduction
-    #chapters:
-   # - file: Introduction.md
+  - caption: Introduction
+    chapters:
+    - file: Introduction.md
   - caption: Quarter 1
     chapters:
     - file: Quarter1/Week1_1.md

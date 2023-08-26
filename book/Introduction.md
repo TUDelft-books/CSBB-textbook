@@ -1,7 +1,4 @@
-```{figure} /images/Minor_Drawing.png
-:name: Minor_Drawing
-```
-# Welcome and Introduction
+# Welcome
 
 Welcome to the textbook for the Collaborative Research for Biomedical
 Breakthroughs minor. This textbook was designed to guide supervisors,
