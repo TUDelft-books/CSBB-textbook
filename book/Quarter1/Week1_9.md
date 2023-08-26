@@ -7,9 +7,11 @@ The components of this week are:
 
 -   Science Spotlight
 
--   Workshop Poster Design
+-   Workshop: <a href=#workshop-poster-design> Poster Design </a>
 
--   Workshop Presenting -- Improv, Handling Questions and Stage Fright
+-   Workshop: <a href=#workshop-presenting-improv-handling-questions-and-stage-fright> Presenting -- Improv, Handling Questions and Stage Fright </a>
+
+- <a href=#group-activity-of-the-week> Group activity </a>
 
 -   Friday Symposium
 

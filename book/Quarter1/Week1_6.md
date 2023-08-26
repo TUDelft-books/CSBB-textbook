@@ -3,13 +3,17 @@
 ```
 # Week 6: Getting Money
 
--   Science Spotlight by Daan Brinks
+-   Science Spotlight
 
--   Lecture Research Funding (Innovation and Impact centre Delft?)
+-   Lecture: <a href=#lecture-research-funding> Research Funding </a>
 
--   Workshop Narratives (ITAV)
+-   Workshop: <a href=#workshop-narratives> Narratives </a>
+
+- <a href=#group-activity-of-the-week> Group activity </a>
 
 -   Friday Symposium
+
+
 ## Introduction and goals
 
 Research is expensive, especially lab based research involving high tech equipment, special materials, and people with specialized skills. And if you add animals the price gets even higher.  As we discussed last week there are financial stakeholders  funding research: including universities, governmental agencies, Industry, and special interest groups (foundations).  The pool of money is limited and the number of applications and projects is high. One of your jobs as a scientist is to convince funders to pay for your research to be done.  

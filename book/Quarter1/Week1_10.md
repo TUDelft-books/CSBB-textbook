@@ -7,7 +7,7 @@ Scheduled elements this week:
 
 - Practice symposium for the groups
 
-- Oral exam
+- Oral exam - <a href=#sample-oral-exam-questions> Sample Questions </a>
 
 - Final Symposium in conjunction with local scientific concerence
 

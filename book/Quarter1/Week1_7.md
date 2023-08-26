@@ -7,9 +7,11 @@ The scheduled components of this week are:
 
 -   Science Spotlight
 
--   Workshop Knowledge Utilization
+-   Workshop: <a href=#workshop-knowledge-utilization> Knowledge Utilization </a>
 
--   Workshop Grant Writing
+-   Workshop: <a href=#workshop-grant-writing> Grant Writing
+
+- <a href=#group-activity-of-the-week> Group activity </a>
 
 -   Friday Symposium
 

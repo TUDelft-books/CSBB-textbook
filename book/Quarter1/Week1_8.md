@@ -7,11 +7,11 @@ Scheduled components of this week:
 
 -   Science spotlight
 
--   Workshop: Visual communication
+-   Workshop: <a href=#workshop-visual-communication> Visual communication </a>
 
--   Workshop: Critical editing/feedback
+-   Workshop: <a href=#critical-editing-and-feedback> Critical editing and feedback </a>
 
--   Consult hours
+- <a href=#group-activity-of-the-week> Group activity </a>
 
 -   Friday Symposium
 
@@ -53,7 +53,7 @@ presenting their own slides.
 
 -   Students can present a slide with visual information in a clear way
 
-## Workshop Critical Editing/Feedback
+## Workshop Critical Editing and Feedback
 
 ### Overview
 
