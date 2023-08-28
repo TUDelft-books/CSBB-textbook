@@ -86,8 +86,7 @@ behaviour, agreement on deadlines and work processes, shared values. It
 should be developed by consensus such that everyone agrees to all parts
 of it. And it should be regularly updated as things change.
 
--   Write the group statement of shared values (the team contract). Link
-Write the group statement of shared values (the team contract). Link the students to where they can find the necessary resources. Please include photos of the 2D transactive memory (can be separate for values, knowledge, skills etc., for the sake of readability 
+-  Write the group statement of shared values (the team contract). Link the students to where they can find the necessary resources. Please include photos of the 2D transactive memory (can be separate for values, knowledge, skills etc., for the sake of readability) 
 
 - Read the example proposals on Brightspace to get ideas of what your proposal will need to include.  
 
@@ -109,10 +108,9 @@ them?
 ## Weekly Submitted Assignments:
 
 ### Group
-Group Chapter (1-2 pages)
+Group Charter (1-2 pages)
 ### Individual
-How does your background (cultural, educational, family) inform your
-perspectives?
+How does your background (cultural, educational, family) inform your perspectives?
 
 ## References
 

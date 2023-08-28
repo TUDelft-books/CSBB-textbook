@@ -4,7 +4,7 @@
 # Week 3: Searching for Sources
 The scheduled components for week 3 include: 
 
--   Science Spotlights
+-   Science Spotlight
 
 -   Lecture: <a href=#lecture-advanced-literature-search> Advanced literature search</a>
 

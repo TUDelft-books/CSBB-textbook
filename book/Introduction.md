@@ -133,10 +133,7 @@ grading is done in Brightspace for this course.
 
 # Weekly structure
 
-Each week (except the first and last of each quarter) during the minor
-consists of two half days of scheduled activities in the form of
-interactive lectures, workshops, science spotlights focused on
-developing skills and broad knowledge.
+Each week (except the first and last of each quarter) during the minor consists of two half days of scheduled activities in the form of interactive lectures, and workshops focused on developing skills and broad knowledge. There are also science spotlights to see what different people are doing in the field.
 
 In addition, students and supervisors will meet with their group on
 Thursdays to discuss progress. Friday will be the integration moment
@@ -247,3 +244,50 @@ Submission is mandatory to receive a final grade.
 
 This section will include links to references and resources that might
 be helpful this week.
+
+# Collaborative Science for Biomedical Breakthroughs (LDE)
+
+Learn Transdisciplinary Skills
+
+Do Research
+
+Explore new Fields
+
+This textbook is a collaborative effort and is still under development.
+If you have suggestions or questions about this minor or textbook,
+please send them to <minor-csbb@tudelft.nl>.
+
+## Writers and Editors include:
+
+Martijn Wackers, TU Delft, Faculty of Technology, Policy and Management,
+Centre for Language and Academic Skills (ITAV)
+
+Éva Kalmár, TU Delft, Faculty of Industrial Design Engineering,
+Department of Design, Organization and Strategy, previously at Faculty
+of Applied Sciences, Communication Design for Innovation
+
+Hegias Mira Bontenbal, Erasmus University-Rotterdam, Erasmus Medical
+Center, Development Biology
+
+Johanna Colgrove, TU Delft, Faculty of Applied Sciences, Department of
+Education & Student Affairs
+
+Hylkje Geertsema, TU Delft, Faculty of Applied Sciences, Department of
+Imaging Physics
+
+Dimphna Meijer, TU Delft, Faculty of Applied Sciences, Department of
+Bionanoscience
+
+Verena Zinschitz, TU Delft and Erasmus University-Rotterdam Nanobiology
+student
+
+Alin Mateescu, TU Delft and Erasmus University-Rotterdam Nanobiology
+student
+
+## Illustrations and graphics created by 
+
+Sandra Lousberg, RISBO
+
+Johanna Colgrove
+
+Polina Kairiūkštytė , Nanobiology Student

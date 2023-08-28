@@ -17,9 +17,7 @@ parts:
     - file: Quarter1/Week1_8.md
     - file: Quarter1/Week1_9.md
     - file: Quarter1/Week1_10.md
-  - caption: Contributors
-    chapters: 
-    - file: Credits.md
+
  
     
   
