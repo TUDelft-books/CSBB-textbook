@@ -1,10 +1,13 @@
+```{figure} ../images/week10.jpeg
+:name: week10image
+```
 # Week 10: Taking the Stage
 
 Scheduled elements this week:
 
 - Practice symposium for the groups
 
-- Oral exam
+- Oral exam - <a href=#sample-oral-exam-questions> Sample Questions </a>
 
 - Final Symposium in conjunction with local scientific concerence
 
@@ -50,6 +53,8 @@ questions below).
 -   What biases did you encounter during this project and how do you
     think they affected your project?
 
+- What questions do you have? (Students should be prepared to ask something) 
+
 ## Discussion Questions
 
 - What did you really enjoy?
@@ -62,9 +67,10 @@ questions below).
 
 - What are you excited about for next quarter?
 
-### Writing assignment
+## Weekly Submitted Assignments
+### Individual
 
-- What would you advise to the minor team to keep, discard and add for
+What would you advise to the minor team to keep, discard and add for
 next year? What will you keep, discard and build on from what you
 learned during the first half of the minor?
 

@@ -1,50 +1,34 @@
+```{figure} ../images/week9.jpeg
+:name: week9image
+```
 # Week 9: Dress Rehearsal
 
 The components of this week are:
 
--   Science Spotlight Katharina
+-   Science Spotlight
 
--   Workshop Poster Design (Monday)
+-   Workshop: <a href=#workshop-poster-design> Poster Design </a>
 
--   Workshop Presenting -- Improv, Handling Questions and Stage Fright
-    (Wednesday)
+-   Workshop: <a href=#workshop-presenting-improv-handling-questions-and-stage-fright> Presenting -- Improv, Handling Questions and Stage Fright </a>
+
+- <a href=#group-activity-of-the-week> Group activity </a>
 
 -   Friday Symposium
 
 ## Introduction and goals
 
-Many researchers and students are told "make a poster" and "give a
-presentation" with little guidance about how to do that. As with many
-things these are skills which can be taught and then practiced and
-improved. This week we're making sure you've got the skills. We'll start
-with a workshop on using InDesign for the technical skills of doing page
-layout and to make your posters look excellent.
+Many researchers and students are told “make a poster” and “give a presentation” with little guidance about how to do that. As with many things these are skills which can be taught and then practiced and improved.  This week we’re making sure you’ve got the skills.  We’ll start with a workshop on using Ia design programme for the technical skills of doing page layout and to make your posters look excellent.  
 
-The second workshop will be on the presentation piece, strategies for
-handling difficult questions, stagefright and a little theater
-improvisation to get you ready.
+The second workshop will be on the presentation piece, strategies for handling difficult questions, stagefright and a little theater improvisation to get you ready. 
 
 ## Workshop Poster Design
 
-Posters are important tools in academia/research - compact way of
-presenting information visually. Every discipline and subspecialities
-has research gatherings where scientists gather together to exchange
-ideas and information. They often consist of talks, and lots of
-opportunities for networking. They will also typically have some poster
-reception event especially for researchers to present their projects as
-a way to see a lot of different projects very quickly. Similar events
-happen in many professional fields as well.
-
-You will take the theory of what you have learned from constructing
-narratives and visualization workshops to design an effective poster in
-order to be able to explain and promote your idea.
-
 ### Overview
+Posters are important tools in academia/research - compact way of presenting information visually. Every discipline and subspecialities has research gatherings where scientists gather to exchange ideas and information. They often consist of talks, and lots of opportunities for networking. They will also typically have some poster reception event especially for researchers to present their projects as a way to see a lot of different projects very quickly.  Similar events happen in many professional fields as well.  
 
-### Key concepts 
-
+You will take the theory of what you have learned from constructing narratives and visualization workshops to design an effective poster you can use to explain and promote your idea.  
 ### Relevant learning goals
-
+Students are able to design a poster using design software 
 ## Workshop Presenting -- Improv, Handling Questions and Stage Fright 
 
 ### Overview
@@ -72,6 +56,8 @@ challenging questions and questioners.
 
 -   Students know about advice for effectively delivering a presentation
 
+- Students practice with engaging delivery skills
+
 -   Students gain insight into their personal presentation delivery
     style, strengths and points for improvement
 
@@ -84,7 +70,7 @@ challenging questions and questioners.
 
 -   Turn in final grant application to supervisor
 
--   Design poster and send for printing.
+-   Design poster and send for printing
 
 ## Discussion Questions
 
@@ -94,12 +80,16 @@ to prepare and lessen the worry.
 
 - What are you proud of in the work you've done this quarter?
 
-- What was your favorite thing to learn?
+- What was your favourite thing to learn?
 
-### Writing assignment:
+## Weekly submitted assigments
+### Group
+Submit your poster (A0 format)
 
-- What makes for a good presentation? How will you do that?
+Submit the final form of your proposal
+### Individual
+What makes for a good presentation? How will you prepare for that? (½ page)
 
 ## References
 
-TU Present -- Delivery module
+TU Present (see Brightspace) -- Delivery module
