@@ -5,12 +5,13 @@
 
 -   Science Spotlight
 
--   Lecture on Stakeholders: what does it mean and why do we care?
+-   <a href=#lecture-reflection---what-do-we-know> Lecture on Stakeholders</a>: what does it mean and why do we care?
 
--   Workshop Stakeholder Panels
+-   <a href=#workshop-stakeholder-panels> Workshop Stakeholder Panel</a>
+
+-   Group activity: <a href=#group-activity-of-the-week> What do(n't) you know?</a>
 
 -   Friday Symposium
-
 ## Introduction and goals
 
 Stakeholder can be defined as someone who has an interest in the success
@@ -36,37 +37,13 @@ expectations present.
 
 ### Overview
 
-Other than "what are they" and "why do we care about them", this lecture
-should help you answer more questions about the importance of
-stakeholders. We will talk about how to collaborate with them, and why
-they would collaborate with you, as well as what could break this
-relationship. At the end of this lecture, students should have an
-inventory of mindsets, epistemological standpoints and doctrines which
-help you build a good relationship with stakeholders.
+Besides “what are they” and “why do we care about them”, this lecture should help you answer more questions about the importance of stakeholders. We will discuss how to collaborate with them, why they would collaborate with you, and what could break this relationship. At the end of this lecture, students should have an inventory of mindsets, epistemological standpoints and doctrines, which help you build a good relationship with stakeholders. 
 
-This lecture will introduce the concept of stakeholders to students in a
-way that they can connect it to their project and actions. This means
-talking about topics such as what makes somebody a stakeholder and
-identifying different stakeholders in different projects and situations
-the students are in. An easy way to do this is by introducing this
-example with a simple example of a situation that all students have
-experienced where they were stakeholders, such as their own family, and
-what that entails.
+This lecture will introduce the concept of stakeholders to students so they can connect it to their projects and actions. This means discussing topics such as what makes somebody a stakeholder and identifying different stakeholders in different projects and situations the students are in. Students will actively map known and potential stakeholders for their own projects by using the Sailboat gamestorming method.   
 
-In regard to the presentations at the end of this minor, students will
-need to learn about how different types of audiences they will have (eg.
-supervisor, fellow students) are different stakeholders for their
-projects, and how that must influence the way they present their
-findings. Further, the characteristics of these audiences, such as along
-the scale of involved to less involved or how they process information,
-will be discussed.
+Regarding the presentations at the end of this minor, students will need to learn about how different types of audiences they will have (eg. supervisor, fellow students) are different stakeholders for their projects and how that should influence the way they present their findings. Furthermore, the characteristics of these audiences, such as along the scale of involved to less involved or how they process information, will be discussed. 
 
-This latter part also means that the students should learn some
-essential communication elements for presenting to and talking with an
-external but interested party. Keywords for this are speaker/writer,
-message, audience and context. Considering each of these is vital to for
-relaying information.
-
+This latter part also means that the students should learn some essential communication elements for presenting to and talking with an external but interested party. Keywords for this are speaker/writer, message, audience and context. Considering each of these is vital to for relaying information. 
 ### Key concepts 
 
 After this lecture, groups should be able to answer the following
@@ -108,14 +85,10 @@ questions when it comes to their own project:
 
 ## Workshop Stakeholder Panels
 
+### Overview
 This workshop will be a stakeholder panel. Students will ask questions.
 Panel members may include education experts, researchers, industry,
 patient advocates.
-
-### Overview
-
-### Key concepts 
-
 ### Relevant learning goals
 
 Understand different perspectives of why people engage or participate.
@@ -123,11 +96,7 @@ They're hopes and desires.
 
 ## Group activity of the week
 
-Your project should be coming along, and your background research should
-be nearing adequate stage.
-
--   Prepare an annotated list of your sources so far. Also include what
-    things you still need to research? What don't you know?
+Your project should be coming along, and your background research should be nearing adequate stage.  This is the time to assemble your sources.  Also analyse what things you still need to research.  What don’t you know? 
 
 ## Discussion Questions
 
@@ -152,9 +121,18 @@ external stakeholders?
 - What is your strategy for considering people affected by your project,
 who don't have influence on it?
 
-### Written assignment:
+## Weekly Submitted Assignments
 
--   How are the things that you are a stakeholder in related to your
-    sense of identity\--who you are? Who you want to be?
+### Group
+Prepare an annotated list of your sources so far. What do you need to research still?
+
+### Individual
+
+How are the things that you are a stakeholder in related to your sense of identity\--who you are? Who do you want to be? (½ page)
 
 ## References
+A handbook for [Stakeholder engagement](https://www.biodiversa.org/706/download) in research projects 
+
+A great example of stakeholder engagement: [Lisa ten Brug: ObeCity, How neighbourhood design can reduce childhood obesity](https://thecityateyelevel.com/app/uploads/2019/11/Obecity.pdf)
+
+An interesting video on [citizens’ involvement in science projects changing the way we do science](https://collegedoctoral.psl.eu/formation-doctorale/ethique-et-integrite-scientifique/sensibilisation-a-lhistoire-lepistemologie-et-lethique-des-sciences/how-radical-forms-of-citizens-participation-in-science-transforms-the-way-we-conduct-research/#vid1top)
