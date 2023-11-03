@@ -15,7 +15,7 @@ The schedule for the introduction week is quite full and complex. It includes:
 
 Monday: **Communication**
 
-- <a href=#intro-lecture-by-minor-director>Introduction lecture</a> where the structure of the minor, goals and
+-  <a href=#intro-lecture-by-minor-director>Introduction lecture</a> where the structure of the minor, goals and
     assessments will be introduced.
 
 -   <a href=#workshop-technical-tools>Technical Tools</a> - explanation and exploration of all the tools we

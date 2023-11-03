@@ -17,6 +17,18 @@ parts:
     - file: Quarter1/Week1_8.md
     - file: Quarter1/Week1_9.md
     - file: Quarter1/Week1_10.md
+  - caption: Quarter 2
+    chapters:
+    - file: Quarter2/Week2_1.md
+    - file: Quarter2/Week2_2.md
+    - file: Quarter2/Week2_3.md
+    - file: Quarter2/Week2_4.md
+    - file: Quarter2/Week2_5.md
+    - file: Quarter2/Week2_6.md
+    - file: Quarter2/Week2_7.md
+    - file: Quarter2/Week2_8.md
+    - file: Quarter2/Week2_9.md
+    - file: Quarter2/Week2_10.md
 
  
     
