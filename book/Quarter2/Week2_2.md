@@ -16,18 +16,18 @@ factors are important.
 
 This weeks topic is 'reproducibility'. The components are:
 
--   Lecture: Reproducibility (Monday)
+-   <a href=#lecture-reproducibility>Lecture: Reproducibility</a> (Monday)
 
 -   Science Spotlight
 
--   Workshop: Troubleshooting
+-   <a href=#workshop-troubleshooting>Workshop: Troubleshooting</a>
 
 ## Introduction and goals
 
 -   Explanation of what we want to achieve and why we are including this
     lecture & workshop
 
-## Lecture: Reproducibility
+## Lecture Reproducibility
 
 What are the necessary elements in reproducibility: keeping a good lab
 journal, writing clear and accurate methods, reading methods accurately
@@ -47,10 +47,10 @@ your lab journal?
 -   Some of the surprising variables that can effect
     reproducibility\--lots of examples of this though this is one of my
     favorites, also an excellent example of critical thinking:
-    [[Comparison of Trials Using Ivermectin for COVID-19 Between Regions
+    [Comparison of Trials Using Ivermectin for COVID-19 Between Regions
     With High and Low Prevalence of Strongyloidiasis: A Meta-analysis \|
     Infectious Diseases \| JAMA Network Open \| JAMA
-    Network]{.underline}](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
+    Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
 
 ### Key concepts
 
@@ -66,7 +66,7 @@ your lab journal?
 
 - Collaboration on experiments
 
-## Workshop: Troubleshooting
+## Workshop Troubleshooting
 
 Troubleshooting is foundational to experimental work, you try something,
 you figure out it didn't work the way you wanted, you figure out why, or

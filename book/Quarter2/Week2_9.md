@@ -11,11 +11,6 @@ cleanup and handoffs of your research materials.
 Other than a science spotlight there are no lectures and workshops this
 week so students have time to finish everything.
 
-## Introduction and goals
-
--   Explanation of what we want to achieve and why we are including this
-    lecture & workshop
-
 ## Group activity of the week
 
 All active research needs to be finalized this week.
@@ -39,13 +34,10 @@ research for someone else?
 - What happens when it all goes wrong?
 
 ## Weekly submitted Assignments
-
 ### Group
-
 Peer review of another group's paper
 
 ### Individual
-
 What would you tell your family or peers about this minor? How would you
 describe your experience in it?
 

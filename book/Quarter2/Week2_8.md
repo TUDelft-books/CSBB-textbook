@@ -29,13 +29,13 @@ presentation is a key component of professional development.
 
 This week:
 
--   Lecture: Collaborative Science
+-   <a href=#lecture-collaborative-science>Lecture: Collaborative Science</a>
 
 -   Science Spotlight
 
--   Workshop: Giving a Talk
+-   <a href=#workshop-giving-a-talk>Workshop: Giving a Talk</a>
 
-## Lecture: Collaborative Science
+## Lecture Collaborative Science
 
 ### Overview
 
@@ -55,14 +55,14 @@ We will discuss the following case study and academic article: 
 Case - [The Antibiotics Crisis: Exploring and Maintaining Partnership
 Models](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thecasecentre.org%2Fproducts%2Fview%3Fid%3D179246&data=05%7C01%7Ch.mirabontenbal%40erasmusmc.nl%7Ccc73eb777b454a994f9308dbcf58e0d3%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C638331752883113343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nP7LwEFI0xuqGRbAkeL2vem2zWCwj5MTbRg%2FTt9Sd%2Bk%3D&reserved=0)
 
-Article - Arslan, B., & Tarakci, M. (2022). Negative Spillovers Across
+Article - Arslan, B., & Tarakci, M. (2022). [Negative Spillovers Across
 Partnerships for Responsible Innovation: Evidence from the 2014 Ebola
-Outbreak. *Journal of Management Studies*, *59*(1),
-126-162. [https://doi.org/10.1111/joms.12607]{.underline}
+Outbreak](https://doi.org/10.1111/joms.12607). *Journal of Management Studies*, *59*(1),
+126-162. 
 
 ### Key concepts 
 
-## Collaborative science, relationship management, long-lasting partnerships
+Collaborative science, relationship management, long-lasting partnerships
 
 ### Relevant Learning Goals
 
@@ -73,10 +73,11 @@ At the end of this session, students are able to
 
 -   empathize with your partners.
 
-## Workshop: Giving a talk
+## Workshop Giving a talk
 
 In this workshop, you will work on your talk and practise delivering
-(parts) of it.\
+(parts) of it.
+
 It combines various communication skills we have already worked on:
 creating a compelling narrative, designing effective visuals, ensuring a
 clear and attractive delivery, active listening, and answering

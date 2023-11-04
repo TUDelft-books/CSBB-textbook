@@ -3,7 +3,6 @@
 ```
 
 # Week 2.1 CSBB---Finding Answers
-
 In this quarter we will journey through the implicit skills and
 knowledge that scientists need to know to do research projects. The
 fundamentals that apply in almost every scientific setting including lab
@@ -46,7 +45,6 @@ in quarter 1. The components of this week are:
 -   Symposium---new teams on the projects
 
 ## Lecture Welcome
-
 Overview of the plan for Q2 including what's included in assessments,
 structures and what they can expect.
 
@@ -55,7 +53,6 @@ specifically to Q2 (why are we doing this now as opposed to Q1? How does
 this quarter differ from Q1?)
 
 ## Lecture Sustainability in the Lab
-
 Doing biological science uses a LOT of resources from plastics for
 sterility to freezers running all the time to computers for large data
 analysis. What issues are there with sustainability in the lab? Sterile
@@ -65,19 +62,16 @@ into account when making decisions. What other sustainability issues
 should we be considering?
 
 ### Key concepts
-
 - Sustainability
 
 - Resource usage
 
 ### Relevant learning goals
-
 - Process of science
 
 - Ethics and reflection
 
 ## Lecture Research Group Roles
-
 Collaborative research groups have certain roles within them which
 change and flex as the project proceeds. But within a research lab there
 are a whole set of very formal research roles including PIs, postdocs,
@@ -87,7 +81,6 @@ joining a new lab can greatly improve your effectiveness when joining a
 lab.
 
 ### Key concepts
-
 - What are the different roles in a research group?
 
 - What are the strengths and weaknesses in this structure?
@@ -96,14 +89,12 @@ lab.
 
 - What are the needs of the various group members?
 
-### Relevant learning goals 
-
+### Relevant learning goals
 - Research Process
 
 - Career planning
 
 ## Workshop New Groups, New Projects
-
 A guided discussion on the projects and modifying teams. Teams must stay
 about equal size but students will decide who can best work on which
 project based on skills, desires and aptitudes with an overall goal of
@@ -113,7 +104,6 @@ Teams can pick a new name and will develop their plan for the full 10
 weeks.
 
 ### Key concepts
-
 - Time management
 
 - Resource allocation
@@ -121,7 +111,6 @@ weeks.
 - Making teams
 
 ### Relevant learning goals
-
 - Collaboration
 
 - Research
@@ -129,7 +118,6 @@ weeks.
 - Critical Thinking
 
 ## Lecture Budgeting in a lab
-
 In the world of scientific research, budgeting is an essential skill
 that ensures the smooth operation and sustainability of your laboratory.
 This lecture is tailored to equip you with the knowledge and strategies
@@ -148,7 +136,6 @@ chemicals? What are the costs of plasticware? Who pays for conferences
 that scientists attend?
 
 ### Key concepts
-
 -   Budget: Understanding how to distribute your budget across research
     projects, personnel, equipment, and supplies is vital for achieving
     research goals efficiently.
@@ -163,7 +150,6 @@ that scientists attend?
     sustainability.
 
 ### Relevant learning goals
-
 Student will understand the basic principles and concepts of budgeting
 as they apply to laboratory management, including the creation of a
 budget, revenue sources, etc.
@@ -173,25 +159,20 @@ spending to align with research goals and ensure optimal utilization of
 funds.
 
 ## Workshop Lab Safety
-
 Get to know a lab / computer / research environment;
 
 ### Overview
-
 For those unfamiliar with working in a lab environment, this workshop
 will go through basic lab safety, in part so that as a collaborator
 visiting a lab, you don't do something dangerous or destructive.
 
 ### Key concepts
-
 Etiquette in a lab.
 
 ### Relevant learning goals
-
 Understanding a research lab environment.
 
 ## Lecture CNS Drug Development Process
-
 Not all projects have a drug development component, but if working in
 biomedical research, it's important for a researcher to understand what
 the process is in new developments. This can help you develop that long
@@ -208,21 +189,17 @@ This lecture will particularly focus on Central Nervous System drug
 development which has many unique aspects to it and considerations.
 
 ### Key concepts
-
 Research process of drug design.
 
-### Relevant learning goals 
-
+### Relevant learning goals
 Understanding processes of different kinds of research.
 
 ## Group activity of the week
-
 This week groups will move quickly to adjust their groups and select their focus project. Students and supervisors will discuss the projects and how best to allocate resources (students and supervisors) to ensure that all projects are successful. Multi-center collaboration if you will.
 
 With your team, make research plan and new or updated team contract.
 
 ## Discussion Questions
-
 - How does your new group contract differ from the one with your old group?
 
 - Why do you think these differences are there?
@@ -238,13 +215,10 @@ With your team, make research plan and new or updated team contract.
 - What are you excited about in this next stage of the project?
 
 ## Weekly submitted Assignments
-
 ### Group
-
 Submit team name and project plan draft.
 
 ### Individual
-
 What are your learning goals for the next 10 weeks? What skills do you hope to improve?
 
 # References

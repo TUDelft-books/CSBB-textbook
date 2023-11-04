@@ -2,22 +2,19 @@
 :name: week2_3image
 ```
 # Week 2.3 Institutional Review Process
-
 The components of this week include:
 
--   Lecture: Institutional Review Process
+-   <a href=#lecture-institutional-review-process>Lecture: Institutional Review Process</a>
 
 -   Science Spotlights
 
--   Workshop: Critical Thinking as a Scientist
+-   <a href=#workshop-critical-thinking-as-a-scientist>Workshop: Critical Thinking as a Scientist</a>
 
 ## Introduction and goals
-
 -   Explanation of what we want to achieve and why we are including this
     lecture & workshop
 
-## Lecture: Institutional Review Process
-
+## Lecture Institutional Review Process
 Many research projects, especially in biomedical sciences will have an
 institutional review process for ethical and safety considerations. This
 includes reviews for human and animal research to make sure it's done
@@ -32,7 +29,6 @@ look for when joining a new project to ensure it's one that you
 ethically want to be part of.
 
 ### Key concepts
-
 -   The process of obtaining a license for animal research
 
 -   Training of the responsible personnnel who can work with research
@@ -45,7 +41,6 @@ ethically want to be part of.
 -   Alternatives to animal research
 
 ### Relevant learning goals
-
 -   Understanding the legal requiremnts for performing animal reserach
     in NL
 
@@ -55,8 +50,7 @@ ethically want to be part of.
 -   Being able to explain alternatives to animal research -- their
     advantages and shortcomings
 
-## Workshop: Critical Thinking as a Scientist 
-
+## Workshop Critical Thinking as a Scientist 
 Critical thinking is often about problem solving. Why isn't this thing
 you've planned out working. What are some of the factors that can
 contribute to failures, better known as unexpected results.  How do you
@@ -68,7 +62,6 @@ doing?  This will build on the previous week's workshop on
 troubleshooting.
 
 ### Key concepts
-
 -   Taking the time
 
 -   Conflicts in it
@@ -76,7 +69,6 @@ troubleshooting.
 -   Emotions in it.
 
 ### Relevant learning goals
-
 - Critical Thinking
 
 - Research process
@@ -84,13 +76,11 @@ troubleshooting.
 - Collaboration
 
 ## Group activity of the week
-
 Students will begin work on their research project. They should continue
 to read articles that will help inform their project as they go.
 Beginning to gather data, consider necessary changes.
 
 ## Discussion Questions
-
 -   Why do we do animal research? Why shouldn't we?
 
 -   What are things to consider when using animal models?
@@ -121,15 +111,13 @@ Beginning to gather data, consider necessary changes.
 -   How does this project connect with other projects?
 
 ## Weekly submitted Assignments
-
 ### Group
-
 - Does your project potentially need any institutional review? What kind?
 
 - What could change in your project to change that answer?
 
+- Assignment 2: submit the name of the journal you have identified for publication, and the submission guidelines (This can be a URL).  
 ### Individual
-
 - What do you think is important in the institutional review process? Why is it necessary?
 
 ## References

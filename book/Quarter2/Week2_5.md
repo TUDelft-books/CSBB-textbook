@@ -2,7 +2,7 @@
 :name: week2_5image
 ```
 
-# Week 5: Data Analysis Theory 
+# Week 2.5: Data Analysis Theory 
 
 One core piece of science is collecting data (see last week) and then
 analysing it. This week we'll focus on considerations in analysing. It's
@@ -15,13 +15,13 @@ The workshop will start the writing process for your paper.
 
 Components this week are:
 
--   Lecture: Data Analysis Theory
+-   <a href=#lecture-data-analysis-theory>Lecture: Data Analysis Theory</a>
 
--   Workshop: writing an abstract
+-   <a href=#workshop-writing-an-abstract>Workshop: writing an abstract</a>
 
 -   Science Spotlights
 
-## Lecture: Data Analysis Theory
+## Lecture Data Analysis Theory
 
 What to consider when analysing data. Different kinds of analysis and
 what they can show or hide. Also useful to think about this when reading
@@ -38,7 +38,7 @@ did, and the visualization they did.
 
 ### Relevant learning goals 
 
-## Workshop: Writing an abstract
+## Workshop Writing an abstract
 
 You've now read a lot of abstracts and it's time to write one. In this
 workshop you'll be guided through writing one. The abstract is an
@@ -115,4 +115,4 @@ abstracts later with your group).
 
 ## References
 
-Silyn-Roberts, H. (2013). *Chapter 3:* A*n Abstract, a Summary, an Executive Summary.* In *Writing for Science and Engineering*. 2^nd^ ed. Elsevier, pp. 53-61. Available [here](https://www.sciencedirect.com/science/article/pii/B9780080982854000030) (if required, login using your TU Delft NetID).
+Silyn-Roberts, H. (2013). *Chapter 3:* A*n Abstract, a Summary, an Executive Summary.* In *Writing for Science and Engineering*. 2nd ed. Elsevier, pp. 53-61. Available [here](https://www.sciencedirect.com/science/article/pii/B9780080982854000030) (if required, login using your TU Delft NetID).

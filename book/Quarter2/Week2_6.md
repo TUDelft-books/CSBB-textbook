@@ -3,7 +3,6 @@
 ```
 
 # Week 2.6 Biases and Papers
-
 This week will focus on two slightly separate but equally important
 aspects of science. Bias and paper writing.
 
@@ -22,14 +21,13 @@ writing a publishable paper.
 
 Components this week are:
 
--   Workshop: Unconscious Bias -- In Science and Personal
+-   <a href=#workshop-unconscious-bias-in-science-and-personal>Workshop: Unconscious Bias -- In Science and Personal</a>
 
--   Workshop: Paper Writing
+-   <a href=#workshop-paper-writing>Workshop: Paper Writing</a>
 
 -   Science Spotlights
 
-## Workshop: Unconscious Bias -- in Science and Personal
-
+## Workshop Unconscious Bias -- in Science and Personal
 People make judgements about other people, themselves, science. Besides
 objective facts there are a whole range of additional ways in which we
 make judgements, they are influenced by culture, identity, values, human
@@ -39,7 +37,6 @@ them. Who's in control of your decisions---your intellect and values or
 your biases?
 
 ### Key concepts
-
 Types of Cognitive biases (so many ways to categorize them)
 
 -   Overconfidence
@@ -75,7 +72,6 @@ Types of Unconscious Biases
 -   Disabilities
 
 ### Key Concepts
-
 - Understanding different types of biases
 
 - The ways it affects who is in science
@@ -89,7 +85,6 @@ Types of Unconscious Biases
 - How to counteract them?
 
 ### Relevant learning goals
-
 - Collaboration
 
 - Communication
@@ -98,10 +93,7 @@ Types of Unconscious Biases
 
 - Reflection
 
-## Workshop: Paper Writing
-
-Overview
-
+## Workshop Paper Writing
 In this hands-on workshop, students will work on their research paper.
 At the same time, we will discuss and apply guidelines and strategies
 for writing clear papers on three levels:
@@ -129,18 +121,15 @@ paper and have determined a strategy for finishing their (draft) paper.
 - Academic style and language
 
 ### Relevant learning goals
-
 Communication
 
 # Group activity of the week
-
 Keep on researching and reading and writing. Check how your biases are
 affecting your research and if that's the decision you want.
 
 Make a writing plan for how you'll finish your paper.
 
 ## Discussion Questions
-
 - Why do we worry about biases?
 
 - Where do they start?
@@ -155,9 +144,7 @@ examples?
 - How are biases showing up in our projects?
 
 ## Weekly submitted Assignments
-
 ### Group
-
 Hand in the writing plan for your paper:
 
 -   Which tasks need to be done?
@@ -169,36 +156,35 @@ Hand in the writing plan for your paper:
 -   How will you edit and evaluate each other's work?
 
 ### Individual
-
 What kinds of biases do you most struggle with? What strategies do you
 plan to use going forward to control their effect?
 
 ## References
-
 [What Is Unconscious Bias (And How You Can Defeat It) \| Psychology
 Today](https://www.psychologytoday.com/us/blog/intentional-insights/202007/what-is-unconscious-bias-and-how-you-can-defeat-it)
-<https://www.psychologytoday.com/us/blog/intentional-insights/202007/what-is-unconscious-bias-and-how-you-can-defeat-it>
+
 
 [What is Unconscious Bias? --- Unconscious Bias
 Project](https://www.unconsciousbiasproject.org/resources/explain-unconscious-bias)
-<https://www.unconsciousbiasproject.org/resources/explain-unconscious-bias>
+
 
 [Implicit Bias in STEM \| Academic Affairs & Diversity
 (columbia.edu)](https://diversity.ldeo.columbia.edu/implicitbias)
-<https://diversity.ldeo.columbia.edu/implicitbias>
+
 
 [How Implicit Bias and Lack of Diversity Undermine Science - Scientific
 American Blog
 Network](https://blogs.scientificamerican.com/voices/how-implicit-bias-and-lack-of-diversity-undermine-science/)
-<https://blogs.scientificamerican.com/voices/how-implicit-bias-and-lack-of-diversity-undermine-science/>
+
 
 Silyn-Roberts, H. (2013). *Writing for Science and Engineering*. 2nd ed.
 Elsevier. Available
 [here](https://www.sciencedirect.com/science/article/pii/B9780080982854000236)
-(if required, login using your TU Delft NetID).\
+(if required, login using your TU Delft NetID).
+
 - [Chapter 6: A Journal Paper\
-](https://www.sciencedirect.com/science/article/pii/B9780080982854000066#c0006)-
-[Chapter 17: Revising\
-](https://www.sciencedirect.com/science/article/pii/B9780080982854000170#c0017)-
-[Chapter 18: Problems of Style: Recognising and Correcting
+](https://www.sciencedirect.com/science/article/pii/B9780080982854000066#c0006)
+- [Chapter 17: Revising\
+](https://www.sciencedirect.com/science/article/pii/B9780080982854000170#c0017)
+- [Chapter 18: Problems of Style: Recognising and Correcting
 Them](https://www.sciencedirect.com/science/article/pii/B9780080982854000182#c0018)

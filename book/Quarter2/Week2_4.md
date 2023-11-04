@@ -31,13 +31,13 @@ for the data that can be publicly shared.
 
 This week we'll focus on:
 
--   Lecture: Data Management and Data Privacy
+-  <a href=#lecture-data-management-and-privacy>Lecture: Data Management and Data Privacy</a>
 
 -   Science Spotlights
 
--   Workshop: Data\--Repositories, Management, and Documentation
+-   <a href=#workshop-data-repositories-management-and-documentation>Workshop: Data Repositories, Management and Documentation</a>
 
-## Lecture: Research Data Management and Data Privacy 
+## Lecture Data Management and Privacy 
 
 Research depends on data we collect, store and analyse. Before any
 researcher gets started they need a plan for how they'll manage their
@@ -82,7 +82,7 @@ video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 -   List the main components of the FAIR data principles and connect
     them to your own research workflows.
 
-## Workshop: Data\--Repositories, Management, and Documentation
+## Workshop Data Repositories, Management and Documentation
 
 During the workshop we will first explore in more detail what a Data
 Repository is, as well as how to find the ones relevant to your research
@@ -164,32 +164,31 @@ to do research?
 
 -   Markowetz, Florian. 2015. "Five Selfish Reasons to Work
     Reproducibly." Genome Biology 16 (1).
-    [[https://doi.org/10.1186/s13059-015-0850-7]{.underline}](https://doi.org/10.1186/s13059-015-0850-7).
-    (or watch a [[50 min
-    presentation]{.underline}](https://youtu.be/1Y_oIjlH-yg?t=355) about
+    [https://doi.org/10.1186/s13059-015-0850-7](https://doi.org/10.1186/s13059-015-0850-7).
+    (or watch a [50 min
+    presentation](https://youtu.be/1Y_oIjlH-yg?t=355) about
     this paper)
 
--   [[Managing Sensitive Data
-    Projects]{.underline}](https://the-turing-way.netlify.app/project-design/sdpm)
+-   [Managing Sensitive Data
+    Projects](https://the-turing-way.netlify.app/project-design/sdpm)
     (The Turing Way)
 
--   [[Data Management
-    Plans]{.underline}](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)
+-   [Data Management
+    Plans](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-dmp.html)
     (The Turing Way)
 
--   [[Slides with Research Data Management
-    questions]{.underline}](https://surfdrive.surf.nl/files/index.php/s/KiQo8RsVXHPHUUp)
+-   [Slides with Research Data Management
+    questions](https://surfdrive.surf.nl/files/index.php/s/KiQo8RsVXHPHUUp)
     you can ask yourself at each research steps.
 
--   [[5 minute video: What is a Data Management
-    Plan]{.underline}](https://www.youtube.com/watch?v=28rTTRFDq58)
+-   [5 minute video: What is a Data Management
+    Plan](https://www.youtube.com/watch?v=28rTTRFDq58)
 
--   [[TU Delft Information about
-    privacy]{.underline}](https://www.tudelft.nl/en/privacy-security/privacy/))
+-   [TU Delft Information about
+    privacy](https://www.tudelft.nl/en/privacy-security/privacy/)
 
--   [[FAIR
-    principles]{.underline}](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html)
+-   [FAIR
+    principles](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html)
 
--   [[Data Management Sections for grant proposals
-    (tudelft.nl)]{.underline}](https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals)
-    [[https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals]{.underline}](https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals)
+-   [Data Management Sections for grant proposals
+    (tudelft.nl)](https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals)
