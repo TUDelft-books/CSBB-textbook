@@ -2,7 +2,7 @@
 :name: week2_6image
 ```
 
-# Week 2.6 Biases and Papers
+# Week 2.6: Biases and Papers
 This week will focus on two slightly separate but equally important
 aspects of science. Bias and paper writing.
 
@@ -21,13 +21,15 @@ writing a publishable paper.
 
 Components this week are:
 
--   <a href=#workshop-unconscious-bias-in-science-and-personal>Workshop: Unconscious Bias -- In Science and Personal</a>
+-   Workshop: <a href=#workshop-unconscious-bias-in-science-and-personal>Unconscious Bias -- In Science and Personal</a>
 
--   <a href=#workshop-paper-writing>Workshop: Paper Writing</a>
+-   Workshop: <a href=#workshop-paper-writing>Paper Writing</a>
 
 -   Science Spotlights
 
-## Workshop Unconscious Bias -- in Science and Personal
+-   <a href=#group-activity-of-the-week> Group Activity </a>
+
+## Workshop: Unconscious Bias -- in Science and Personal
 People make judgements about other people, themselves, science. Besides
 objective facts there are a whole range of additional ways in which we
 make judgements, they are influenced by culture, identity, values, human
@@ -36,7 +38,7 @@ level, they are unavoidable, but they are examinable and we can change
 them. Who's in control of your decisions---your intellect and values or
 your biases?
 
-### Key concepts
+### Key Concepts
 Types of Cognitive biases (so many ways to categorize them)
 
 -   Overconfidence
@@ -84,7 +86,7 @@ Types of Unconscious Biases
 
 - How to counteract them?
 
-### Relevant learning goals
+### Relevant Learning Goals
 - Collaboration
 
 - Communication
@@ -93,7 +95,7 @@ Types of Unconscious Biases
 
 - Reflection
 
-## Workshop Paper Writing
+## Workshop: Paper Writing
 In this hands-on workshop, students will work on their research paper.
 At the same time, we will discuss and apply guidelines and strategies
 for writing clear papers on three levels:
@@ -113,17 +115,17 @@ for writing clear papers on three levels:
 At the end of the workshop, students will have written parts of their
 paper and have determined a strategy for finishing their (draft) paper.
 
-### Key concepts
+### Key Concepts
 - Elements of a research paper 
 
 - Scientific storyline (section and paragraph level)
 
 - Academic style and language
 
-### Relevant learning goals
+### Relevant Learning Goals
 Communication
 
-# Group activity of the week
+## Group Activity of the Week
 Keep on researching and reading and writing. Check how your biases are
 affecting your research and if that's the decision you want.
 
@@ -143,7 +145,7 @@ examples?
 
 - How are biases showing up in our projects?
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 ### Group
 Hand in the writing plan for your paper:
 

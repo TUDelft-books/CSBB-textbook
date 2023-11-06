@@ -16,18 +16,15 @@ factors are important.
 
 This weeks topic is 'reproducibility'. The components are:
 
--   <a href=#lecture-reproducibility>Lecture: Reproducibility</a> (Monday)
+-   Lecture: <a href=#lecture-reproducibility>Reproducibility</a> (Monday)
 
 -   Science Spotlight
 
--   <a href=#workshop-troubleshooting>Workshop: Troubleshooting</a>
+-   Workshop: <a href=#workshop-troubleshooting>Troubleshooting</a>
 
-## Introduction and goals
+-   <a href=#group-activity-of-the-week> Group Activity </a>
 
--   Explanation of what we want to achieve and why we are including this
-    lecture & workshop
-
-## Lecture Reproducibility
+## Lecture: Reproducibility
 
 What are the necessary elements in reproducibility: keeping a good lab
 journal, writing clear and accurate methods, reading methods accurately
@@ -52,13 +49,13 @@ your lab journal?
     Infectious Diseases \| JAMA Network Open \| JAMA
     Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
 
-### Key concepts
+### Key Concepts
 
 - Lab journal plan
 
 - Exploration of all the things that might affect your results.
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 - Clear communication of research methods
 
@@ -66,7 +63,7 @@ your lab journal?
 
 - Collaboration on experiments
 
-## Workshop Troubleshooting
+## Workshop: Troubleshooting
 
 Troubleshooting is foundational to experimental work, you try something,
 you figure out it didn't work the way you wanted, you figure out why, or
@@ -92,7 +89,7 @@ collaborators can be a great way to troubleshoot.
 
 - What are all the things that could be affecting it
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 - Collaboration
 
@@ -100,7 +97,7 @@ collaborators can be a great way to troubleshoot.
 
 - Critical Thinking
 
-## Group activity of the week
+## Group Activity of the Week
 
 - Develop research strategy for the project---how do you turn a two page
     proposal into a step by step plan?
@@ -135,7 +132,7 @@ collaborators can be a great way to troubleshoot.
 
 - How do you take into account your blind spots?
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 
 ### Group
 

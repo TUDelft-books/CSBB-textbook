@@ -1,18 +1,18 @@
 ```{figure} ../images/week5.jpeg
 :name: week5image
 ```
-# Week 5: Stakeholders 
+# Week 1.5: Stakeholders 
 
 -   Science Spotlight
 
--   <a href=#lecture-reflection---what-do-we-know> Lecture on Stakeholders</a>: what does it mean and why do we care?
+-   Lecture: <a href=#lecture-stakeholders> Stakeholders</a>: what does it mean and why do we care?
 
--   <a href=#workshop-stakeholder-panels> Workshop Stakeholder Panel</a>
+-   Workshop: <a href=#workshop-stakeholder-panels> Stakeholder Panel</a>
 
--   Group activity: <a href=#group-activity-of-the-week> What do(n't) you know?</a>
+-   Group Activity: <a href=#group-activity-of-the-week> What do(n't) you know?</a>
 
 -   Friday Symposium
-## Introduction and goals
+## Introduction and Goals
 
 Stakeholder can be defined as someone who has an interest in the success
 of something. This includes the people working on it, paying for it, and
@@ -33,7 +33,7 @@ aware of who they are and how they impact your research and actions can
 help you to produce a result that best fits the circumstances and
 expectations present.
 
-## Lecture Stakeholders
+## Lecture: Stakeholders
 
 ### Overview
 
@@ -83,7 +83,7 @@ questions when it comes to their own project:
 
 -   Students know how to present information to stakeholders
 
-## Workshop Stakeholder Panels
+## Workshop: Stakeholder Panels
 
 ### Overview
 This workshop will be a stakeholder panel. Students will ask questions.

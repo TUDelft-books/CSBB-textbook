@@ -2,7 +2,7 @@
 :name: week2_4image
 ```
 
-# Week 2.4 Data Management
+# Week 2.4: Data Management
 
 In any research project it's important to have a plan for how you will
 store and manage your data. Data Management is important to ensure that
@@ -31,13 +31,15 @@ for the data that can be publicly shared.
 
 This week we'll focus on:
 
--  <a href=#lecture-data-management-and-privacy>Lecture: Data Management and Data Privacy</a>
+-  Lecture: <a href=#lecture-data-management-and-privacy>Data Management and Data Privacy</a>
 
 -   Science Spotlights
 
--   <a href=#workshop-data-repositories-management-and-documentation>Workshop: Data Repositories, Management and Documentation</a>
+-   Workshop: <a href=#workshop-data-repositories-management-and-documentation>Data Repositories, Management and Documentation</a>
 
-## Lecture Data Management and Privacy 
+-   <a href=#group-activity-of-the-week> Group Activity </a>
+
+## Lecture: Data Management and Privacy 
 
 Research depends on data we collect, store and analyse. Before any
 researcher gets started they need a plan for how they'll manage their
@@ -57,7 +59,7 @@ Song](https://twitter.com/rafamoral/status/1571622591219236864) or the
 [Zheng Lab - Bad Project
 video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 
-### Key concepts
+### Key Concepts
 
 -   The advantages of Research Data Management
 
@@ -70,7 +72,7 @@ video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 
 -   A Data Availability Statement?
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Realise the important role that good data management plays in
     research, especially for personal data.
@@ -82,7 +84,7 @@ video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 -   List the main components of the FAIR data principles and connect
     them to your own research workflows.
 
-## Workshop Data Repositories, Management and Documentation
+## Workshop: Data Repositories, Management and Documentation
 
 During the workshop we will first explore in more detail what a Data
 Repository is, as well as how to find the ones relevant to your research
@@ -97,7 +99,7 @@ share it in a data repository, we will go over an exercise that will
 demonstrate the importance of proper documentation. The lessons learned
 can also be included in your project's Data Management Plan!
 
-### Key concepts
+### Key Concepts
 
 -   What are data repositories?
 
@@ -106,7 +108,7 @@ can also be included in your project's Data Management Plan!
 -   What is the importance of communication/documentation regarding data
     in research projects?
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Contribute to documentation about data in a manner that is
     understandable to peers
@@ -114,7 +116,7 @@ can also be included in your project's Data Management Plan!
 -   Design a research data management strategy for your projects via the
     Data Management Plan
 
-## Group activity of the week
+## Group Activity of the Week
 
 Continue working on with your research overall, special focus this week
 is on your data.
@@ -145,7 +147,7 @@ is on your data.
 
 - What data do you wish you had available?
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 
 ### Group
 

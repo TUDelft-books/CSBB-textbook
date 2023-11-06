@@ -1,7 +1,7 @@
 ```{figure} ../images/week10.jpeg
 :name: week10image
 ```
-# Week 10: Taking the Stage
+# Week 1.10: Taking the Stage
 
 Scheduled elements this week:
 
@@ -9,11 +9,11 @@ Scheduled elements this week:
 
 - Oral exam - <a href=#sample-oral-exam-questions> Sample Questions </a>
 
-- Final Symposium in conjunction with local scientific concerence
+- Final Symposium (in conjunction with local scientific concerence)
 
-- Final reflection symposium
+- Final Reflection Symposium
 
-## Introduction and goals
+## Introduction and Goals
 
 Every project has an end point whether you're ready or not. And a reveal
 moment when researchers show what they've learned with others and talk
@@ -28,7 +28,7 @@ The week also includes an oral exam with their supervisor (see sample
 questions below) and a final reflection symposium (see discussion
 questions below).
 
-## Group activity of the week
+## Group Activity of the Week
 
 -   Presenting poster twice in two diffferent contexts.
 

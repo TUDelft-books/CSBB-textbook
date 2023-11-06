@@ -4,7 +4,7 @@
 
 # Week 2.8: Collaborating and Communicating
 
-## This week is a combination of collaboration and communication. 
+This week is a combination of collaboration and communication. 
 
 In our interconnected world, collaborative partnerships have become
 indispensable in professional spheres. Collaborative partnerships allow
@@ -29,13 +29,15 @@ presentation is a key component of professional development.
 
 This week:
 
--   <a href=#lecture-collaborative-science>Lecture: Collaborative Science</a>
+-   Lecture: <a href=#lecture-collaborative-science>Collaborative Science</a>
 
 -   Science Spotlight
 
--   <a href=#workshop-giving-a-talk>Workshop: Giving a Talk</a>
+-   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
 
-## Lecture Collaborative Science
+-   <a href=#group-activity-of-the-week> Group Activity </a>
+
+## Lecture: Collaborative Science
 
 ### Overview
 
@@ -60,7 +62,7 @@ Partnerships for Responsible Innovation: Evidence from the 2014 Ebola
 Outbreak](https://doi.org/10.1111/joms.12607). *Journal of Management Studies*, *59*(1),
 126-162. 
 
-### Key concepts 
+### Key Concepts 
 
 Collaborative science, relationship management, long-lasting partnerships
 
@@ -73,7 +75,7 @@ At the end of this session, students are able to
 
 -   empathize with your partners.
 
-## Workshop Giving a talk
+## Workshop: Giving a Talk
 
 In this workshop, you will work on your talk and practise delivering
 (parts) of it.
@@ -86,7 +88,7 @@ are able to find a good mix of all these rhetorical elements and adapt
 well to the situation to get your key message across to various
 audiences. For your talk, it is time to show that you can do this!
 
-### Key concepts 
+### Key Concepts 
 
 -    Creating a compelling narrative
 -    Designing effective visuals
@@ -103,7 +105,7 @@ At the end of this session, students are able to:
 
 -   Practise the key concepts listed above
 
-## Group activity of the week
+## Group Activity of the Week
 
 Finalize the draft of your paper and plan your talk
 
@@ -121,7 +123,7 @@ Finalize the draft of your paper and plan your talk
 -    Who do you think should be interested/excited in the research you've
     done?
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 
 ### Group
 

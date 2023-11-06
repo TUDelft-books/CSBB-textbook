@@ -11,7 +11,7 @@ cleanup and handoffs of your research materials.
 Other than a science spotlight there are no lectures and workshops this
 week so students have time to finish everything.
 
-## Group activity of the week
+## Group Activity of the Week
 
 All active research needs to be finalized this week.
 
@@ -33,7 +33,7 @@ research for someone else?
 
 - What happens when it all goes wrong?
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 ### Group
 Peer review of another group's paper
 

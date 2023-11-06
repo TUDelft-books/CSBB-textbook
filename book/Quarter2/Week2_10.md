@@ -9,19 +9,18 @@ it all up.
 
 Scheduled components this week are:
 
-- Presentation Practice with peers and peer feedback
+- Presentation practice with peers and peer feedback
 
-- Oral exam
+- Oral Exam - <a href=#sample-oral-exam-questions> Sample Questions </a>
 
-- Final presentations
+- Final Presentations
 
 - Final reflection of the whole minor
 
-## Group activity of the week
-
+## Group Activity of the Week
 This week will be mostly focused on final presentations and feedback.
 
-## Sample exam questions
+## Sample Oral Exam Questions
 
 -   What are you proud of in collaborating with team mates?
 
@@ -45,15 +44,15 @@ This week will be mostly focused on final presentations and feedback.
 -   What questions do you have? (Students should be prepared to ask
     something)
 
-## Weekly submitted Assignments
+## Weekly Submitted Assignments
 
 ### Group
 
-Submit the final paper.
+Submit the final paper
 
 ### Individual
 
-Do the course evaluation (anonymous).
+Do the course evaluation (anonymous)
 
 Submit your final thoughts on the minor, suggestions for improvements,
-(not anonymous).
+(not anonymous)
