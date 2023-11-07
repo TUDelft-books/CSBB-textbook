@@ -166,8 +166,9 @@ funds.
 Building your own microscope and dive into Bionanoscience: exploration on (im)possibilities. The teacher will walk you through the design considerations and share detailed real-life examples of home-built microscopes used at Bionanoscience. Together, we'll delve into the technical intricacies, safety measures, and personal insights necessary for this fascinating, and challenging, microscope (and optical lab) development.
 
 ### Key Concepts
-Microscopes
-Lasers
+- Microscopes
+
+- Lasers
 
 ### Relevant Learning Goals
 Understanding a microscopy lab environment.
