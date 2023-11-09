@@ -1,19 +1,19 @@
 ```{figure} ../images/week4.jpeg
 :name: week4image
 ```
-# Week 4: Exploring Questions
+# Week 1.4: Exploring Questions
 
 -   Science Spotlight 
 
--   Lecture: <a href=#lecture-reflection---what-do-we-know> Reflection -- What do we know?</a>
+-   Lecture: <a href=#lecture-reflection-what-do-we-know> Reflection -- What do we know?</a>
 
--   Workshop: <a href=#workshop-interviewing---asking-and-listening> Interviewing -- Asking and Listening</a>
+-   Workshop: <a href=#workshop-interviewing-asking-and-listening> Interviewing -- Asking and Listening</a>
 
 -   Group activity: <a href=#group-activity-starting-your-proposal> Research Question</a>
 
 -   Friday Symposium
 
-## Introduction and goals
+## Introduction and Goals
 
 Doing science (and really any knowledge based work) requires taking time
 to stop and think about what you're doing. What do you not know about
@@ -30,14 +30,14 @@ This week we'll focus on these two sides of exploring questions while
 you get further in developing you and your group develop your research
 question.
 
-## Lecture: Reflection - What do we know? 
+## Lecture: Reflection: What Do We Know? 
 
 ### Overview
 This lecture will teach students the importance of reflection and how to properly use it to improve their own research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind.  
 
 The main focus, however, should be on teaching techniques for reflection and how to turn them into habits that will accompany them through any future research and scientific endeavour they are part of. They should also be sensitised to the presence of internal biases and assumptions, which have the ability to skew and influence any research. For such, common biases such as the confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will 
 
-### Key concepts 
+### Key Concepts 
 
 -   Reflection -- what is it and why do we want it?
 
@@ -53,13 +53,13 @@ The main focus, however, should be on teaching techniques for reflection and how
 
 -   When to make assumptions? Which assumptions are better not to make?
 
-## Workshop: Interviewing - Asking and Listening
+## Workshop: Interviewing: Asking and Listening
 
 ### Overview
 
 Interviewing is a useful method for gathering information on a research topic. A well-prepared conversation with stakeholders can provide valuable insights into a study’s societal relevance, approach, or contributions. This workshop aims to prepare students for effectively conducting an interview. First, effective preparation of the interview is addressed. The key focus is on formulating clear, open questions that invite interviewees to give informative answers, as well as prioritizing questions, keeping track of time, and making agreements on how the information is used for research purposes. Second, students practice interviewing in-class activities such as role plays; in challenging situations, they practice effective listening, adapting and responding to interviewees’ answers while keeping an eye on the aim of the interview.  
 
-### Key concepts
+### Key Concepts
 
 -   Formulate clear and open questions (e.g., with the technique of
     non-directive questioning)
@@ -68,7 +68,7 @@ Interviewing is a useful method for gathering information on a research topic. A
 
 -   How to adapt to the context of the interview
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 Students are able to:
 
@@ -81,7 +81,7 @@ Students are able to:
 
 -   Deal with challenging situations during an interview
 
-## Group activity: starting your proposal
+## Group Activity: Starting Your Proposal
 
 By week 4, groups should have a solid specific research question with preliminary ideas of how they might address it in a research project. This is called the hypothesis and will be part of your grant application.  Refer back to examples of proposals to see how it should be written.  
 
@@ -104,7 +104,7 @@ does it mean to hear those around you?
 - Do you have tools you use to help you identify what you don't know you
 don't know?
 
-## Weekly Submitted Assignments:
+## Weekly Submitted Assignments
 ### Group
 What question are you focusing on for your proposal? (½ page)
 

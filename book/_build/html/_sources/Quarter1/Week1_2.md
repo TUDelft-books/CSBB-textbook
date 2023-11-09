@@ -1,16 +1,16 @@
 ```{figure} ../images/week2.jpeg
 :name: week2image
 ```
-# Week 2: Understanding your crew
+# Week 1.2: Understanding your crew
 The schedule componenents of week 2 are: 
 
--   Lecture: <a href=#lecture-what-is-transdisciplinarity>What is transdiciplinarity</a>
+-   Lecture: <a href=#lecture-what-is-transdisciplinarity>What is Transdiciplinarity</a>
 
 -   Science Spotlight
 
--   <a href=#workshop-perspectives-and-values-with-the-team>Workshop perspectives and values with the team</a>
+-   <a href=#workshop-perspectives-and-values-with-the-team>Workshop: Perspectives and Values with the Team</a>
 
--   Writing a <a href=#group-activity-of-the-week---team-contract> team contract</a>
+-   Writing a <a href=#group-activity-of-the-week> team contract</a>
 
 -   Friday Symposium
 
@@ -30,7 +30,7 @@ Complex problems do not have a simple solution. Different people experience thes
 
 This lecture is meant to introduce students to the concept of transdisciplinarity. The initial part of the lecture will thus be focused on complex problems, and then we will discuss the differences between disciplinary, multi-, inter- and transdisciplinarity collaborations and their various definitions. We will not only define them but also list the benefits and burdens of these collaboration types. Then we have a short detour to see the different learning steps of professional development and why it is important to learn teamwork-related skills.  Finally, we will dive into the different processes of inter- and transdisciplinary teams that are crucial for effective teamwork. 
 
-### Key concepts 
+### Key Concepts 
 
 -   What is transdisciplinarity?
 
@@ -44,7 +44,7 @@ This lecture is meant to introduce students to the concept of transdisciplinarit
 
 - What are the essential team processes needed for transdisciplinary work? 
 
-### Relevant learning goals
+### Relevant Learning Goals
 - Assess group processes within their own research group during a project. 
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  
@@ -54,12 +54,12 @@ This lecture is meant to introduce students to the concept of transdisciplinarit
 - Explain how intercultural differences play a role in collaboration—this includes social (language, nationality, etc.) but also professional (business vs education, medicine vs engineering) differences and apply this knowledge to the collaboration.  
 
 - Be aware of and reflect on the various phases of the process, the challenges and problems that were encountered, and what was learned from this.  
-## Workshop Perspectives and Values with the Team
+## Workshop: Perspectives and Values with the Team
 The teams will apply the knowledge and skills they gained during the lectures and workshops so far to create a physical model of the teams’ transactive memory, create team efficacy and overcome some types of team conflicts.  
 ### Overview
 The team activity during Wednesday’s workshop is based on Monday’s lecture on transdisciplinarity. The students will reflect on their standpoints arising from their disciplinary background, their knowledge, skills, values and emotions at this stage of the group work. Then the teams will discuss these and create the teams’ 2D transactive memory by overlapping these. This assignment allows the teams to make the individual members aware of what is common between the team members, realize substantial differences between their worldviews, values, priorities or ways of thinking and discuss these. The lessons learned during week 1 on collaboration and peer feedback are essential for this discussion. This workshop is a grounding stone that allows the teams to realize where the differences between members come from instead of making biased and possibly invalid assumptions, therefore avoiding some common team conflicts and creating a safe environment and a common ground to work together well over the coming weeks. 
 
-### Key concepts 
+### Key Concepts 
 - Transactive memory 
 
 - Team efficacy 
@@ -67,7 +67,7 @@ The team activity during Wednesday’s workshop is based on Monday’s lecture o
 - Team conflict 
 
 - Psychological safety 
-### Relevant learning goals
+### Relevant Learning Goals
 - Assess group processes within their own research group during a project.  
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  
@@ -77,7 +77,7 @@ The team activity during Wednesday’s workshop is based on Monday’s lecture o
 - Explain how intercultural differences play a role in collaboration—this includes social (language, nationality, etc.) but also professional (business vs education, medicine vs engineering) differences and apply this knowledge to the collaboration.  
 
 - Be aware of and reflect on the various phases of the process, the challenges and problems that were encountered, and what was learned from this.  
-## Group activity of the week---Team Contract
+## Group Activity of the Week
 
 There is always research and reading to do as you explore your topic.
 
@@ -105,7 +105,7 @@ of it. And it should be regularly updated as things change.
 - What are your pet peeves in working in groups and how do you handle
 them?
 
-## Weekly Submitted Assignments:
+## Weekly Submitted Assignments
 
 ### Group
 Group Charter (1-2 pages)

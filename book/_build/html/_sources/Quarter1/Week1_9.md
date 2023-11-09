@@ -1,7 +1,7 @@
 ```{figure} ../images/week9.jpeg
 :name: week9image
 ```
-# Week 9: Dress Rehearsal
+# Week 1.9: Dress Rehearsal
 
 The components of this week are:
 
@@ -11,25 +11,25 @@ The components of this week are:
 
 -   Workshop: <a href=#workshop-presenting-improv-handling-questions-and-stage-fright> Presenting -- Improv, Handling Questions and Stage Fright </a>
 
-- <a href=#group-activity-of-the-week> Group activity </a>
+- <a href=#group-activity-of-the-week> Group Activity </a>
 
 -   Friday Symposium
 
-## Introduction and goals
+## Introduction and Goals
 
 Many researchers and students are told “make a poster” and “give a presentation” with little guidance about how to do that. As with many things these are skills which can be taught and then practiced and improved.  This week we’re making sure you’ve got the skills.  We’ll start with a workshop on using Ia design programme for the technical skills of doing page layout and to make your posters look excellent.  
 
 The second workshop will be on the presentation piece, strategies for handling difficult questions, stagefright and a little theater improvisation to get you ready. 
 
-## Workshop Poster Design
+## Workshop: Poster Design
 
 ### Overview
 Posters are important tools in academia/research - compact way of presenting information visually. Every discipline and subspecialities has research gatherings where scientists gather to exchange ideas and information. They often consist of talks, and lots of opportunities for networking. They will also typically have some poster reception event especially for researchers to present their projects as a way to see a lot of different projects very quickly.  Similar events happen in many professional fields as well.  
 
 You will take the theory of what you have learned from constructing narratives and visualization workshops to design an effective poster you can use to explain and promote your idea.  
-### Relevant learning goals
+### Relevant Learning Goals
 Students are able to design a poster using design software 
-## Workshop Presenting -- Improv, Handling Questions and Stage Fright 
+## Workshop: Presenting -- Improv, Handling Questions and Stage Fright 
 
 ### Overview
 
@@ -47,12 +47,12 @@ how to handle questions -- a part of presenting that can only be
 prepared to a certain extent and that often involves some improvisation.
 We will touch upon guidelines for structuring answers and dealing with
 challenging questions and questioners.
-### Key concepts
+### Key Concepts
 - Delivery of a presentation: body language, voice and movement
 - Handling (challenging) questions
 - Coping with nerves
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Students know about advice for effectively delivering a presentation
 
@@ -66,7 +66,7 @@ challenging questions and questioners.
 -   Students know guidelines for dealing with nerves prior or during a
     presentation
 
-## Group activity of the week
+## Group Activity of the Week
 
 -   Turn in final grant application to supervisor
 
@@ -82,7 +82,7 @@ to prepare and lessen the worry.
 
 - What was your favourite thing to learn?
 
-## Weekly submitted assigments
+## Weekly Submitted Assigments
 ### Group
 Submit your poster (A0 format)
 

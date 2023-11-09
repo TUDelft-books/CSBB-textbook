@@ -1,3 +1,7 @@
+```{figure} ../images/Week_9.jpg
+:name: week2_9image
+```
+
 # Week 2.9: Dress Rehearsal 
 
 This week is about finishing everything up. The research is done, and
@@ -7,12 +11,7 @@ cleanup and handoffs of your research materials.
 Other than a science spotlight there are no lectures and workshops this
 week so students have time to finish everything.
 
-# Introduction and goals
-
--   Explanation of what we want to achieve and why we are including this
-    lecture & workshop
-
-# Group activity of the week
+## Group Activity of the Week
 
 All active research needs to be finalized this week.
 
@@ -23,25 +22,22 @@ research talk.
 You could pair up with another group to practice talks in front of them.
 Or find other people to practice in front of.
 
-# Discussion Questions
+## Discussion Questions
 
-How do you decide a project is done?
+- How do you decide a project is done?
 
-When completing a project, how do you prepare it to be background
+- When completing a project, how do you prepare it to be background
 research for someone else?
 
-What research ideas are you excited about?
+- What research ideas are you excited about?
 
-What happens when it all goes wrong?
+- What happens when it all goes wrong?
 
-# Weekly submitted Assignments
-
-## Group
-
+## Weekly Submitted Assignments
+### Group
 Peer review of another group's paper
 
-## Individual
-
+### Individual
 What would you tell your family or peers about this minor? How would you
 describe your experience in it?
 

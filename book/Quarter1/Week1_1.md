@@ -1,7 +1,7 @@
 ```{figure} ../images/week1.jpeg
 :name: week1image
 ```
-# Week 1: Getting Underway
+# Week 1.1: Getting Underway
 
 
 Week 1 is meant for the students to get to know each other and the
@@ -15,7 +15,7 @@ The schedule for the introduction week is quite full and complex. It includes:
 
 Monday: **Communication**
 
-- <a href=#intro-lecture-by-minor-director>Introduction lecture</a> where the structure of the minor, goals and
+-  <a href=#introduction-lecture-by-the-minor-director>Introduction Lecture</a> where the structure of the minor, goals and
     assessments will be introduced.
 
 -   <a href=#workshop-technical-tools>Technical Tools</a> - explanation and exploration of all the tools we
@@ -27,10 +27,10 @@ Monday: **Communication**
 
 Tuesday: **Research**
 
--   <a href=#presentations-of-subtopics>Presentation of subtopics</a>: short presentations by supervisors about
+-   <a href=#presentations-of-subtopics>Presentation of Subtopics</a>: short presentations by supervisors about
     potential areas to do projects in.
 
--   <a href=#workshop-team-dynamics-and-belbin-roles>Group roles</a>: understanding Belbin framework of group roles.
+-   <a href=#workshop-team-dynamics-and-belbin-roles>Group Roles</a>: understanding Belbin framework of group roles.
 
 -   (teaching team makes student groups)
 
@@ -38,14 +38,14 @@ Wednesday: **Collaboration**
 
 -   Students are informed of their group assignment
 
--   <a href=#workshop-peer-feedback-teamwork-and-collaboration>Workshop peer feedback, teamwork, and communication</a>
+-   <a href=#workshop-peer-feedback-teamwork-and-collaboration>Workshop: Peer Feedback, Teamwork and Communication</a>
 
 -   Group free time to discuss name and topics, do a little reading of
     background materials.
 
 Thursday: **Reflection**
 
--   <a href=#workshop-reflective-science>Workshop reflective science</a>
+-   <a href=#workshop-reflective-science>Workshop: Reflective Science</a>
 
 -   Keep on reading and understanding background of subtopics.
 
@@ -55,11 +55,11 @@ Friday: **Integration**
 
 -   Topic selection
 
--   Submit first <a href=#weekly-submitted-assignments>writing assignment</a>
+-   Submit the first <a href=#weekly-submitted-assignments>writing assignment</a>
 
 -   First Friday symposium---reflect on the week.
 
-## Intro Lecture by minor Director
+## Introduction Lecture by the Minor Director
 
 ### Overview
 
@@ -67,15 +67,15 @@ The minor Director will welcome you during this Monday morning session.
 He will introduce you the minor, the transdisciplinary side of it, what
 we want to achieve, structure and schedule, contact details etc.
 
-### Key concepts 
+### Key Concepts 
 If you think about this as preparing for a sailing voyage, this is laying out the map of where you’ll go, your destination, and what you might learn along the way.  
 
-### Information they should know
+### Information They Should Know
 - What systems are being used 
 - Who’s involved 
 - Where to go to get help 
 - Deadlines and assignments 
-## Workshop Technical Tools
+## Workshop: Technical Tools
 
 ### Overview
 
@@ -83,13 +83,13 @@ Go over all the systems we will be using during the minor. The textbook,
 Brightspace, and teams. Show a basic literature search and citation
 management
 
-### Key concepts 
+### Key Concepts 
 Understanding the tools that will be used. Like a sailor preparing for a voyage, it’s essential to have your tools ready and know how to use them and where things are.  If the Intro lecture is about where you’re going, this is the technical tools you’ll need.  
-### Relevant learning goals
+### Relevant Learning Goals
 2.a. Collaborate. Collaborate effectively with other group members, other groups and the experts in the field.  
 
 3.a. Research. Develop a research strategy to learn a body of information. 
-## Presentations of subtopics
+## Presentations of Subtopics
 
 The core of this minor is doing a research project. Within a large umbrella topic, students will be offered subtopics to choose to focus on. These are broad questions where groups will need to work on understanding the area to develop a specific actionable research question.  
 
@@ -102,7 +102,7 @@ Each subtopic will have a half-page summary and 2-3 articles as suggested beginn
 Students will decide with their group which subtopic they want to claim. Students will work in teams of four to five students. Each team will focus on a subtopic: the goal of the teams will be to understand the subtopic, investigate different aspects of it, identify the stakeholders involved and create a research question and then proposal to investigate it. 
 
 
-## Workshop Team Dynamics and Belbin roles
+## Workshop: Team Dynamics and Belbin Roles
 
 Team dynamics can make or break a project. Every team member has their own goals, interests, backgrounds, skills and knowledge sets. The collaboration of such diverse groups often causes friction, tensions and conflicts. To help your team succeed, we’ll give you some essential tools for examining perspectives and handling conflicts. To support your teamwork, we will focus on various aspects of teamwork and collaboration during the whole minor. 
 
@@ -111,7 +111,7 @@ We first introduce the different roles people like to take in collaborative team
 -   [Belbin Team Roles \|
     Belbin](https://www.belbin.com/about/belbin-team-roles)
 
-## Workshop Peer feedback, teamwork, and collaboration
+## Workshop: Peer feedback, teamwork, and collaboration
 
 ### Overview
 In the morning, the teams will be announced, and the students will have time to get to know each other by playing competitive and collaborative board games related to medicine and nanobiology. During the first part of the workshop, we will dive further into the topic of teamwork and collaboration and discuss the student’s experiences with the various games. We will discuss the essentials of effective collaboration and the role of competition in teamwork. In the afternoon, we will focus on communication between team members, especially on peer feedback. 
@@ -123,7 +123,7 @@ We will also discuss different types of teamwork and the management of tasks wit
 Getting and giving feedback are important skills for any profession—or person. If we want to improve our skills (ourselves), we need people to give us feedback about how we are doing. But *how* the feedback is given is as important if not more important than *what* it is regarding how effective it is at creating change. The other side of that is that sometimes (often), we want feedback from other people about something we are trying to improve—how we ask for that feedback can have a huge effect on the kind of feedback they give us.  Asking for and receiving feedback are skills; they need practice and ongoing refinement.  
 
 Giving feedback to each other is the core of teamwork: letting people know what you can and cannot do, what works for you, and what does not. Developing reflection and good habits in feedback early on can save many conflicts, time, and energy wasted later on – especially feedback around making mistakes.  
-### Relevant learning goals
+### Relevant Learning Goals
 
 Collaboration is one of the four main threads of this minor and peer
 feedback is key to that.
@@ -146,21 +146,21 @@ D)  Evaluate different roles of members in group projects.
 E)  Provide constructive feedback and show openness to feedback from
     others.
 
-## Workshop Reflective Science 
+## Workshop: Reflective Science 
 
 ### Overview
 During this workshop, students will dive deeper into what assets each individual student brings to the team. We address what prior knowledge and skills students have that could be relevant to the team project. Further, we will reflect on how students prefer to work and communicate with each other. We will use a culture map to identify cultural and personal differences in communication and teamwork, aiming to understand how the individual team members can collaborate effectively.  
 ### Key concepts 
 Working effectively in a team requires good understanding of what knowledge and skills are required for the project that is undertaken, but also good understanding of cultural (being e.g. field of expertise, social-economic background, or country of origin) and personal preferences of oneself and of all the team members. In this workshop, students will identify what skills and knowledge might be needed to start the project and if the required skills and knowledge are already present in the team. In addition, students will work on identifying and discussing their personal and cultural preferences regarding teamwork and communication. Analysing how cultural habits position themselves relative to another culture, a deeper understanding of how culture influences collaboration is provided (further information can be found in The Culture Map, Erin Meyer, ISBN: 9781610392761).  
-### Relevant learning goals
+### Relevant Learning Goals
 4c. Understand how personal biases influence your work and your collaborations.  
-## Structured Group activity: Topic Selection
+## Structured Group Activity: Topic Selection
 
 There will be structured time with a facilitator to discuss the topics.  For this activity, the students need to pick their favourite subtopics.  
 
 The team members choose their top 3 subtopics, and then the teams will have the possibility to explore two or three out of these via creative brainstorming sessions, using methods such as Draw the problem, Cover story or Anti-problem. This session will make the teams’ choice easier. 
 
-### Group activities (unscheduled)
+### Group Activities (unscheduled)
 
 - Read the suggested sources on the topics you’re interested in.  
 - Decide on a team name and turn it in. 

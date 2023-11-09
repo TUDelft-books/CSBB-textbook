@@ -1,21 +1,21 @@
 ```{figure} ../images/week8.jpeg
 :name: week8image
 ```
-# Week 8: Telling your story
+# Week 1.8: Telling Your Story
 
 Scheduled components of this week:
 
 -   Science spotlight
 
--   Workshop: <a href=#workshop-visual-communication> Visual communication </a>
+-   Workshop: <a href=#workshop-visual-communication> Visual Communication </a>
 
--   Workshop: <a href=#critical-editing-and-feedback> Critical editing and feedback </a>
+-   Workshop: <a href=#workshop-critical-editing-and-feedback> Critical Editing and Feedback </a>
 
-- <a href=#group-activity-of-the-week> Group activity </a>
+- <a href=#group-activity-of-the-week> Group Activity </a>
 
 -   Friday Symposium
 
-## Introduction and goals
+## Introduction and Goals
 
 Research only really “matters” if it is shared. How it is shared greatly influences its impact on the world and likelihood of getting funded. In previous weeks we’ve talked about what and why we want to share our ideas, in this week we’ll focus on the how. The topic of week 8 is *Visualisation*.   
 
@@ -25,7 +25,7 @@ When presenting information, in addition to understanding the narrative elements
 
 One of the most important writing/design skills is critical editing. If you become really skilled at editing you can edit your own work effectively, but it is always better to ask for help with this from others, especially when starting. And as a collaborator it’s important to develop your editing skills so you can contribute to making presentations better. No design or written document is perfect and there is always room (though not always time) for improvement.  
 
-## Workshop Visual Communication
+## Workshop: Visual Communication
 
 ### Overview
 
@@ -39,12 +39,12 @@ papers and presentations. Next, students will apply these principles and
 practise the interplay between visual and verbal explanation by
 presenting their own slides.
 
-### Key concepts
+### Key Concepts
 
 - Multimodal information processing
 
 - Effectively selecting and working with visuals in a presentation
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Students understand key principles of processing visual information
 
@@ -53,13 +53,13 @@ presenting their own slides.
 
 -   Students can present a slide with visual information in a clear way
 
-## Workshop Critical Editing and Feedback
+## Workshop: Critical Editing and Feedback
 
 ### Overview
 
 Collaborative writing in a team is a complex activity. It involves making clear agreements about the text, editing and giving feedback on each other’s work. The ingredients and storyline of your research should now be in place, and it is time to turn the document into a coherent, clear and attractive text. This workshop focuses on effective strategies for giving feedback on and revising a collaborative document. Working with your draft research proposals, we will discuss how to constructively give feedback on someone else’s text, how to trace style and readability issues with the ‘read aloud’ method and how to solve such readability issues. Furthermore, we will discuss how to ask for, receive and process constructive feedback. This involves accepting feedback on your text and determining what feedback is most valuable to process. After the workshop, time is reserved for writing consultations. 
 
-### Key concepts 
+### Key Concepts 
 
 -   Providing constructive feedback on texts
 
@@ -67,14 +67,14 @@ Collaborative writing in a team is a complex activity. It involves making clear 
 
 -   Accepting constructive feedback, and asking for it
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Students apply constructive feedback on a text
 
 -   Students apply revision and editing strategies to improve
     readability
 
-## Group activity of the week
+## Group Activity of the Week
 
 Finish draft of proposal.  Get peer feedback on it and consult with communications expert. It is supposed to be only two pages long (excluding references). This means that you must write concisely and focus on the essential information. You may have to summarize many paragraphs. 
 
@@ -96,7 +96,7 @@ could you do better? When giving something to someone else to edit, what
 do you particularly want help on?
 
 ## Writing Assignment
-### Group:
+### Group
 Finish the draft of your proposal (2-3 pages)
 
 ### Individual

@@ -1,6 +1,10 @@
+```{figure} ../images/Week_8.jpg
+:name: week2_8image
+```
+
 # Week 2.8: Collaborating and Communicating
 
-# This week is a combination of collaboration and communication. 
+This week is a combination of collaboration and communication. 
 
 In our interconnected world, collaborative partnerships have become
 indispensable in professional spheres. Collaborative partnerships allow
@@ -25,15 +29,17 @@ presentation is a key component of professional development.
 
 This week:
 
--   Lecture: Collaborative Science
+-   Lecture: <a href=#lecture-collaborative-science>Collaborative Science</a>
 
 -   Science Spotlight
 
--   Workshop: Giving a Talk
+-   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
 
-# Lecture: Collaborative Science
+-   <a href=#group-activity-of-the-week> Group Activity </a>
 
-## Overview
+## Lecture: Collaborative Science
+
+### Overview
 
 Collaborative Science for Biomedical Breakthroughs is fluid. Partners in
 these collaborative efforts experience shocks. The research project
@@ -51,16 +57,16 @@ We will discuss the following case study and academic article: 
 Case - [The Antibiotics Crisis: Exploring and Maintaining Partnership
 Models](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thecasecentre.org%2Fproducts%2Fview%3Fid%3D179246&data=05%7C01%7Ch.mirabontenbal%40erasmusmc.nl%7Ccc73eb777b454a994f9308dbcf58e0d3%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C638331752883113343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nP7LwEFI0xuqGRbAkeL2vem2zWCwj5MTbRg%2FTt9Sd%2Bk%3D&reserved=0)
 
-Article - Arslan, B., & Tarakci, M. (2022). Negative Spillovers Across
+Article - Arslan, B., & Tarakci, M. (2022). [Negative Spillovers Across
 Partnerships for Responsible Innovation: Evidence from the 2014 Ebola
-Outbreak. *Journal of Management Studies*, *59*(1),
-126-162. [https://doi.org/10.1111/joms.12607]{.underline}
+Outbreak](https://doi.org/10.1111/joms.12607). *Journal of Management Studies*, *59*(1),
+126-162. 
 
-## Key concepts 
+### Key Concepts 
 
-## Collaborative science, relationship management, long-lasting partnerships
+Collaborative science, relationship management, long-lasting partnerships
 
-## Relevant Learning Goals
+### Relevant Learning Goals
 
 At the end of this session, students are able to
 
@@ -69,10 +75,11 @@ At the end of this session, students are able to
 
 -   empathize with your partners.
 
-# Workshop: Giving a talk
+## Workshop: Giving a Talk
 
 In this workshop, you will work on your talk and practise delivering
-(parts) of it.\
+(parts) of it.
+
 It combines various communication skills we have already worked on:
 creating a compelling narrative, designing effective visuals, ensuring a
 clear and attractive delivery, active listening, and answering
@@ -81,15 +88,15 @@ are able to find a good mix of all these rhetorical elements and adapt
 well to the situation to get your key message across to various
 audiences. For your talk, it is time to show that you can do this!
 
-## Key concepts 
+### Key Concepts 
 
-Creating a compelling narrative\
-Designing effective visuals\
-Engaging delivery skills\
-Handling questions effectively\
-Adapting the talk to various audiences\
-\
-Relevant Learning Goals
+-    Creating a compelling narrative
+-    Designing effective visuals
+-    Engaging delivery skills
+-    Handling questions effectively
+-    Adapting the talk to various audiences
+
+### Relevant Learning Goals
 
 At the end of this session, students are able to:
 
@@ -98,39 +105,37 @@ At the end of this session, students are able to:
 
 -   Practise the key concepts listed above
 
-# Group activity of the week
+## Group Activity of the Week
 
 Finalize the draft of your paper and plan your talk
 
-# Discussion Questions
+## Discussion Questions
 
-According to you, what is crucial to make your talk memorable for a
-mixed audience?\
-How have you applied this in your own talk?
+-    According to you, what is crucial to make your talk memorable for a
+    mixed audience?
+-   How have you applied this in your own talk?
 
-What have you learned about collaborations in science? What do you think
-is most important?
+-    What have you learned about collaborations in science? What do you think
+    is most important?
 
-What do you hope will happen with your research project's results?
+-    What do you hope will happen with your research project's results?
 
-Who do you think should be interested/excited in the research you've
-done?
+-    Who do you think should be interested/excited in the research you've
+    done?
 
-# Weekly submitted Assignments
+## Weekly Submitted Assignments
 
-## Group
+### Group
 
-Submit draft of your paper
+Submit draft of your paper and submit an outline for your talk.
 
-And submit an outline for your talk.
-
-## Individual
+### Individual
 
 How have your collaboration skills changed over the past 18 weeks, what
 areas do you want to keep working on? What have you identified as most
 important?
 
-# References
+## References
 
 -   [TU
     Present](https://brightspace.tudelft.nl/d2l/le/content/157724/Home):

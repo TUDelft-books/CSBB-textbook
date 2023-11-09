@@ -1,5 +1,8 @@
-# Week 2.1 CSBB---Finding Answers
+```{figure} ../images/Week_1.jpg
+:name: week2_1image
+```
 
+# Week 2.1: The Research Ecosystem
 In this quarter we will journey through the implicit skills and
 knowledge that scientists need to know to do research projects. The
 fundamentals that apply in almost every scientific setting including lab
@@ -13,7 +16,8 @@ of them and consider them in making research decisions.
 This quarter will also be when students learn to turn their ideas and
 questions into methods and answers.
 
-\[reasearch process.gif img
+
+![The Research Process](../images/Research_Process.gif)
 
 This week is the first week of quarter 2 and will thus include a lot of
 "Getting Started". Some of the most basic fundamentals. Students may
@@ -21,26 +25,28 @@ have new groups and new projects, and will have a greater focus on
 creating something new (new results, policy, algorithms, methods) than
 in quarter 1. The components of this week are:
 
--   Welcome Lecture (Monday)
 
--   Lecture Sustainability in the Lab (Monday)
+-   <a href=#lecture-welcome> Welcome Lecture </a>(Monday)
 
--   Workshop Research Group Roles (Tuesday)
+-   Lecture: <a href=#lecture-sustainability-in-the-lab>Sustainability in the Lab</a> (Monday)
 
--   Workshop Groups and Projects (Tuesday)
+-   Lecture: <a href=#lecture-research-group-roles>Research Group Roles </a>(Tuesday)
 
--   Lecture Budgeting in the lab (Wednesday)
+-   Workshop: <a href=#workshop-new-groups-new-projects>Groups and Projects</a> (Tuesday)
 
--   Workshop Lab Safety (Wednesday)
+-   Lecture: <a href=#lecture-budgeting-in-a-lab>Budgeting in the lab</a> (Wednesday)
 
--   Lecture Drug development process (Thursday)
+-   Workshop: <a href=#workshop-microscopy-lab-safety>Microscopy Lab Safety </a>(Wednesday)
 
--   Workshop Making and Addressing Mistakes (Thursday)
+-   Lecture: <a href=#lecture-cns-drug-development-process>Drug development process</a> (Thursday)
+
+-   Workshop: <a href=#workshop-making-and-addressing-mistakes> Making and Addressing Mistakes </a> (Thursday)
+
+-   <a href=#group-activity-of-the-week> Group Activity </a>
 
 -   Symposium---new teams on the projects
 
-# Lecture: Welcome
-
+## Lecture: Welcome
 Overview of the plan for Q2 including what's included in assessments,
 structures and what they can expect.
 
@@ -48,8 +54,7 @@ Talk about the programme of this week and how it is relevant
 specifically to Q2 (why are we doing this now as opposed to Q1? How does
 this quarter differ from Q1?)
 
-# Lecture: Sustainability in the Lab
-
+## Lecture: Sustainability in the Lab
 Doing biological science uses a LOT of resources from plastics for
 sterility to freezers running all the time to computers for large data
 analysis. What issues are there with sustainability in the lab? Sterile
@@ -58,20 +63,17 @@ processes in the lab. As scientists how do we consider this and take it
 into account when making decisions. What other sustainability issues
 should we be considering?
 
-## Key concepts
+### Key Concepts
+- Sustainability
 
-Sustainability
+- Resource usage
 
-Resource usage
+### Relevant Learning Goals
+- Process of science
 
-## Relevant learning goals
+- Ethics and reflection
 
-Process of science
-
-Ethics and reflection
-
-# Lecture: Research Group Roles
-
+## Lecture: Research Group Roles
 Collaborative research groups have certain roles within them which
 change and flex as the project proceeds. But within a research lab there
 are a whole set of very formal research roles including PIs, postdocs,
@@ -80,24 +82,21 @@ work together, the varied responsibilities, and what to expect when
 joining a new lab can greatly improve your effectiveness when joining a
 lab.
 
-## Key concepts
+### Key Concepts
+- What are the different roles in a research group?
 
-What are the different roles in a research group?
+- What are the strengths and weaknesses in this structure?
 
-What are the strengths and weaknesses in this structure?
+- What are the assumptions?
 
-What are the assumptions?
+- What are the needs of the various group members?
 
-What are the needs of the various group members?
+### Relevant Learning Goals
+- Research Process
 
-## Relevant learning goals 
+- Career planning
 
-Research Process
-
-Career planning
-
-# Workshop: New Groups, New Projects
-
+## Workshop: New Groups, New Projects
 A guided discussion on the projects and modifying teams. Teams must stay
 about equal size but students will decide who can best work on which
 project based on skills, desires and aptitudes with an overall goal of
@@ -106,24 +105,21 @@ making all projects successful.
 Teams can pick a new name and will develop their plan for the full 10
 weeks.
 
-## Key concepts
+### Key Concepts
+- Time management
 
-Time management
+- Resource allocation
 
-Resource allocation
+- Making teams
 
-Making teams
+### Relevant Learning Goals
+- Collaboration
 
-## Relevant learning goals
+- Research
 
-Collaboration
+- Critical thinking
 
-Research
-
-Critical Thinking
-
-# Lecture: Budgeting in a lab
-
+## Lecture: Budgeting in a Lab
 In the world of scientific research, budgeting is an essential skill
 that ensures the smooth operation and sustainability of your laboratory.
 This lecture is tailored to equip you with the knowledge and strategies
@@ -141,8 +137,7 @@ basis, what is the price of a research paper and what you can do with a
 chemicals? What are the costs of plasticware? Who pays for conferences
 that scientists attend?
 
-## Key concepts
-
+### Key Concepts
 -   Budget: Understanding how to distribute your budget across research
     projects, personnel, equipment, and supplies is vital for achieving
     research goals efficiently.
@@ -156,8 +151,7 @@ that scientists attend?
     funding, make informed financial decisions, and ensure
     sustainability.
 
-## Relevant learning goals
-
+### Relevant Learning Goals
 Student will understand the basic principles and concepts of budgeting
 as they apply to laboratory management, including the creation of a
 budget, revenue sources, etc.
@@ -166,26 +160,20 @@ Student will learn how to effectively allocate resources and prioritize
 spending to align with research goals and ensure optimal utilization of
 funds.
 
-# Workshop: Lab Safety
+## Workshop: Microscopy Lab Safety
 
-Get to know lab / computer / research environment;
+### Overview
+Building your own microscope and dive into Bionanoscience: exploration on (im)possibilities. The teacher will walk you through the design considerations and share detailed real-life examples of home-built microscopes used at Bionanoscience. Together, we'll delve into the technical intricacies, safety measures, and personal insights necessary for this fascinating, and challenging, microscope (and optical lab) development.
 
-## Overview
+### Key Concepts
+- Microscopes
 
-For those unfamiliar with working in a lab environment, this workshop
-will go through basic lab safety, in part so that as a collaborator
-visiting a lab, you don't do something dangerous or destructive.
+- Lasers
 
-## Key concepts
+### Relevant Learning Goals
+Understanding a microscopy lab environment.
 
-Etiquette in a lab.
-
-## Relevant learning goals
-
-Understanding a research lab environment
-
-# Lecture: CNS Drug Development Process
-
+## Lecture: CNS Drug Development Process
 Not all projects have a drug development component, but if working in
 biomedical research, it's important for a researcher to understand what
 the process is in new developments. This can help you develop that long
@@ -201,51 +189,50 @@ perspective and partnership.
 This lecture will particularly focus on Central Nervous System drug
 development which has many unique aspects to it and considerations.
 
-## Key concepts
+### Key Concepts
+Research process of drug design.
 
-Research process of drug design
+### Relevant Learning Goals
+Understanding processes of different kinds of research.
 
-## Relevant learning goals 
+## Workshop: Making and Addressing Mistakes
+No one likes making mistakes, but they are a fact of life. And spending some time thinking about how you make theym and what you should do when you make them is an important skill in becoming a better scientist.  
 
-Understanding process of different kinds of research
+### Key Concepts
+- Mistakes happen 
 
-# Group activity of the week
+- Developing self-understanding of your response to mistake making 
 
-This week groups will move quickly to adjust their groups and select
-their focus project. Students and supervisors will discuss the projects
-and how best to allocate resources (students and supervisors) to ensure
-that all projects are successful. Multi-center collaboration if you
-will.
+- Things to think about when addressing them 
+
+### Relevant Learning Goals
+Mistakes are part of collaboration, skilled collaboration involves being skilled at addressing them.  
+
+## Group Activity of the Week
+This week groups will move quickly to adjust their groups and select their focus project. Students and supervisors will discuss the projects and how best to allocate resources (students and supervisors) to ensure that all projects are successful. Multi-center collaboration if you will.
 
 With your team, make research plan and new or updated team contract.
 
-# Discussion Questions
+## Discussion Questions
+- How does your new group contract differ from the one with your old group?
 
-How does your new group contract differ from the one with your old
-group?
+- Why do you think these differences are there?
 
-Why do you think these differences are there?
+- Is your role in this new group different from before? How?
 
-Is your role in this new group different from before? How?
+- Which experiences from the past groupwork are you going to use to improve collaboration with your group?
 
-Which experiences from the past groupwork are you going to use to
-improve collaboration with your group?
+- What drew you to wanting to work on this project?
 
-What drew you to wanting to work on this project?
+- How will you work together?
 
-How will you work together?
+- What are you excited about in this next stage of the project?
 
-What are you excited about in this next stage of the project?
-
-# Weekly submitted Assignments
-
-## Group
-
+## Weekly Submitted Assignments
+### Group
 Submit team name and project plan draft.
 
-## Individual
-
-What are your learning goals for the next 10 weeks? What skills do you
-hope to improve?
+### Individual
+What are your learning goals for the next 10 weeks? What skills do you hope to improve?
 
 # References

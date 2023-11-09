@@ -1,20 +1,20 @@
 ```{figure} ../images/week3.jpeg
 :name: week3image
 ```
-# Week 3: Searching for Sources
+# Week 1.3: Searching for Sources
 The scheduled components for week 3 include: 
 
 -   Science Spotlight
 
 -   Lecture: <a href=#lecture-advanced-literature-search> Advanced literature search</a>
 
--   Workshop: <a href=#workshop-scholarly-communication---critical-reading> Scientific Communication -- Critical Reading</a>
+-   Workshop: <a href=#workshop-scholarly-communication-and-critical-reading> Scholarly Communication -- Critical Reading</a>
 
--   Group activity: <a href=#group-activity-of-the-week> Writing a short pitch</a>
+-   Group Activity: <a href=#group-activity-of-the-week> Writing a short pitch</a>
 
 -   Friday Symposium
 
-## Introduction and goals
+## Introduction and Goals
 
 A huge part of being a researcher is reading what others have done, and
 writing what you have done to contribute to the body of scientific
@@ -46,7 +46,7 @@ strategies to use.
 -   This is a topic that will be important to the students, but some may
     have already done part of this
 
-## Lecture Advanced Literature Search
+## Lecture: Advanced Literature Search
 ### Overview
 
 This workshop focusses on teaching participants how to effectively find
@@ -55,7 +55,7 @@ of sites such as Scopus, WebOfScience or similar webpages which help in
 finding sources. To search for scientific literature, it is also
 necessary to know how to pose specific and helpful research questions.
 
-### Key concepts 
+### Key Concepts 
 
 -   How to break the research topic down to concepts,
 
@@ -72,9 +72,9 @@ necessary to know how to pose specific and helpful research questions.
 
 -   Also how to cite references in papers.
 
-### Relevant learning goals
+### Relevant Learning Goals
 
-## Workshop Scholarly Communication - Critical Reading
+## Workshop: Scholarly Communication and Critical Reading
 
 ### Overview
 
@@ -87,7 +87,7 @@ reading scientific texts.
 
 The second part of the workshop introduces critical reading as one of the first steps in both the research and writing process. Carrying out a critical literature review is an essential first step in the research process, of which scientific texts such as a research proposal or journal paper are an important part. This part of the workshop focuses on guidelines for critical reading of literature, to help students determine key information in relevant sources. It introduces the Scientific Argumentation Model, which is a helpful tool to systematically map scientific sources. Students will analyse and discuss critical examples of relevant papers and by recognizing helpful structural and stylistic elements to navigate such sources.
 
-### Key concepts
+### Key Concepts
 
 -   Scientific communication: what is it?
 
@@ -98,7 +98,7 @@ The second part of the workshop introduces critical reading as one of the first 
 -   Writing process (and the role of critical reading in the writing
     process)
 
-### Relevant learning goals
+### Relevant Learning Goals
 
 -   Understand the elements of the scientific communication situation
 
@@ -115,7 +115,7 @@ The second part of the workshop introduces critical reading as one of the first 
 
 -   Reflect on the value of information provided in scientific texts
 
-## Group activity of the week
+## Group Activity of the Week
 
 This week's group activity will tie in with the previous week -- you
 will be asked to write a short pitch on your team. This should include

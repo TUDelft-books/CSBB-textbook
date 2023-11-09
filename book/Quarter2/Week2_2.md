@@ -1,3 +1,7 @@
+```{figure} ../images/Week_2.jpg
+:name: week2_2image
+```
+
 # Week 2.2: Can you repeat that? 
 
 It's really cool if you can do something new, but it only really
@@ -12,18 +16,15 @@ factors are important.
 
 This weeks topic is 'reproducibility'. The components are:
 
--   Lecture: Reproducibility (Monday)
+-   Lecture: <a href=#lecture-reproducibility>Reproducibility</a> (Monday)
 
 -   Science Spotlight
 
--   Workshop: Troubleshooting
+-   Workshop: <a href=#workshop-troubleshooting>Troubleshooting</a>
 
-# Introduction and goals
+-   <a href=#group-activity-of-the-week> Group Activity </a>
 
--   Explanation of what we want to achieve and why we are including this
-    lecture & workshop
-
-# Lecture: Reproducibility
+## Lecture: Reproducibility
 
 What are the necessary elements in reproducibility: keeping a good lab
 journal, writing clear and accurate methods, reading methods accurately
@@ -43,26 +44,26 @@ your lab journal?
 -   Some of the surprising variables that can effect
     reproducibility\--lots of examples of this though this is one of my
     favorites, also an excellent example of critical thinking:
-    [[Comparison of Trials Using Ivermectin for COVID-19 Between Regions
+    [Comparison of Trials Using Ivermectin for COVID-19 Between Regions
     With High and Low Prevalence of Strongyloidiasis: A Meta-analysis \|
     Infectious Diseases \| JAMA Network Open \| JAMA
-    Network]{.underline}](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
+    Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
 
-## Key concepts
+### Key Concepts
 
-Lab journal plan
+- Lab journal plan
 
-Exploration of all the things that might affect your results.
+- Exploration of all the things that might affect your results.
 
-## Relevant learning goals
+### Relevant Learning Goals
 
-Clear communication of research methods
+- Clear communication of research methods
 
-Understanding the importance of documentation
+- Understanding the importance of documentation
 
-Collaboration on experiments
+- Collaboration on experiments
 
-# Workshop: Troubleshooting
+## Workshop: Troubleshooting
 
 Troubleshooting is foundational to experimental work, you try something,
 you figure out it didn't work the way you wanted, you figure out why, or
@@ -74,72 +75,72 @@ further skills and look at the social-emotional side of troubleshooting.
 Also how to develop collaborative troubleshooting skills, using
 collaborators can be a great way to troubleshoot.
 
-## Key Concepts
+### Key Concepts
 
-Ways of approaching problems
+- Ways of approaching problems
 
-Keeping track of what you've tried
+- Keeping track of what you've tried
 
-Collaborating to troubleshoot
+- Collaborating to troubleshoot
 
-Identify problem spots
+- Identify problem spots
 
-Evaluate variables
+- Evaluate variables
 
-What are all the things that could be affecting it
+- What are all the things that could be affecting it
 
-## Relevant learning goals
+### Relevant Learning Goals
 
-Collaboration
+- Collaboration
 
-Research Process
+- Research Process
 
-Critical Thinking
+- Critical Thinking
 
-# Group activity of the week
+## Group Activity of the Week
 
-Develop research strategy for the project---how do you turn a two page
-proposal into a step by step plan?
+- Develop research strategy for the project---how do you turn a two page
+    proposal into a step by step plan?
 
-Identify resources you will need at various stages
+- Identify resources you will need at various stages
 
-Make a plan for how you'll keep a lab notebook.
+- Make a plan for how you'll keep a lab notebook.
 
-# Discussion Questions
+## Discussion Questions
 
-How is your project going?
+- How is your project going?
 
-Are you finding there are things you need to change now that you're
-doing it?
+- Are you finding there are things you need to change now that you're
+    doing it?
 
-What areas are you concerned or uncertain about? How will you approach
-those? Who might have insight to help?
+- What areas are you concerned or uncertain about? How will you approach
+    those? Who might have insight to help?
 
-Why does reproducibility matter in science?
+- Why does reproducibility matter in science?
 
-What is reproducible enough?
+- What is reproducible enough?
 
-What is your approach to troubleshooting?
+- What is your approach to troubleshooting?
 
-Why does explaining the problem to someone else help you solve it?
+- Why does explaining the problem to someone else help you solve it?
 
-How does reproducibility and a lab journal help with troubleshooting?
+- How does reproducibility and a lab journal help with troubleshooting?
 
-What's the strangest troubleshooting thing you've encountered?
+- What's the strangest troubleshooting thing you've encountered?
 
-What are things to take into consideration when troubleshooting?
+- What are things to take into consideration when troubleshooting?
 
-How do you take into account your blind spots?
+- How do you take into account your blind spots?
 
-# Weekly submitted Assignments
+## Weekly Submitted Assignments
 
-## Group
+### Group
 
 Summary of how you'll keep a lab journal, and identify what are the key
 things to record in your lab journal for your project.
 
-## Individual
+### Individual
 
 Why do you think reproducibility in science matters?
 
-# References
+## References
