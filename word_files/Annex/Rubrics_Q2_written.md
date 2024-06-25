@@ -6,7 +6,7 @@ Weight of assessment in final grade: 20%
 
 Type of assessment: individual
 
-Evaluator: Hegias
+Evaluator: Management Team
 
 +----+-----------+------------+------------+------------+------------+
 |    | Learning  | Criteria   | Fail       | Pass       | Comments   |
@@ -1105,7 +1105,7 @@ Weight of assessment in final grade: 10%
 
 Type of assessment: individual
 
-Evaluator: Hegias
+Evaluator: Management Team
 
   ---------------------------------------------------------------------------------------------------
                   Learning         Criteria       Fail               Pass                 Comments

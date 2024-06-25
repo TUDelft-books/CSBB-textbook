@@ -86,13 +86,16 @@ Weight of assessment in final grade: 20%
 
 Type of assessment: individual
 
-Evaluator: Hegias
+Evaluator: Management Team
 
 ```{figure} ../Annex/images/q1_critical_thinking_journal_p1.png
 :name: critthinkp1
 ```
 ```{figure} ../Annex/images/q1_critical_thinking_journal_p2.png
-:name: critthinkp1
+:name: critthinkp2
+```
+```{figure} ../Annex/images/q1_critical_thinking_journal_p3.png
+:name: critthinkp3
 ```
 ## Participation
 
@@ -100,7 +103,7 @@ Weight of assessment in final grade: 10%
 
 Type of assessment: individual
 
-Evaluator: Hegias
+Evaluator: Management Team
 
 ```{figure} ../Annex/images/q1_participation.png
 :name: participation
@@ -119,6 +122,9 @@ Evaluator: Supervisors, thread leaders
 ```
 ```{figure} ../Annex/images/q1_poster_p2.png
 :name: posterp2
+```
+```{figure} ../Annex/images/q1_poster_p3.png
+:name: posterp3
 ```
 ## Proposal
 
