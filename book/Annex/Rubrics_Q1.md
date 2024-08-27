@@ -166,3 +166,6 @@ Evaluator: Supervisors
 ```{figure} ../Annex/images/q1_oral_exam_p4.png
 :name: oralexamp4
 ```
+```{figure} ../Annex/images/q1_oral_exam_p5.png
+:name: oralexamp5
+```

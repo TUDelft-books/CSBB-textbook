@@ -33,6 +33,8 @@ parts:
     chapters: 
     - file: Annex/Rubrics_Q1.md
     - file: Annex/Rubrics_Q2.md
+    #- file: Annex/rubric.ipynb
+
 
  
     

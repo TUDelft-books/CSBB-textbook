@@ -1,4 +1,4 @@
-```{figure} ../images/week3.jpeg
+```{figure} ../images/week3.jpg
 :name: week3image
 ```
 # Week 1.3: What is your quest(ion)?

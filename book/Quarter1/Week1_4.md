@@ -1,4 +1,4 @@
-```{figure} ../images/week4.jpeg
+```{figure} ../images/week4.jpg
 :name: week4image
 ```
 # Week 1.4: Power of Questions

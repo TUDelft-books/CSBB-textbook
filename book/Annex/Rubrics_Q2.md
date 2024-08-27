@@ -14,9 +14,6 @@ Evaluator: Management Team
 ```{figure} ../Annex/images/q2_critical_thinking_journal_p2.png
 :name: critthinkp2
 ```
-```{figure} ../Annex/images/q2_critical_thinking_journal_p3.png
-:name: critthinkp3
-```
 
 ## Paper
 
@@ -37,6 +34,9 @@ Evaluator: Supervisors
 ```
 ```{figure} ../Annex/images/q2_paper_p4.png
 :name: paperp4
+```
+```{figure} ../Annex/images/q2_paper_p5.png
+:name: paperp5
 ```
 ## Participation Rubric
 
@@ -66,7 +66,9 @@ Evaluator: Supervisors, thread leaders
 ```{figure} ../Annex/images/q2_presentation_p3.png
 :name: presentationp3
 ```
-
+```{figure} ../Annex/images/q2_presentation_p4.png
+:name: presentationp4
+```
 ## Oral Exam
 
 Weight of assessment in final grade: 20%
