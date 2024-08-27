@@ -2,18 +2,21 @@
 :name: week2_3image
 ```
 # Week 2.3: Institutional Review Process
-The components of this week include:
 
--   Lecture: <a href=#lecture-institutional-review-process>Institutional Review Process</a>
+The schedule for this week includes:
 
--   Science Spotlights
+*Monday:*
+-	Workshop: <a href=#workshop-institutional-review-process>Institutional Review Process</a>
+-	Science Spotlights
 
--   Workshop: <a href=#workshop-critical-thinking-as-a-scientist>Critical Thinking as a Scientist</a>
+*Wednesday:*
+-	Workshop: <a href=#workshop-critical-thinking-as-a-scientist>Critical Thinking as a Scientist</a>
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
+*Friday:*
+-	Friday Symposium
 
 
-## Lecture: Institutional Review Process
+## Workshop: Institutional Review Process
 Many research projects, especially in biomedical sciences will have an
 institutional review process for ethical and safety considerations. This
 includes reviews for human and animal research to make sure it's done
@@ -30,7 +33,7 @@ ethically want to be part of.
 ### Key concepts
 -   The process of obtaining a license for animal research
 
--   Training of the responsible personnnel who can work with research
+-   Training of the responsible personnel who can work with research
     animals
 
 -   Reporting of animal research
@@ -51,8 +54,8 @@ ethically want to be part of.
 
 ## Workshop: Critical Thinking as a Scientist 
 Critical thinking is often about problem solving. Why isn't this thing
-you've planned out working. What are some of the factors that can
-contribute to failures, better known as unexpected results.  How do you
+you've planned out working? What are some of the factors that can
+contribute to failures, better known as unexpected results?  How do you
 take advantage of unexpected results and learn from them?   
 
 It can also be speculation of what could go wrong, how does this fit or
@@ -95,7 +98,7 @@ They will also need to decide what journal publication their future article coul
     shouldn't you consider?
 
 -   What is your process in reviewing something from someone else to
-    find the flaws, find points of improvement, design your future
+    find the flaws, find points of improvement, and designing your future
     experiments?
 
 -   How do you think about your own work? How do you think about others

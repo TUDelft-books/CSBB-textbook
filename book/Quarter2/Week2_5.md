@@ -15,20 +15,22 @@ The workshop will start the writing process for your paper.
 
 Components this week are:
 
--   Lecture: <a href=#lecture-data-analysis-theory>Data Analysis Theory</a>
+*Monday:*
+    -   Workshop: <a href=#workshop-data-analysis-theory>Data Analysis Theory</a>
+    -   Science Spotlights
 
--   Workshop: <a href=#workshop-writing-an-abstract>Writing an Abstract</a>
+*Wednesday:*
+    -   Workshop: <a href=#workshop-writing-an-abstract>Writing an Abstract</a>
 
--   Science Spotlights
+*Friday*:
+    - Friday Symposium
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
-
-## Lecture: Data Analysis Theory
+## Workshop: Data Analysis Theory
 
 What to consider when analysing data. Different kinds of analysis and
 what they can show or hide. Also useful to think about this when reading
-scientific papers, do you know why the writers chose the analysis they
-did, and the visualization they did.
+scientific papers: do you know why the writers chose the analysis they
+did? And the visualization they did?
 
 ### Key Concepts
 
@@ -44,7 +46,7 @@ Understanding the role analysis plays in our understanding of data.
 
 ## Workshop: Writing an Abstract
 
-You've now read a lot of abstracts and it's time to write one. In this
+You've now read many abstracts and it's time to write one. In this
 workshop you'll be guided through writing one. The abstract is an
 important part of a research paper for both readers and writers. Readers
 use abstracts to be informed about the aim and main (expected)
@@ -82,7 +84,7 @@ work and enhance the visibility of your research
 ## Group Activity of the Week
 
 Continue with research. Write your data analysis methods section which
-is the same as writing your plan. Look at the way they've been written
+is the same as writing your plan. Look at how they have been written
 in the various papers you've read.
 
 ## Discussion Questions
@@ -109,7 +111,7 @@ in the various papers you've read.
 
 ### Group
 
-Write an outline of data analysis method section of your paper. How will
+Write an outline of the data analysis method section of your paper. How will
 you analyse your data?
 
 ### Individual

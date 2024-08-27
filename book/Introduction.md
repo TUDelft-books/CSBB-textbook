@@ -1,45 +1,19 @@
+
+
 # Welcome
+Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor. This textbook was designed to guide supervisors, coaches, and students on a journey of this minor. We are using the metaphor of a boat journey as a fun and hopefully helpful metaphor of different steps and milestones of your project, and because Johanna likes boats. Supervisors and coaches are available to provide guidance, but this is your journey. 
 
-Welcome to the textbook for the Collaborative Research for Biomedical
-Breakthroughs minor. This textbook was designed to guide supervisors,
-coaches, and students on following the journey we have developed for
-them in this minor. We are using the metaphor of a boat journey because
-it makes for fun pictures and may be helpful. Supervisors and coaches
-are available to provide guidance, but it is your journey. This textbook
-provides an overview of what we are including in lectures, workshops and
-topics, a little bit about why and some (hopefully) thought-provoking
-questions to inspire meaningful discussions. Each chapter is organized
-to cover the topics of that week, providing navigation markers for our
-journey.
+This textbook provides an overview and explanation for different workshops included. It also includes some resources and (hopefully) thought-provoking questions to inspire interesting discussions. Each chapter is organized to cover the topics of a given week and provide navigation markers for our journey. 
 
-​The participants in this minor consist of 4 groups:
+The participants in the minor’s Learning community include:
 
--   The teaching team---thread leaders and developers who have
-    constructed this framework and will give lectures and workshops.
-    They have expertise in the durable skills being taught.
+•	*The teaching team* — thread leaders and developers who constructed this framework and give workshops. They have expertise in the durable skills being taught, and through the minor are learning more. They are always available for questions via email. 
+•	*Supervisors* — scientists and researchers who supervise a group of students to help design realistic projects. They have expertise in the process of designing research projects. They will ask a lot of questions but provide few answers. They are also learning more about collaborative research projects and supervising them.  
+•	*Coaches*— PhD students who will serve as coaches for groups. They also have expertise in developing research project s. This minor is also a place for them to practice and develop their supervisory skills. 
+•	*Students* — they are leading the content and research questions. They will become the experts on their topics. They also bring a variety of expertise from different programmes and life experiences to the whole minor. They are divided into teams (crews) who will work together to learn more. 
 
--   Supervisors---scientists and researchers who will supervise a group
-    of students in helping design their projects. They have expertise on
-    the process of designing research projects.
+The Collaborative Research for Biomedical Breakthrough minor provides opportunities to do multi/inter/transdisciplinary research while learning necessary durable research skills. We explicitly teach the structures, networks and connections that are foundational to (scientific) research. The skills are organised and grouped into four intertwined threads: 
 
--   Coaches---PhD students and postdocs who will serve as coaches for
-    groups, they also have some expertise on research projects, maybe
-    less than the supervisors, but they have more time to help the
-    students.
-
--   Students---they are leading the content and research questions. They
-    will become the experts on their topics. They also bring a variety
-    of expertise from different programmes and life experience to the
-    whole minor team. They are divided into teams (crews) who will work
-    together to learn more.
-
-The Collaborative Research for Biomedical Breakthroughs provides
-opportunities for students to do multi/inter/transdisciplinary research
-while learning necessary durable research skills. We will explicitly
-teach students to understand the structures, networks and connections
-that are foundational to (scientific) research. The structure allows
-students to develop skills, which we have organised and grouped in four
-different intertwined threads:
 
 \(i\) collaboration
 
@@ -49,199 +23,101 @@ different intertwined threads:
 
 \(iv\) reflection---critical thinking.
 
-They will practice and develop the implicit skills and knowledge that
-scientists in any discipline are expected to have, and which really are
-useful in almost any work field.
+You will practice and develop the implicit skills and knowledge that scientists in any discipline are expected to have, and which really are useful in almost any work field. 
 
-It also provides opportunities for supervisors and coaches to further
-develop their skills in these areas and to develop collaborations with
-others.
+Supervisors and coaches can also further develop their skills in these areas and develop collaborations with others. 
 
-​The founding assumptions of what we developed this programme for:
+The founding assumptions when we developed this programme:
 
--   Students and supervisors want opportunities to contribute to address
-    world challenges.
-
--   Including different disciplines and backgrounds creates better
-    education and science.
-
--   Being able to do collaborative research on an entirely new topic is
-    a necessary skill set for being successful. It takes collaboration,
-    communication, research, and reflection skills. Skills which need
-    practice and development.
-
--   Programmes and students should not be afraid of failing---fail fast,
-    learn fast.
-
+-	Students and supervisors want opportunities to contribute to addressing important world challenges. 
+-	Including different disciplines and backgrounds creates better education and science.  
+-	Being able to do collaborative research on an entirely new topic requires a skill set and is necessary to be a successful researcher. These skills need to be taught explicitly and require time and space for practice and development. 
+-	Programmes and students should not be afraid of failing—fail fast, learn fast. 
 
 ```{figure} /images/Img_ResearchFlower.png
 :name: Research flower
 One way to think about the research environment
 ```
 
-We want students to understand the relational pieces of doing science,
-the people involved, the kinds of resources, what it takes to
-communicate and collaborate effectively, and be able to reflect on all
-those things to do bigger, better science.
+
+We want our students to develop understanding of the relational pieces of doing science, the people   involved, the kinds of resources; know how to communicate and collaborate effectively; and have the ability to reflect on all these elements in order to achieve impactful and excellent science. 
 
 # Our Expectations
 
-We have a few expectations of all participants in the minor (students,
-coaches, supervisors, teachers) that we think are necessary for this
-minor to be successful.
+When working in a collaborative environment, it is important to have clear expectations. These can help avoid misunderstandings and lead to more effective collaboration. We have some expectations of all participants (students, coaches, supervisors, teachers). In addition these will be discussed in the introduction day, and you’ll have time to develop your shared expectations for your crew.  
 
--   Ask questions. Of yourself, your peers, of the science. Think
-    critically. Admit when you do not know things. If something is
-    unclear ask for questions early.
+-	Ask questions.  Of yourself, your peers, and of the science. Think critically. Admit when you do not know. If something is unclear ask immediately. 
+-	Actively participate in all programme activities. Your voice, perspective and energy are crucial to the success of this community. 
+-	Be kind to the people around you. Help them out. Recognize we all have feelings, and they matter. Everybody will have different feelings and perspectives.
+-	Be hard on ideas, making sure to separate them from the people. This is how ideas are improved. Think critically about your own ideas as well as the ideas of others. This is how we develop better ideas. 
+-	Challenge yourself, have the courage to step out of your comfort zone, and when someone around you is clearly challenging themself be supportive. 
+-	Nothing is really a failure. It’s a first attempt. Assess the results, ifit didn’t do the thing you wanted it to do try something different. If it affects other people, let them know, let them know what you’re going to do differently in your next attempt. Understanding unexpected results is a skill to master and learning from these is at the heart of science. Unexpected results are often at the heart of discovery. The only real failure is doing the same thing over and over and expecting a different result. 
+-	Take an occasional break. Science is never done. We need breaks so our brains can integrate what we have learned and produce innovative ideas. 
+-	Have fun. Science and learning should be fun, challenging work, but also fun.
 
--   Actively participate in all programme activities. Your voice,
-    perspective and energy are crucial to the success of this project.
-
--   Be kind to the people around you. Help them out. Recognize we all
-    have feelings, and they matter. Everybody will have different
-    feelings and perspectives.
-
--   Be hard on ideas, making sure to separate them from the people. This
-    is how ideas are improved. Think critically of your own ideas as
-    well as others. This is how we gain deeper understanding.
-
--   Challenge yourself, have the courage to step out of your comfort
-    zone, and when someone around you is clearly challenging themself be
-    supportive.
-
--   Learn from failure. We are not perfect, and learning is about trying
-    new things. When you get something wrong, let people in your group
-    and, if needed, in the minor know, apologise, and work on the
-    solution. Learning from mistakes is a skill to master.
-
--   Take an occasional break, science is never done. We need breaks so
-    our brains can integrate what we have learned and produce innovative
-    ideas.
-
--   Have fun. Science and learning should be fun, challenging work but
-    also fun.
 
 # Textbook structure
 
-Each chapter of the textbook will have an introduction and our learning
-hopes for you for that week. We strongly encourage you to develop
-personal ones. Below is a description of the sections.
+Each chapter of the textbook has an introduction and our learning goals for that week. We strongly encourage you to develop personal learning goals as well. Below is a description of the sections.
 
-The appendices contain descriptions of assignments, descriptions of
-assessments and rubrics. The actual submission of assignments and
-grading is done in Brightspace for this course.
+The appendices contain descriptions of assignments, descriptions of assessments and rubrics. The actual submission of assignments and grading is done in Brightspace. 
 
 # Weekly structure
 
-Each week (except the first and last of each quarter) during the minor consists of two half days of scheduled activities in the form of interactive lectures, and workshops focused on developing skills and broad knowledge. There are also science spotlights to see what different people are doing in the field.
+Each week (except the first and last of each quarter) consists of two half days of scheduled activities in the form of interactive workshops and science spotlights focused on developing skills and broad knowledge. 
 
-In addition, students and supervisors will meet with their group on
-Thursdays to discuss progress. Friday will be the integration moment
-each week when everyone comes together to share what they have learned
-during the week, what challenges they have faced, what questions they
-have not found answers for yet, what their plans for the week after are.
+In addition, students and supervisors meet within their group to discuss progress, usually on Thursday. Friday symposium is the integration moment each week when everyone comes together to share things learned during the week, challenges they have faced, questions they have not found answers to yet, and discuss the reflective questions of the week.
 
-In between, it will be up to student groups to plan their activities to
-do research and complete assignments. We expect weeks to be busy, and
-students will get out of this minor what they put into it.
+In between, it will be up to student groups to plan their activities to do research and complete assignments. We expect weeks to be busy, and you will get out of this minor as much as you are willing to put into it. 
+
 
 ## ​Introduction and goals
 
--   Explanation of what we want to achieve and why we are including this
-    lecture & workshop
+Explanation of what we want to achieve and why this is an important topic in a scientist’s skill development.
 
-## Lecture
-
-Lectures are not really lectures, with a small group, they are more
-guided discussions where you can expect to be shown a lot of information
-which you will want to learn. Topics could be philosophical---why do we
-do transdisciplinary research, or practical such as what are research
-grants and how should they be written.
-
--   Overview
-
--   Key concepts
-
--   Relevant learning goals
 
 ## Workshop
 
-Workshops are designed for you to practice and build skills, these can
-be technical---how to do literature searches to, to more personal
-explorations of perspectives and biases.
+Workshops are designed for you to practice and build skills, these can be technical — how to do literature searches, to more personal explorations of perspectives and biases. 
+-	Overview
+-	Key concepts
+-	Relevant learning goals
 
--   Overview
-
--   Key concepts
-
--   Relevant learning goals
 
 ## Group activity of the week -- group assignment
 
-This section will include a description of what the groups should be
-working on by this stage of the minor. The assignments are the required
-minimum, in addition there will be information about where you should be
-in researching and developing your proposal. Every week includes the
-group working together to research, explore and write.
-
--   Describe this week's group activity
+This section will include a description of what the groups should be working on by this stage of the minor. Your project may vary and not follow the exact guidelines we’re giving. There are weekly pointers onwhere you should be in researching and developing your proposal. Every week includes the group working together to research, explore and write. 
 
 ## Discussion Questions -- critical thinking portfolio
 
-These are questions designed to inspire reflection and critical
-thinking. They can be used by everyone (students, coaches and
-supervisors) for self-reflection, and for group meetings to spark
-discussion.
+These are questions designed to inspire reflection and critical thinking. They can be used by everyone (students, coaches and supervisors) for self-reflection, and for group meetings to spark discussions. 
+There are a few standard questions that should come up in most meetings as part of checking in with each other.
+-	How is everyone doing?
+-	What are people struggling with/challenged by? (Could also include personal things, so your team knows if you are distracted this week or need some help)
+-	What are you worried about? 
+-	What is going well? What are you proud of recently? 
+-	What are you excited about? 
+-	What is your group’s next steps?
 
-There are a few standard questions that should come up in most meetings
-as part of checking in with each other.
-
--   How is everyone doing?
-
--   What are people struggling with/challenged by? (Could also include
-    personal things, so your team knows if you are distracted this week
-    or need some help)
-
--   What are you worried about?
-
--   What is going well, what are you proud of recently?
-
--   What are you excited about?
-
--   What is our next step?
 
 ## Weekly assignments:
 
 Each week there will be a group assignment and an individual assignment.
 
 ### Group assignments
+The group assignments are designed to help groups stay on track in this quick-moving minor. They are foundational building blocks to the final products of the minor and should be discussed with the supervisor in group meetings. This mirrors the way in a research lab members of the lab prepare each week to talk about what they’ve done and are working on. 
 
-The group assignments are designed to help groups stay on track in this
-quick moving minor. They are foundational to the final products of the
-minor and should be discussed with the supervisor in group meetings.
-This mirrors the way in a research lab members of the lab prepare each
-week to talk about what they've done and are working on.
+These are due on Thursdays at noon. Doing them well will make doing your final projects easier and better. For example, the group assignment for week 1 is to come up with a team name and submit it via Brightspace. Group assignments are typically short: about half a page. 
 
-These are due on Thursdays at noon. Week 1 for example is coming up with
-a team name and submitting it via Brightspace. They are mostly not long,
-about a half page.
 
 ### Individual assignments
 
-Each week there will also be a short-written response to a particular
-question, about half a page; it should not take more than 30 minutes of
-time to write. It is due on Fridays at noon, submitted via Brightspace.
-These will make up the critical thinking journal which is one component
-of the final grade.
+Each week, there will be a short individual writing assignment to critically think and respond to a particular question. These should be short (about half a page) and shouldn’t take more than 30 minutes to write. They are due on Fridays at noon and should be submitted via Brightspace. These writing assignments build up into a “critical thinking journal”, which is one component of the final grade. 
 
-The questions are designed to spark thoughts and ideas about how you
-define yourself and how you'd like to define yourself, and reflections
-on issues within science that need critical thinking. Submissions are
-not graded on writing quality but on engagement with the question.
-Submission is mandatory to receive a final grade.
+The questions are designed to spark thoughtfulness about how we understand ourselves and encourage us to reflect on difficult (ethical) issues within science.  Submissions are not graded on writing quality but on engagement with the question. Submissions are mandatory to receive a final grade. 
+
 
 ## References
 
-This section will include links to references and resources that might
-be helpful this week.
+This section will include links to references and resources that might be helpful for this week’s topic. 
 
