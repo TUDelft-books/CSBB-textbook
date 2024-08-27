@@ -24,26 +24,26 @@ The schedule for the introduction week is quite full and complex. It includes:
 *Tuesday:*
 
 -   Literature Search workshop
--   <a href=workshop-scholarly-communication-and-critical-reading> Scholarly Communication and Critical Reading </a>
--   Workshop: <a href=workshop-group-roles-and-group-dynamics> Group Roles and Group Dynamics </a>
+-   <a href=#workshop-scholarly-communication-and-critical-reading> Scholarly Communication and Critical Reading </a>
+-   Workshop: <a href=#workshop-group-roles-and-group-dynamics> Group Roles and Group Dynamics </a>
 -   (teaching team makes student groups)
 
 *Wednesday:*
 
 -   Student groups announced
--   <a href=workshop-team-building> Team Building </a>: playing (medical and biology-themed) collaborative and competitive board games
+-   <a href=#workshop-team-building> Team Building </a>: playing (medical and biology-themed) collaborative and competitive board games
 -   Group free time to create a team name, explore the subtopics, and read subtopic articles suggested by the supervisors
 
 *Thursday:*
 
--   <a href=workshop-jigsaw-puzzle-part-i> Jigsaw Puzzle part I </a> (students will discuss in groups the different parts of the review given on Monday)
--   <a href=workshop-reflective-science> Workshop reflective science </a>
+-   <a href=#workshop-jigsaw-puzzle-part-i> Jigsaw Puzzle part I </a> (students will discuss in groups the different parts of the review given on Monday)
+-   <a href=#workshop-reflective-science> Workshop reflective science </a>
 -   keep on reading and understanding the background of subtopics
 -   Submit team name and personal learning goals
 
 *Friday:*
 
--   <a href=workshop-jigsaw-puzzle-part-ii> Jigsaw puzzle part II </a> (students will discuss the different parts of the review with the rest of the class. See Jigsaw puzzle part I)
+-   <a href=#workshop-jigsaw-puzzle-part-ii> Jigsaw puzzle part II </a> (students will discuss the different parts of the review with the rest of the class. See Jigsaw puzzle part I)
 -   Team builder
 -	Submit the first writing assignments
 -  	First Friday symposium—reflect on the week 
