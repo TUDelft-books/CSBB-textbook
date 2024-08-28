@@ -1,4 +1,6 @@
-
+```{figure} /images/intro_image.png
+:name: intro image
+```
 
 # Welcome
 Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor. This textbook was designed to guide supervisors, coaches, and students on a journey of this minor. We are using the metaphor of a boat journey as a fun and hopefully helpful metaphor of different steps and milestones of your project, and because Johanna likes boats. Supervisors and coaches are available to provide guidance, but this is your journey. 

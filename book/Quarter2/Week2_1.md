@@ -19,7 +19,7 @@ This week is the first week of quarter 2 and will thus include a lot of “Getti
 
 *Tuesday:*
 -	Workshop: <a href=#workshop-sustainability-in-the-lab>Sustainability in the Lab</a> 
--	Workshop: Proposal to Plan
+-	Workshop: <a href=#workshop-from-proposal-to-plan>From Proposal to Plan</a>
 
 *Wednesday:*
 -	Workshop: <a href=#workshop-budgeting-in-a-lab> Budgeting in the lab</a>
@@ -62,7 +62,18 @@ Doing biological science uses a LOT of resources, from plastics for sterility to
 ### Key concepts
 Sustainability, Resource usage
 ### Relevant learning goals
-Process of science, Ethics and reflection
+Process of science, Ethics and reflection^
+
+## Workshop: From Proposal to Plan
+This is structured time for groups to work with their coaches on what they need to do to turn their research proposal into a plan which is likely to succeed. What are the pitfalls, what resources need to be identified and anything that has been forgotten. Activities will include setting up a timeline of how and when things need to be done in order to complete the project in the time allotted and what can be done in parallel. 
+
+### Key Concepts 
+
+Time management, Resource allocation, Making teams 
+
+### Relevant learning goals 
+
+Scientific planning, Collaboration skills 
 
 
 ### Workshop: Budgeting in a lab

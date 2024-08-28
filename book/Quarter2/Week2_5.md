@@ -27,22 +27,36 @@ Components this week are:
 
 ## Workshop: Data Analysis Theory
 
-What to consider when analysing data. Different kinds of analysis and
-what they can show or hide. Also useful to think about this when reading
-scientific papers: do you know why the writers chose the analysis they
-did? And the visualization they did?
+A core piece of science is collecting data (see last week) and then analysing it. This session we’ll focus on considerations in presenting those results. It’s outside the scope of this minor to teach statistics and bioinformatics. This week will focus on some of the big picture—what considerations there are in deciding how to analyse data, and what to include when analysing your data.  
+
+What to consider when analysing data to make visualizations. Different kinds of analysis and what they can show or hide.  Also useful to think about this when reading scientific papers:, do you know why the writers chose the analysis they did?, and the visualization they did?.   
+
+Understanding the role analysis plays in our understanding of data 
+
+After careful data analysis, it is often as important to effectively communicate the results of the analysis. However, there can be many ways to visualize the results of your research, so what representation do you choose to best tell your story? This workshop provides the guidelines and tools for effective data visualization in an academic setting. We will discuss the most important principles of academic data visualization and get some hands-on practice with choosing different data representations, styling the figure to best tell your story, and recognizing misleading elements.
 
 ### Key Concepts
 
-- Write an analysis plan before you start analysing your data.
+- Write an analysis plan before you start analysing your data.  
 
-- Think about alternate methods of analysing data
+- Think about alternate methods of analysing data 
 
-- Cleaning data-what and when and keeping original data.
+- Cleaning data-what and when and keeping original data.  
 
+- Guidelines for academic data visualization 
+
+- How to pick the right representation for my data to tell my story 
+
+- How to use style and color to highlight important features in data 
 ### Relevant Learning Goals 
 
-Understanding the role analysis plays in our understanding of data.
+- Communicating data clearly 
+
+- Choosing the most effective data representation 
+
+- Using effective style for their visualizations 
+
+- Recognize and avoid bad or misleading practices in representing data 
 
 ## Workshop: Writing an Abstract
 
