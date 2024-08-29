@@ -31,21 +31,25 @@ for the data that can be publicly shared.
 
 This week we'll focus on:
 
--  Lecture: <a href=#lecture-data-management-and-privacy>Data Management and Data Privacy</a>
+*Monday:*
 
--   Science Spotlights
+    -  Workshop: <a href=#workshop-data-management-and-privacy>Data Management and Data Privacy</a>
 
--   Workshop: <a href=#workshop-data-repositories-management-and-documentation>Data Repositories, Management and Documentation</a>
+    -   Science Spotlights
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
+*Wednesday:*
+    -   Workshop: <a href=#workshop-data-repositories-management-and-documentation>Data Repositories, Management and Documentation</a>
 
-## Lecture: Data Management and Privacy 
+*Friday:*
+    -   Friday Symposium
+
+## Workshop: Data Management and Privacy 
 
 Research depends on data we collect, store and analyse. Before any
 researcher gets started they need a plan for how they'll manage their
 data, as it will be easier to manage your data properly from the start
 instead of having to redo some of your work. When joining an ongoing
-project, it's important to learn how that project stores their data.
+project, it is important to learn how that project stores its data.
 This is generally described in the Data Management Plan of a project or
 research group. This lecture will introduce many of the concepts.
 
@@ -86,7 +90,7 @@ video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 
 ## Workshop: Data Repositories, Management and Documentation
 
-During the workshop we will first explore in more detail what a Data
+During this workshop, we will first explore in more detail what a Data
 Repository is, as well as how to find the ones relevant to your research
 project. Once you have identified possible Data Repositories to use for
 your research project, whether to find existing data or to eventually

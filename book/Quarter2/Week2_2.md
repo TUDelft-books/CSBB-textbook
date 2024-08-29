@@ -4,98 +4,47 @@
 
 # Week 2.2: Can you repeat that? 
 
-It's really cool if you can do something new, but it only really
-"counts" if others can do the same and get the same results. This is how
-scientists verify the accuracy of results. There are things as a
-researcher that you should do to contribute to the reproducibility of
-your results. There is also the question of what does it mean if you
-can't? Also, important to consider how you problem solve if you can't
-reproduce your results. The basic assumption is if you can't reproduce
-your results you may not entirely understand what you're doing and what
-factors are important.
+It’s really cool if you can do something new, but it only really “counts” if others can do the same and get the same results. This is how scientists verify the accuracy of results.  There are things as a researcher that you should do to contribute to the reproducibility of your results. There is also the question of what does it mean if you can’t? Also, important to consider how you problem-solve if you can’t reproduce your results. The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important. 
 
-This weeks topic is 'reproducibility'. The components are:
+This weeks topic is ‘reproducibility’. The components are:
 
--   Lecture: <a href=#lecture-reproducibility>Reproducibility</a> (Monday)
+*Monday:*
 
--   Science Spotlight
+-	Science Spotlight 
 
--   Workshop: <a href=#workshop-troubleshooting>Troubleshooting</a>
+*Wednesday:*
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
+-	Workshop:<a href=#workshop-reproducibility>Reproducibility</a>
+-	Workshop: <a href=#workshop-troubleshooting>Troubleshooting</a>
 
-## Lecture: Reproducibility
+*Friday:*
+-	Friday Symposium
 
-What are the necessary elements in reproducibility: keeping a good lab
-journal, writing clear and accurate methods, reading methods accurately
-and checking assumptions. WHat are the things necessary to record in
-your lab journal?
 
--   What does it mean?
+## Workshop: Reproducibility
+What are the necessary elements in reproducibility: keeping a good lab journal, writing clear and accurate methods, reading methods accurately and checking assumptions. What are the things necessary to record in your lab journal? 
+-	What does it mean? 
+-	How it’s used to judge science?
+-	Examples of theories where lack of reproducibility unraveled a published theory. 
+-	Why keeping a lab notebook and writing clear methods sections matters. 
+-	Some of the surprising variables that can effect reproducibility--lots of examples of this though this is one of my favorites, also an excellent example of critical thinking: [Comparison of Trials Using Ivermectin for COVID-19 Between Regions With High and Low Prevalence of Strongyloidiasis: A Meta-analysis | Infectious Diseases | JAMA Network Open | JAMA Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
 
--   How it's used to judge science?
+ 
+### Key concepts
+Lab journal plan, Exploration of all the things that might affect your results. 
+### Relevant learning goals
+Clear communication of research methods, Understanding the importance of documentation, Collaboration on experiments
 
--   Examples of theories where lack of reproducibility unraveled a
-    published theory.
-
--   Why keeping a lab notebook and writing clear methods sections
-    matters.
-
--   Some of the surprising variables that can effect
-    reproducibility\--lots of examples of this though this is one of my
-    favorites, also an excellent example of critical thinking:
-    [Comparison of Trials Using Ivermectin for COVID-19 Between Regions
-    With High and Low Prevalence of Strongyloidiasis: A Meta-analysis \|
-    Infectious Diseases \| JAMA Network Open \| JAMA
-    Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
-
-### Key Concepts
-
-- Lab journal plan
-
-- Exploration of all the things that might affect your results.
-
-### Relevant Learning Goals
-
-- Clear communication of research methods
-
-- Understanding the importance of documentation
-
-- Collaboration on experiments
 
 ## Workshop: Troubleshooting
+Troubleshooting is foundational to experimental work, you try something, you figure out it didn’t work the way you wanted, you figure out why, or find new things to try and repeat until you get consistent output that you want. 
 
-Troubleshooting is foundational to experimental work, you try something,
-you figure out it didn't work the way you wanted, you figure out why, or
-find new things to try and repeat until you get consistent output that
-you want.
-
-We all have some troubleshooting skills, in this workshop you'll develop
-further skills and look at the social-emotional side of troubleshooting.
-Also how to develop collaborative troubleshooting skills, using
-collaborators can be a great way to troubleshoot.
-
+We all have some troubleshooting skills, in this workshop you’ll develop further skills and look at the social-emotional side of troubleshooting. Also how to develop collaborative troubleshooting skills, using collaborators can be a great way to troubleshoot.  
 ### Key Concepts
+Ways of approaching problems, Keeping track of what you’ve tried, Collaborating to troubleshoot, Identify problem spots, Evaluate variables, What are all the things that could be affecting it
+### Relevant learning goals
+Collaboration, Research Process, Critical Thinking
 
-- Ways of approaching problems
-
-- Keeping track of what you've tried
-
-- Collaborating to troubleshoot
-
-- Identify problem spots
-
-- Evaluate variables
-
-- What are all the things that could be affecting it
-
-### Relevant Learning Goals
-
-- Collaboration
-
-- Research Process
-
-- Critical Thinking
 
 ## Group Activity of the Week
 

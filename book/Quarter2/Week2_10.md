@@ -4,10 +4,16 @@
 
 # Week 2.10: We made it!
 
-20 weeks have dragged and gone incredibly quickly. This week we'll wrap
-it all up.
+20 weeks have dragged and gone incredibly quickly. This week we’ll wrap it all up. 
+This week’s schedule includes:
 
-Scheduled components this week are:
+*Thursday:*
+-	Presentation Practice with peers and peer feedback
+-	Final presentations
+
+*Friday:*
+-	Final reflection on the whole minor
+
 
 - Presentation practice with peers and peer feedback
 
@@ -22,12 +28,12 @@ This week will be mostly focused on final presentations and feedback.
 
 ## Sample Oral Exam Questions
 
--   What are you proud of in collaborating with team mates?
+-   What are you proud of in collaborating with teammates?
 
--   What were some of the cultural differences within your team, what
+-   What were some of the cultural differences within your team, and what
     effect do you think they had on your work?
 
--   What was your biggest challenge in the process of this project, what
+-   What was your biggest challenge in the process of this project, and what
     did you learn from it?
 
 -   What thing can I (supervisor) give you feedback on?
@@ -54,5 +60,6 @@ Submit the final paper
 
 Do the course evaluation (anonymous)
 
-Submit your final thoughts on the minor, suggestions for improvements,
-(not anonymous)
+Submit your final thoughts on the minor and suggestions for improvements, (not anonymous).
+
+## References

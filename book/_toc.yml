@@ -29,6 +29,12 @@ parts:
     - file: Quarter2/Week2_8.md
     - file: Quarter2/Week2_9.md
     - file: Quarter2/Week2_10.md
+  - caption: Annex
+    chapters: 
+    - file: Annex/Rubrics_Q1.md
+    - file: Annex/Rubrics_Q2.md
+    #- file: Annex/rubric.ipynb
+
 
  
     

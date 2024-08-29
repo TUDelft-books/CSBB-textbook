@@ -3,23 +3,19 @@
 ```
 
 # Week 2.6: Biases and Papers
-This week will focus on two slightly separate but equally important
-aspects of science. Bias and paper writing.
-
-The first is Bias---unconscious or otherwise. We all have biases, shaped
-by our neurodevelopement---culture, language, experiences. As scientists
-we strive to be objective but the reality is that we very rarely are. In
-this workshop we'll discuss how to be aware of our biases and what we
-might want to do to shape them in the way we want. And why it matters.
-Biases influence which theories we believe; what papers get published
-and how scientific theory changes. This becomes even bigger when
-considering AI.
-
-The second part of this week is a dive into scientific paper writing.
-What's included what the various parts mean, what the process is for
-writing a publishable paper.
-
+This week will focus on two slightly separate but equally important aspects of science: Bias and paper writing. 
+The first is Bias—unconscious or otherwise. We all have biases shaped by our neurodevelopement—culture, language, experiences.  As scientists, we strive to be objective, but the reality is that we very rarely are. In this workshop, we will discuss how to be aware of our biases and what we might want to do to shape them in the way we want.  And why it matters. Biases influence which theories we believe; what papers get published and how scientific theory changes. This becomes even bigger when considering AI. 
+The second part of this week is a dive into scientific paper writing. What should be included in a paper? what are the various parts of a paper?, and what is the process to follow in order to write a publishable paper? 
 Components this week are:
+
+*Monday:*
+-	Workshop: <a href=#workshop-unconscious-bias-in-science-and-personal>Unconscious Bias -- In Science and Personal</a>
+-	Science Spotlights
+
+*Wednesday:*
+-	 Workshop: <a href=#workshop-paper-writing>Paper Writing</a>
+
+
 
 -   Workshop: <a href=#workshop-unconscious-bias-in-science-and-personal>Unconscious Bias -- In Science and Personal</a>
 
@@ -30,13 +26,7 @@ Components this week are:
 -   <a href=#group-activity-of-the-week> Group Activity </a>
 
 ## Workshop: Unconscious Bias -- in Science and Personal
-People make judgements about other people, themselves, science. Besides
-objective facts there are a whole range of additional ways in which we
-make judgements, they are influenced by culture, identity, values, human
-nature, and especially when unexamined we call these biases. On some
-level, they are unavoidable, but they are examinable and we can change
-them. Who's in control of your decisions---your intellect and values or
-your biases?
+People make judgements about other people, themselves, science. Besides objective facts there are a whole range of additional ways in which we make judgements; they are influenced by culture, identity, values, human nature, and especially when unexamined we call these biases. On some level, they are unavoidable, but they are examinable and we can change them. Who’s in control of your decisions—your intellect and values or your biases? 
 
 ### Key Concepts
 Types of Cognitive biases (so many ways to categorize them)

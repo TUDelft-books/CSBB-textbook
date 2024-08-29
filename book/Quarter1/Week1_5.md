@@ -2,97 +2,63 @@
 :name: week5image
 ```
 # Week 1.5: Stakeholders 
+There are two fundamental standpoints about the goal of science, in general. One group of scientists say that science aims to gather knowledge, while others say that science never stands alone in itself; we use science and technology to solve societal problems. These problems are generally vague and complex, and the issues manifest in various areas of life, causing legal, financial, ethical, medical, etc. consequences for different groups. One of the main features of transdisciplinary research is that it is often the most successful way to solve these kinds of problems due to the involvement of non-academic stakeholders. 
 
--   Science Spotlight
+Durham (2014) defines a stakeholder in a scientific context as: "any person or group who influences or is influenced by the research”. This includes the people working on a research project, paying for it, and will be affected by or using its results. At its broadest definition, everyone could be a stakeholder in your project, though most are not active participants. It’s usually helpful to consider them in three broad categories: those who support your project, those who oppose it, and those who will be affected by it. Mapping the stakeholders and understanding their perspectives are crucial in setting up transdisciplinary research projects. It is also important to remember that people have multiple things they’re stakeholders in with competing interests. 
+This week, we will be talking about stakeholders. What are they? Why do we care about stakeholders? How do they impact what we are doing? Whether you have heard of the term stakeholders before or not—being aware of who they are and how they affect your research, and actions can help you produce a result that best fits the circumstances and expectations. 
 
--   Lecture: <a href=#lecture-stakeholders> Stakeholders</a>: what does it mean and why do we care?
+*Monday:*
+- 	Science Spotlight
+-	Workshop: <a href=#workshop-stakeholders> Stakeholders</a>: what does it mean and why do we care?
 
--   Workshop: <a href=#workshop-stakeholder-panels> Stakeholder Panel</a>
+*Wednesday:* 
+- 	Workshop: <a href=#workshop-stakeholder-panel> Stakeholder Panel</a>   
 
--   Group Activity: <a href=#group-activity-of-the-week> What do(n't) you know?</a>
+*Friday:* 
+-	Symposium: Engaging with Stakeholders
 
--   Friday Symposium
-## Introduction and Goals
 
-Stakeholder can be defined as someone who has an interest in the success
-of something. This includes the people working on it, paying for it, and
-will be affected or use the results from it. At its broadest definition,
-everyone could be a stakeholder in your project, though most are not
-active participants. It's usually more useful to think of them in three
-broad categories: those who support your project, those opposed, and
-those who will be affected by it. Understanding who and what their
-motivation is can be very important in building effective
-collaborations, designing excellent projects and having a successful
-career. Also important to remember is that people have multiple things
-they're stakeholders in with competing interests.
+## Workshop: Stakeholders
 
-This week we will be talking about stakeholders. What are they? Why do
-we care about stakeholders? How do they impact what we are doing?
-Whether you have heard of the term stakeholders before or not---being
-aware of who they are and how they impact your research and actions can
-help you to produce a result that best fits the circumstances and
-expectations present.
 
-## Lecture: Stakeholders
 
-### Overview
+This workshop will introduce the concept of stakeholders and how they are connected to projects and actions. This means discussing topics such as what makes somebody a stakeholder and identifying different stakeholders in different projects and situations the students are in. You will actively map known and potential stakeholders for your projects by using the Sailboat gamestorming method. 
 
-Besides “what are they” and “why do we care about them”, this lecture should help you answer more questions about the importance of stakeholders. We will discuss how to collaborate with them, why they would collaborate with you, and what could break this relationship. At the end of this lecture, students should have an inventory of mindsets, epistemological standpoints and doctrines, which help you build a good relationship with stakeholders. 
+Besides “what are they” and “why do we care about them”, this workshop will help you answer more questions about the importance of stakeholders. We will discuss how to collaborate with them, why they would collaborate with you, and what could break this relationship. At the end of this workshop, you should have an inventory of mindsets, epistemological standpoints and doctrines, which help you build a good relationship with stakeholders.
 
-This lecture will introduce the concept of stakeholders to students so they can connect it to their projects and actions. This means discussing topics such as what makes somebody a stakeholder and identifying different stakeholders in different projects and situations the students are in. Students will actively map known and potential stakeholders for their own projects by using the Sailboat gamestorming method.   
+Regarding the presentations at the end of this minor, you will want to learn about how different types of audiences (eg. supervisor, fellow students, general public) are different stakeholders and how that should influence the way you present your findings. Furthermore, the characteristics of these audiences, such as along the scale of involved to less involved or how they process information, will be discussed. This latter part also means that the you will learn some essential communication elements for presenting to and talking with external but interested parties. Considering speaker, message, audience and context are vital in deciding how to relay information.
 
-Regarding the presentations at the end of this minor, students will need to learn about how different types of audiences they will have (eg. supervisor, fellow students) are different stakeholders for their projects and how that should influence the way they present their findings. Furthermore, the characteristics of these audiences, such as along the scale of involved to less involved or how they process information, will be discussed. 
-
-This latter part also means that the students should learn some essential communication elements for presenting to and talking with an external but interested party. Keywords for this are speaker/writer, message, audience and context. Considering each of these is vital to for relaying information. 
 ### Key concepts 
 
-After this lecture, groups should be able to answer the following
-questions when it comes to their own project:
+After this workshop, groups should be able to answer the following questions when it comes to their own project:
+-	What are stakeholders?
+-	Who are the stakeholders in their project?
+-	What do they find important?
+-	What do they already know?
+-	How do they influence your work?
+-	What is your relationship with stakeholders?
+-	What needs to be considered in aligning your presentation with stakeholders in your audience?
 
--   What are stakeholders?
-
--   Who are the stakeholders in their project?
-
--   What do they find important?
-
--   What do they already know?
-
--   How do they influence your work?
-
--   What is your relationship with stakeholders?
 
 ### Relevant learning goals
 
--   Students can describe the concept of a stakeholder and why this is
-    relevant in the context of research
+-	Students can describe the concept of a stakeholder and why this is relevant in the context of research
+-	Students should be able to identify stakeholders in different situations
+-	Students know the influence of stakeholders on their actions 
+-	Students understand their own responsibility towards (different types of) stakeholders
+-	Students are able to to make decisions and actions with active consideration of the stakeholders’ influence
+-	Students understand how different audiences are different stakeholders, and the different characteristics that define these audiences
+-	Students know how to present information to stakeholders
 
--   Students should be able to identify stakeholders in different
-    situations
 
--   Students know the influence of stakeholders on their actions
+## Workshop: Stakeholder Panel
 
--   Students understand their own responsibility towards (different
-    types of) stakeholders
 
--   Students are able to to make decisions and actions with active
-    consideration of the stakeholders' influence
-
--   Students understand how different audiences are different
-    stakeholders, and the different characteristics that define these
-    audiences
-
--   Students know how to present information to stakeholders
-
-## Workshop: Stakeholder Panels
-
-### Overview
-This workshop will be a stakeholder panel. Students will ask questions.
-Panel members may include education experts, researchers, industry,
-patient advocates.
+This workshop will be a stakeholder panel. Students will define interesting statement and several questions. Panel members may include education experts, researchers, industry representatives, patient advocates and insurance companies. 
 ### Relevant learning goals
 
 Understand different perspectives of why people engage or participate.
-They're hopes and desires.
+Their hopes and desires.
 
 ## Group activity of the week
 

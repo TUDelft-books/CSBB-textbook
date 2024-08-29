@@ -14,8 +14,7 @@ innovative solutions, as different viewpoints and skills can complement
 and enhance one another. They are built on shared goals and mutual
 trust, are catalysts for innovation, growth, and sustainable
 relationships. But what does it take to create and maintain these
-partnerships, making them not just thrive but survive through
-challenges?
+partnerships, making them not just survive but thrive despite challenges.
 
 The ability to give a presentation is an invaluable skill in today\'s
 world, and its importance cannot be overstated. Presentations serve as a
@@ -27,19 +26,22 @@ expertise. They provide a platform for you to share your insights,
 research findings, or experiences with others. The ability to give a
 presentation is a key component of professional development.
 
-This week:
+This week schedule includes:
 
--   Lecture: <a href=#lecture-collaborative-science>Collaborative Science</a>
+*Monday:*
+    -   Workshop: <a href=#workshop-collaborative-science>Collaborative Science</a>
 
--   Science Spotlight
+    -   Science Spotlight
 
--   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
+*Wednesday:*
+    -   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
+*Friday:*
+    -   Friday Symposium
 
-## Lecture: Collaborative Science
+## Workshop: Collaborative Science
 
-### Overview
+
 
 Collaborative Science for Biomedical Breakthroughs is fluid. Partners in
 these collaborative efforts experience shocks. The research project

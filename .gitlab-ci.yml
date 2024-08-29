@@ -8,6 +8,7 @@ variables:
   REGISTRY_HOST: localhost:5000
   TAG_LATEST: $REGISTRY_HOST/$CI_PROJECT_NAME/$CI_COMMIT_REF_NAME:latest
   TAG_DRAFT: $REGISTRY_HOST/$CI_PROJECT_NAME-draft/$CI_COMMIT_REF_NAME:latest
+  TAG_DRAFT: $REGISTRY_HOST/$CI_PROJECT_NAME-draft/$CI_COMMIT_REF_NAME:latest
 
 cache:
   paths:
@@ -19,7 +20,6 @@ test-build:
   image: python:3.10-bullseye
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
-    - if: $CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"
   before_script:
     - python -V
   script:
@@ -33,13 +33,18 @@ build-book:
   image: docker
   rules:
     - if: $CI_COMMIT_BRANCH == "publish" && $CI_PIPELINE_SOURCE == "push"
+      variables:
+        TAG: $TAG_LATEST
+    - if: $CI_COMMIT_BRANCH == "main" && $CI_PIPELINE_SOURCE == "push"
+      variables:
+        TAG: $TAG_DRAFT
   before_script:
     - docker info
   script:
-    - docker build -t $TAG_LATEST .
-    - docker push $TAG_LATEST
+    - docker build -t $TAG .
+    - docker push $TAG
 
-# This job takes down the existing container 
+# This job takes down the existing container and starts the new one
 deploy-book:
   stage: deploy
   image: docker
@@ -50,6 +55,7 @@ deploy-book:
     - docker stop $CI_PROJECT_NAME || exit_code=$?
     - if [ $exit_code -ne 0 ]; then echo "Container not found, cannot stop"; else docker rm $CI_PROJECT_NAME; fi
   script:
+    - docker run -d --restart always -p 8001:8001 --name $CI_PROJECT_NAME $TAG_LATEST # Make sure to use a different port for each book!
     - docker run -d --restart always -p 8001:8001 --name $CI_PROJECT_NAME $TAG_LATEST # Make sure to use a different port for each book!
   environment:
     name: production
