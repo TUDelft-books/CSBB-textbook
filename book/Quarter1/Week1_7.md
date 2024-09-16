@@ -20,21 +20,19 @@ Grant writing will focus on the technical details of writing grants, developing 
 
 ## Workshop: Knowledge Utilization
 
-
 Fundamental scientific research is the engine of progress and of key importance to enlarge the frontiers of knowledge and understanding of its subject matter. However, empirical evidence shows that collaborations with industrial partners and companies often provide successful routes to professional pathways for the utilization and commercialization of the results from scientific research into novel innovations when aligned with societal unmet needs. 
 
 This course is designed to equip students with the skills necessary to assess how a research idea can provide value to society and develop a strong value proposition for their projects. A key component of the curriculum is guiding students in articulating a clear value proposition that highlights the unique benefits and impact of their research. This involves understanding the needs of their target audience, positioning their projects within the broader scientific landscape, and communicating the significance of their work. Through hands-on activities, including case studies, research proposal development, and collaborative experiments, students will not only bridge the gap between academic learning and real-world scientific inquiry but also ensure their projects are compelling and valuable to stakeholders.
 
 ### Key Concepts 
 -	**Value Proposition**: A statement that clearly explains the unique benefits and significance of a project or research, addressing the needs and interests of the target audience.
--	R**esearch Proposal**: A detailed plan or outline for a research project, including objectives, methodology, expected outcomes, and the value proposition.
+-   **Research Proposal**: A detailed plan or outline for a research project, including objectives, methodology, expected outcomes, and the value proposition.
 -	**Target Audience**: The specific group of people or stakeholders who are most likely to benefit from or be interested in the research findings.
 
 ### Key Learning Goals
 
 -	**Develop a Strong Value Proposition**: Students will be able to create a compelling value proposition that articulates the unique benefits and significance of their scientific projects.
 -	**Identify and Address Audience Needs**: Students will be able to identify the needs and interests of their target audience and tailor their research and value proposition accordingly.
-
 
 
 ## Workshop: Grant Writing
