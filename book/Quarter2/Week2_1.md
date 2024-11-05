@@ -2,7 +2,7 @@
 :name: week2_1image
 ```
 
-# Week 2.1: Finding Answers
+# Week 2.1: The Research Ecosystem
 
 In this quarter, we will journey through the implicit skills and knowledge that scientists need to safely and successfully carry a research project in almost any scientific setting. We will tackle the fundamental topics including but not limited to lab safety, budgeting, data management, making mistakes. We will take a reflective approach to the topics—how do we do them? Why do we do them? And what can we be doing better? Not all of these topics will be used in every student group project, but all scientists should be aware of them and consider them when making research-related decisions.   
 

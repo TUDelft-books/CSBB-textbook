@@ -15,18 +15,25 @@ This week’s schedule includes:
 
 *Monday:*
 -   Science Spotlight
--   Workshop: <a href=#workshop-collaborative-science>Collaborative Science</a>
+-   Workshop: <a href=#workshop-how-to-create-an-impacful-proposal-with-scalable-venture-ideas>How to create an impactful proposal with scalabale venture ideas</a>
 
 
 *Wednesday:*
-    -   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
+
+-   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
 
 *Friday:*
-    -   Friday Symposium
+-   Friday Symposium
 
-## Workshop: Collaborative Science
+## Workshop: How to create an impactful proposal with scalabale venture ideas
 
-Not yet available
+In this workshop, students will learn how to create impactful, scalable ideas by building on the value proposition canvas they developed in the previous session. We’ll explore how to design scientific proposals with a strategic focus on long-term impact and scalability in healthcare product-service systems. Through interactive exercises with the business model canvas, students will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact., Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic proposals. 
+
+### Relevant Learning Goals
+
+- Convince reviewers from funding bodies that the proposed project has a clear, actionable strategy for achieving long-term impact beyond traditional fundamental research. 
+
+- Develop a scalable venture strategy that aligns with the value proposition and business model frameworks, making the idea more attractive to potential stakeholders and investors. 
 
 ## Workshop: Giving a Talk
 
