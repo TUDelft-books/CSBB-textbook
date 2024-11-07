@@ -2,93 +2,43 @@
 :name: week2_8image
 ```
 
-# Week 2.8: Collaborating and Communicating
+# Week 2.8: Convincing people
 
-This week is a combination of collaboration and communication. 
+This week is a combination of impact and communication.  
 
-In our interconnected world, collaborative partnerships have become
-indispensable in professional spheres. Collaborative partnerships allow
-individuals or organizations to combine their unique expertise,
-perspectives, and resources. This diversity often leads to more
-innovative solutions, as different viewpoints and skills can complement
-and enhance one another. They are built on shared goals and mutual
-trust, are catalysts for innovation, growth, and sustainable
-relationships. But what does it take to create and maintain these
-partnerships, making them not just survive but thrive despite challenges.
+The workshop on Monday will focus on a continuation of the workshop Knowledge Utilization in week 1.7. 
 
-The ability to give a presentation is an invaluable skill in today\'s
-world, and its importance cannot be overstated. Presentations serve as a
-powerful means of communication. They allow you to convey information,
-ideas, and messages in a clear and organized manner. They facilitate
-effective communication with your audience, whether it\'s a small group
-or a large gathering. Presentations enable the sharing of knowledge and
-expertise. They provide a platform for you to share your insights,
-research findings, or experiences with others. The ability to give a
-presentation is a key component of professional development.
+The ability to give a presentation is an invaluable skill in today's world. Its importance cannot be overlooked. Presentations are powerful means of communication. They allow you to convey information, ideas, and messages in a clear and organized manner. They facilitate effective communication with your audience, whether it is a small group or a large gathering. Presentations enable the sharing of knowledge and expertise. They provide a platform for you to share your insights, research findings, or experiences with others. The ability to give an engaging and impactful presentation is a key asset for professional development.  
 
-This week schedule includes:
+This week’s schedule includes: 
+
 
 *Monday:*
-    -   Workshop: <a href=#workshop-collaborative-science>Collaborative Science</a>
+-   Science Spotlight
+-   Workshop: <a href=#workshop-how-to-create-an-impacful-proposal-with-scalable-venture-ideas>How to create an impactful proposal with scalabale venture ideas</a>
 
-    -   Science Spotlight
 
 *Wednesday:*
-    -   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
+
+-   Workshop: <a href=#workshop-giving-a-talk>Giving a Talk</a>
 
 *Friday:*
-    -   Friday Symposium
+-   Friday Symposium
 
-## Workshop: Collaborative Science
+## Workshop: How to create an impactful proposal with scalabale venture ideas
 
-
-
-Collaborative Science for Biomedical Breakthroughs is fluid. Partners in
-these collaborative efforts experience shocks. The research project
-might become too big, too late, and over the budget, causing fear among
-other participants. This session will discuss how to cultivate loyal
-relationships. This session acknowledges that partnerships
-within collaborative projects might turn sour. Partners' attention and
-priorities might shift over time. We will discuss the importance of
-abandoning ego-centric leadership in favor of ecosystem-centric
-leadership to manage relationships. We will develop strategies to
-maintain long-lasting partnerships for collaborative research.
-
-We will discuss the following case study and academic article: 
-
-Case - [The Antibiotics Crisis: Exploring and Maintaining Partnership
-Models](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.thecasecentre.org%2Fproducts%2Fview%3Fid%3D179246&data=05%7C01%7Ch.mirabontenbal%40erasmusmc.nl%7Ccc73eb777b454a994f9308dbcf58e0d3%7C526638ba6af34b0fa532a1a511f4ac80%7C0%7C0%7C638331752883113343%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=nP7LwEFI0xuqGRbAkeL2vem2zWCwj5MTbRg%2FTt9Sd%2Bk%3D&reserved=0)
-
-Article - Arslan, B., & Tarakci, M. (2022). [Negative Spillovers Across
-Partnerships for Responsible Innovation: Evidence from the 2014 Ebola
-Outbreak](https://doi.org/10.1111/joms.12607). *Journal of Management Studies*, *59*(1),
-126-162. 
-
-### Key Concepts 
-
-Collaborative science, relationship management, long-lasting partnerships
+In this workshop, students will learn how to create impactful, scalable ideas by building on the value proposition canvas they developed in the previous session. We’ll explore how to design scientific proposals with a strategic focus on long-term impact and scalability in healthcare product-service systems. Through interactive exercises with the business model canvas, students will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact., Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic proposals. 
 
 ### Relevant Learning Goals
 
-At the end of this session, students are able to
+- Convince reviewers from funding bodies that the proposed project has a clear, actionable strategy for achieving long-term impact beyond traditional fundamental research. 
 
--   develop strategies to align partners and maintain the collaborative
-    research. 
-
--   empathize with your partners.
+- Develop a scalable venture strategy that aligns with the value proposition and business model frameworks, making the idea more attractive to potential stakeholders and investors. 
 
 ## Workshop: Giving a Talk
 
-In this workshop, you will work on your talk and practise delivering
-(parts) of it.
-
-It combines various communication skills we have already worked on:
-creating a compelling narrative, designing effective visuals, ensuring a
-clear and attractive delivery, active listening, and answering
-(challenging) questions. The challenge of giving a good talk is that you
-are able to find a good mix of all these rhetorical elements and adapt
-well to the situation to get your key message across to various
-audiences. For your talk, it is time to show that you can do this!
+In this workshop, you will work on your talk and practise delivering (parts of) it. 
+It combines various communication skills we have already worked on: creating a compelling narrative, designing effective visuals, ensuring a clear and attractive delivery, active listening, and answering (challenging) questions. The secret to giving a great talk is to find the perfect balance between the rhetorical and the engagement elements, to adapt to different situations and audiences, and to keep your key message at the core of the presentation. For your talk, it is time to show that you can do this! 
 
 ### Key Concepts 
 
@@ -102,8 +52,7 @@ audiences. For your talk, it is time to show that you can do this!
 
 At the end of this session, students are able to:
 
--   Prepare for delivering an effective talk, balancing all elements of
-    the presentation situation
+-   Prepare for delivering an effective talk, balancing all elements of the presentation situation
 
 -   Practise the key concepts listed above
 
@@ -113,42 +62,32 @@ Finalize the draft of your paper and plan your talk
 
 ## Discussion Questions
 
--    According to you, what is crucial to make your talk memorable for a
-    mixed audience?
--   How have you applied this in your own talk?
+-    According to you, what is crucial to make your talk memorable for a mixed audience?
+-   How will you apply this in your own talk?
 
--    What have you learned about collaborations in science? What do you think
-    is most important?
+-    What have you learned about collaborations in science? What do you think is most important?
 
 -    What do you hope will happen with your research project's results?
 
--    Who do you think should be interested/excited in the research you've
-    done?
+-    Who do you think should be interested/excited in the research you've done?
 
 ## Weekly Submitted Assignments
 
 ### Group
 
-Submit draft of your paper and submit an outline for your talk.
+- Submit draft of your paper 
+- Submit an outline for your talk.
 
 ### Individual
 
-How have your collaboration skills changed over the past 18 weeks, what
-areas do you want to keep working on? What have you identified as most
-important?
+How have your collaboration skills changed over the past 18 weeks? What areas do you want to keep working on? What have you identified as most important? 
 
 ## References
 
--   [TU
-    Present](https://brightspace.tudelft.nl/d2l/le/content/157724/Home):
-    Brightspace modules on various aspects of presentation skills
-    developed by the TU Delft Centre for Languages and Academic Skills
+-   [TU Present](https://brightspace.tudelft.nl/d2l/le/content/157724/Home): Brightspace modules on various aspects of presentation skills developed by the TU Delft Centre for Languages and Academic Skills
 
--   [TED-talk by Julian Treasure: how to speak so that people will
-    listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen?language=en)
+-   [TED-talk by Julian Treasure: how to speak so that people will listen](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen?language=en)
 
--   [TED-talk by Nancy Durate: the secret structure of great
-    talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?language=en)
+-   [TED-talk by Nancy Durate: the secret structure of great talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?language=en)
 
--   [TED talk by Joshua Foer: feats of memory anyone can
-    do](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=en)
+-   [TED talk by Joshua Foer: feats of memory anyone can do](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=en)
