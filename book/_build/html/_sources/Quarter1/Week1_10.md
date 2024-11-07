@@ -3,30 +3,21 @@
 ```
 # Week 1.10: Taking the Stage
 
+Every project has an endpoint, whether you’re ready or not. A “reveal” moment when researchers share what they learned and discuss it with others. This should be fun and informative. This week, you will use the “project presenting” skills you acquired in the previous week(s). 
+
+This week, students will present a poster. They will discuss its content with their peers and then with a more general audience of scientists to experience and answer questions from these different audiences. 
+
+The week also includes an oral exam with their supervisor (see sample questions below) and a final reflection symposium (see discussion questions below). 
+
 Scheduled elements this week:
 
-- Practice symposium for the groups
+*Thursday:*
+-	Practice symposium for the groups
+-	Oral exam 
+-	Final Symposium in conjunction with a local scientific conference
 
-- Oral exam - <a href=#sample-oral-exam-questions> Sample Questions </a>
-
-- Final Symposium (in conjunction with local scientific concerence)
-
-- Final Reflection Symposium
-
-## Introduction and Goals
-
-Every project has an end point whether you're ready or not. And a reveal
-moment when researchers show what they've learned with others and talk
-about it. This should be fun and informative. This week we'll have many
-of the elements of project presenting.
-
-This week students will present a poster. They'll discuss it with their
-peers and then with a more general audience of scientists to experience
-the differences in questions from different kinds of audiences.
-
-The week also includes an oral exam with their supervisor (see sample
-questions below) and a final reflection symposium (see discussion
-questions below).
+*Friday:*
+-	Final reflection symposium
 
 ## Group Activity of the Week
 
@@ -53,7 +44,7 @@ questions below).
 -   What biases did you encounter during this project and how do you
     think they affected your project?
 
-- What questions do you have? (Students should be prepared to ask something) 
+-    What questions do you have? (Students should be prepared to ask something) 
 
 ## Discussion Questions
 

@@ -1,73 +1,73 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Week 1.4: Exploring Questions &#8212; CiTG Jupyter Book template</title>
+    <title>Week 1.4: Power of Questions &#8212; CSBB - textbook</title>
   
   
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
-  
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'Quarter1/Week1_4';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Week 1.5: Stakeholders" href="Week1_5.html" />
-    <link rel="prev" title="Week 1.3: Searching for Sources" href="Week1_3.html" />
+    <link rel="prev" title="Week 1.3: What is your quest(ion)?" href="Week1_3.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -75,23 +75,16 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+  <div id="pst-scroll-pixel-helper"></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -99,7 +92,6 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,16 +99,25 @@ const thebe_selector_output = ".output, .cell_output"
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -129,9 +130,13 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
+  
+    
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -141,12 +146,19 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="CSBB - textbook - Home"/>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark pst-js-only" alt="CSBB - textbook - Home"/>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -167,8 +179,8 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Week1_1.html">Week 1.1: Getting Underway</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_2.html">Week 1.2: Understanding your crew</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: Searching for Sources</a></li>
-<li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 1.4: Exploring Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: What is your quest(ion)?</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 1.4: Power of Questions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_5.html">Week 1.5: Stakeholders</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_6.html">Week 1.6: Getting Money</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_7.html">Week 1.7: Leaving a Mark</a></li>
@@ -176,20 +188,25 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="Week1_9.html">Week 1.9: Dress Rehearsal</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_10.html">Week 1.10: Taking the Stage</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Developing Answers</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Finding Answers</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_1.html">Week 2.1: The Research Ecosystem</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_2.html">Week 2.2: Can you repeat that?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_3.html">Week 2.3: Institutional Review Process</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_4.html">Week 2.4: Data Management</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Data Analysis Theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Summarising</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_6.html">Week 2.6: Biases and Papers</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Philosophical Perspectives</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Collaborating and Communicating</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Reviewing a paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Convincing people</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_9.html">Week 2.9: Dress Rehearsal</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_10.html">Week 2.10: We made it!</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Annex</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q1.html">Rubrics Q1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q2.html">Rubrics Q2</a></li>
 </ul>
 
     </div>
@@ -205,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
 
@@ -214,14 +231,14 @@ const thebe_selector_output = ".output, .cell_output"
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
       
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
   <span class="fa-solid fa-bars"></span>
-</label></div>
+</button></div>
       
     </div>
   
@@ -296,26 +313,20 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
-<script>
-document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-  </button>
-`);
-</script>
 
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
-</label>
+</button>
 </div></div>
       
     </div>
@@ -326,7 +337,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Week 1.4: Exploring Questions</h1>
+    <h1>Week 1.4: Power of Questions</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -336,16 +347,13 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and Goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-reflection-what-do-we-know">Lecture: Reflection: What Do We Know?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#philosophy-workshop-what-do-we-know">Philosophy Workshop: What do we know?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-interviewing-asking-and-listening">Workshop: Interviewing: Asking and Listening</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-effective-interviewing-good-questions-reflective-listening">Workshop: Effective interviewing = good questions + reflective listening</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-starting-your-proposal">Group Activity: Starting Your Proposal</a></li>
@@ -365,116 +373,101 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <figure class="align-default" id="week4image">
-<img alt="../_images/week4.jpeg" src="../_images/week4.jpeg" />
+<img alt="../_images/week4.jpg" src="../_images/week4.jpg" />
 </figure>
-<section class="tex2jax_ignore mathjax_ignore" id="week-1-4-exploring-questions">
-<h1>Week 1.4: Exploring Questions<a class="headerlink" href="#week-1-4-exploring-questions" title="Permalink to this heading">#</a></h1>
+<section class="tex2jax_ignore mathjax_ignore" id="week-1-4-power-of-questions">
+<h1>Week 1.4: Power of Questions<a class="headerlink" href="#week-1-4-power-of-questions" title="Link to this heading">#</a></h1>
+<p>Doing science and any research requires taking time to stop and think about your process. What do you not know about the topic in front of you? Is what you’re doing working, are there ways to improve it? This can be called critical thinking or reflection. It takes practice to develop the habit and awareness of your biases.</p>
+<p>Another key piece is learning to ask other people questions and effectively listen to the answers. This includes checking your assumptions about what they mean by the answer. These are powerful tools for being an excellent researcher.</p>
+<p>This week we’ll focus on these two sides of exploring questions while you further develop your group’s research question
+The schedule for week 4 includes:</p>
+<p><em>Monday:</em></p>
 <ul class="simple">
 <li><p>Science Spotlight</p></li>
-<li><p>Lecture: <a href=#lecture-reflection-what-do-we-know> Reflection – What do we know?</a></p></li>
-<li><p>Workshop: <a href=#workshop-interviewing-asking-and-listening> Interviewing – Asking and Listening</a></p></li>
-<li><p>Group activity: <a href=#group-activity-starting-your-proposal> Research Question</a></p></li>
-<li><p>Friday Symposium</p></li>
+<li><p>Philosophy Workshop: <a href=#philosophy-workshop-what-do-we-know> What do we know?</a></p></li>
 </ul>
-<section id="introduction-and-goals">
-<h2>Introduction and Goals<a class="headerlink" href="#introduction-and-goals" title="Permalink to this heading">#</a></h2>
-<p>Doing science (and really any knowledge based work) requires taking time
-to stop and think about what you’re doing. What do you not know about
-the topic in front of you? Is what you’re doing working, are there ways
-to improve it? This can be called critical thinking or reflection. It
-takes practice to develop the habit, and awareness of your biases.</p>
-<p>Another key piece is learning to ask others questions and effectively
-listen to the answers. This includes checking your assumptions about
-what they mean by the answer. These are powerful tools in being an
-excellent researcher.</p>
-<p>This week we’ll focus on these two sides of exploring questions while
-you get further in developing you and your group develop your research
-question.</p>
-</section>
-<section id="lecture-reflection-what-do-we-know">
-<h2>Lecture: Reflection: What Do We Know?<a class="headerlink" href="#lecture-reflection-what-do-we-know" title="Permalink to this heading">#</a></h2>
-<section id="overview">
-<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h3>
-<p>This lecture will teach students the importance of reflection and how to properly use it to improve their own research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind.</p>
-<p>The main focus, however, should be on teaching techniques for reflection and how to turn them into habits that will accompany them through any future research and scientific endeavour they are part of. They should also be sensitised to the presence of internal biases and assumptions, which have the ability to skew and influence any research. For such, common biases such as the confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will</p>
-</section>
-<section id="key-concepts">
-<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Permalink to this heading">#</a></h3>
+<p><em>Wednesday</em>:</p>
 <ul class="simple">
-<li><p>Reflection – what is it and why do we want it?</p></li>
+<li><p>Workshop: <a href=#workshop-effective-interviewing-good-questions-reflective-listening> Effective interviewing = good questions + reflective listening</a></p></li>
+</ul>
+<p><em>Friday:</em></p>
+<ul class="simple">
+<li><p>Friday Symposium: Presenting 3 research questions.</p></li>
+</ul>
+<section id="philosophy-workshop-what-do-we-know">
+<h2>Philosophy Workshop: What do we know?<a class="headerlink" href="#philosophy-workshop-what-do-we-know" title="Link to this heading">#</a></h2>
+<p>This workshop will teach students the importance of reflection and how to properly use it to improve their own research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind.</p>
+<p>The main focus, however, should be on teaching techniques for reflection and how to turn them into habits that will accompany them through any future research and scientific endeavour they are part of. They should also be sensitised to the presence of internal biases and assumptions, which have the ability to skew and influence any research. For such, common biases such as the confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will be explained so that students will in the future be able to avoid and mitigate any such biases.</p>
+<p>Furthermore, we will discuss the various types of uncertainties, and how can one deal with these.</p>
+<section id="key-concepts">
+<h3>Key concepts<a class="headerlink" href="#key-concepts" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Reflection – What is it, and why do we want it?</p></li>
 <li><p>How to deal with what we know and what we do not</p></li>
-<li><p>Components of reflection: perceiving, doubting, thinking, believing,
-knowing, assuming, reasoning, questioning, …</p></li>
+<li><p>Components of reflection: perceiving, doubting, thinking, believing, knowing, assuming, reasoning, questioning, …</p></li>
 <li><p>Characteristics of a good reflective process</p></li>
-<li><p>Different biases, how to recognise your own biases and how to avoid
-them</p></li>
+<li><p>Different biases, how to recognise your own biases and how to avoid them</p></li>
 <li><p>When to make assumptions? Which assumptions are better not to make?</p></li>
 </ul>
 </section>
 </section>
-<section id="workshop-interviewing-asking-and-listening">
-<h2>Workshop: Interviewing: Asking and Listening<a class="headerlink" href="#workshop-interviewing-asking-and-listening" title="Permalink to this heading">#</a></h2>
-<section id="id1">
-<h3>Overview<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
+<section id="workshop-effective-interviewing-good-questions-reflective-listening">
+<h2>Workshop: Effective interviewing = good questions + reflective listening<a class="headerlink" href="#workshop-effective-interviewing-good-questions-reflective-listening" title="Link to this heading">#</a></h2>
 <p>Interviewing is a useful method for gathering information on a research topic. A well-prepared conversation with stakeholders can provide valuable insights into a study’s societal relevance, approach, or contributions. This workshop aims to prepare students for effectively conducting an interview. First, effective preparation of the interview is addressed. The key focus is on formulating clear, open questions that invite interviewees to give informative answers, as well as prioritizing questions, keeping track of time, and making agreements on how the information is used for research purposes. Second, students practice interviewing in-class activities such as role plays; in challenging situations, they practice effective listening, adapting and responding to interviewees’ answers while keeping an eye on the aim of the interview.</p>
-</section>
-<section id="id2">
-<h3>Key Concepts<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+<section id="id1">
+<h3>Key concepts<a class="headerlink" href="#id1" title="Link to this heading">#</a></h3>
 <ul class="simple">
-<li><p>Formulate clear and open questions (e.g., with the technique of
-non-directive questioning)</p></li>
+<li><p>Formulate clear and open questions (e.g., with the technique of non-directive questioning)</p></li>
 <li><p>Reflective listening (based on the LISTEN approach)</p></li>
 <li><p>How to adapt to the context of the interview</p></li>
 </ul>
 </section>
 <section id="relevant-learning-goals">
-<h3>Relevant Learning Goals<a class="headerlink" href="#relevant-learning-goals" title="Permalink to this heading">#</a></h3>
+<h3>Relevant learning goals<a class="headerlink" href="#relevant-learning-goals" title="Link to this heading">#</a></h3>
 <p>Students are able to:</p>
 <ul class="simple">
-<li><p>Prepare an interview (e.g., keep track of time, prioritize
-questions, stay in control without being inflexible)</p></li>
-<li><p>Formulate effective questions during an interview</p></li>
-<li><p>Understand in practice how to listen effectively and reflectively</p></li>
-<li><p>Deal with challenging situations during an interview</p></li>
+<li><p>prepare an interview (e.g., keep track of time, prioritize questions, stay in control without being inflexible)</p></li>
+<li><p>formulate effective questions during an interview</p></li>
+<li><p>understand in practice how to listen effectively and reflectively</p></li>
+<li><p>deal with challenging situations during an interview</p></li>
 </ul>
 </section>
 </section>
 <section id="group-activity-starting-your-proposal">
-<h2>Group Activity: Starting Your Proposal<a class="headerlink" href="#group-activity-starting-your-proposal" title="Permalink to this heading">#</a></h2>
-<p>By week 4, groups should have a solid specific research question with preliminary ideas of how they might address it in a research project. This is called the hypothesis and will be part of your grant application.  Refer back to examples of proposals to see how it should be written.</p>
+<h2>Group Activity: Starting Your Proposal<a class="headerlink" href="#group-activity-starting-your-proposal" title="Link to this heading">#</a></h2>
+<p>By week 4, groups should have a solid specific research question with preliminary ideas of how they might address it in a research project. This is called the hypothesis and will be part of your grant application.  Refer back to examples of proposals to see how it should be written.
+Groups should also identify questions they want to ask in the stakeholder panel next week.</p>
 </section>
 <section id="discussion-questions">
-<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Permalink to this heading">#</a></h2>
+<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Link to this heading">#</a></h2>
 <ul class="simple">
 <li><p>What do you think about reflection and learning in a research context?</p></li>
-<li><p>Do you have instances in your life where reflection has helped you
-resolve a problem or learn from an experience?</p></li>
+<li><p>Have you ever started something first by doing and learning from your experiences? How did you find this process?</p></li>
+<li><p>Do you have instances in your life where reflection has helped you resolve a problem or learn from an experience?</p></li>
+<li><p>What question are you focusing on for your project? Why?</p></li>
 <li><p>What advice for asking questions do you find most valuable and why?</p></li>
-<li><p>What advice for asking do you find most valuable and why?</p></li>
-<li><p>Listening–what does it mean? What does it mean to feel heard? What
-does it mean to hear those around you?</p></li>
-<li><p>How do you feel about not knowing things?</p></li>
-<li><p>Do you have tools you use to help you identify what you don’t know you
-don’t know?</p></li>
+<li><p>Listening: what does it mean? What does it mean to feel heard? What does it mean to hear those around you?</p></li>
+<li><p>How do you feel about not knowing things? What is your strategy to deal with uncertainty?</p></li>
+<li><p>Do you have tools you use to help you identify what you don’t know you don’t know?</p></li>
 </ul>
 </section>
 <section id="weekly-submitted-assignments">
-<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Permalink to this heading">#</a></h2>
+<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Link to this heading">#</a></h2>
 <section id="group">
-<h3>Group<a class="headerlink" href="#group" title="Permalink to this heading">#</a></h3>
+<h3>Group<a class="headerlink" href="#group" title="Link to this heading">#</a></h3>
 <p>What question are you focusing on for your proposal? (½ page)</p>
 </section>
 <section id="individual">
-<h3>Individual<a class="headerlink" href="#individual" title="Permalink to this heading">#</a></h3>
+<h3>Individual<a class="headerlink" href="#individual" title="Link to this heading">#</a></h3>
 <p>What is challenging you in this minor? How are you adressing it? (½ page)</p>
 <p>This will be useful to discuss next week in your one-on-one session with your supervisor to see what feedback they can give you.</p>
 </section>
 </section>
 <section id="references">
-<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
+<h2>References<a class="headerlink" href="#references" title="Link to this heading">#</a></h2>
 <p>McGrath, C., Palmgren. P.J., &amp; Liljedahl, M. (2019). Twelve tips for
 conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
 1002-1006, DOI:
@@ -508,11 +501,10 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
 
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer d-print-none">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="Week1_3.html"
@@ -520,7 +512,7 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Week 1.3: Searching for Sources</p>
+        <p class="prev-next-title">Week 1.3: What is your quest(ion)?</p>
       </div>
     </a>
     <a class="right-next"
@@ -532,17 +524,16 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -550,16 +541,13 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and Goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-reflection-what-do-we-know">Lecture: Reflection: What Do We Know?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#philosophy-workshop-what-do-we-know">Philosophy Workshop: What do we know?</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-interviewing-asking-and-listening">Workshop: Interviewing: Asking and Listening</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-effective-interviewing-good-questions-reflective-listening">Workshop: Effective interviewing = good questions + reflective listening</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-starting-your-proposal">Group Activity: Starting Your Proposal</a></li>
@@ -587,9 +575,10 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
@@ -613,8 +602,8 @@ conducting qualitative research interviews. <em>Medical</em> Teacher, 41(9),
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

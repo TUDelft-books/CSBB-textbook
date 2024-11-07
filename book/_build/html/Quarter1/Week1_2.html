@@ -1,73 +1,73 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Week 1.2: Understanding your crew &#8212; CiTG Jupyter Book template</title>
+    <title>Week 1.2: Understanding your crew &#8212; CSBB - textbook</title>
   
   
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
-  
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'Quarter1/Week1_2';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Week 1.3: Searching for Sources" href="Week1_3.html" />
+    <link rel="next" title="Week 1.3: What is your quest(ion)?" href="Week1_3.html" />
     <link rel="prev" title="Week 1.1: Getting Underway" href="Week1_1.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -75,23 +75,16 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+  <div id="pst-scroll-pixel-helper"></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -99,7 +92,6 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,16 +99,25 @@ const thebe_selector_output = ".output, .cell_output"
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -129,9 +130,13 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
+  
+    
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -141,12 +146,19 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="CSBB - textbook - Home"/>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark pst-js-only" alt="CSBB - textbook - Home"/>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -167,8 +179,8 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Week1_1.html">Week 1.1: Getting Underway</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 1.2: Understanding your crew</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: Searching for Sources</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Exploring Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: What is your quest(ion)?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Power of Questions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_5.html">Week 1.5: Stakeholders</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_6.html">Week 1.6: Getting Money</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_7.html">Week 1.7: Leaving a Mark</a></li>
@@ -176,20 +188,25 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="Week1_9.html">Week 1.9: Dress Rehearsal</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_10.html">Week 1.10: Taking the Stage</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Developing Answers</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Finding Answers</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_1.html">Week 2.1: The Research Ecosystem</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_2.html">Week 2.2: Can you repeat that?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_3.html">Week 2.3: Institutional Review Process</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_4.html">Week 2.4: Data Management</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Data Analysis Theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Summarising</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_6.html">Week 2.6: Biases and Papers</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Philosophical Perspectives</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Collaborating and Communicating</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Reviewing a paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Convincing people</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_9.html">Week 2.9: Dress Rehearsal</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_10.html">Week 2.10: We made it!</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Annex</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q1.html">Rubrics Q1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q2.html">Rubrics Q2</a></li>
 </ul>
 
     </div>
@@ -205,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
 
@@ -214,14 +231,14 @@ const thebe_selector_output = ".output, .cell_output"
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
       
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
   <span class="fa-solid fa-bars"></span>
-</label></div>
+</button></div>
       
     </div>
   
@@ -296,26 +313,20 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
-<script>
-document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-  </button>
-`);
-</script>
 
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
-</label>
+</button>
 </div></div>
       
     </div>
@@ -336,20 +347,17 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-what-is-transdisciplinarity">Lecture: What is Transdisciplinarity?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-what-is-transdisciplinarity">Workshop: What is Transdisciplinarity?</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-perspectives-and-values-with-the-team">Workshop: Perspectives and Values with the Team</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key Concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Relevant Learning Goals</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group Activity of the Week</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-team-contract">Group Activities: Team Contract</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#weekly-submitted-assignments">Weekly Submitted Assignments</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group">Group</a></li>
@@ -366,36 +374,38 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <figure class="align-default" id="week2image">
 <img alt="../_images/week2.jpeg" src="../_images/week2.jpeg" />
 </figure>
 <section class="tex2jax_ignore mathjax_ignore" id="week-1-2-understanding-your-crew">
-<h1>Week 1.2: Understanding your crew<a class="headerlink" href="#week-1-2-understanding-your-crew" title="Permalink to this heading">#</a></h1>
-<p>The schedule componenents of week 2 are:</p>
+<h1>Week 1.2: Understanding your crew<a class="headerlink" href="#week-1-2-understanding-your-crew" title="Link to this heading">#</a></h1>
+<p>In science (and other work environments), it takes a team working together to build remarkable things or solve big problems. Things often go wrong when the group does not spend time working on understanding each other from the beginning. A team can benefit from everyone’s talents and input, so it is important to make sure that all team members feel valued for their contributions and are able to participate fully and authentically. This week, you will further develop your skills and habits for working in teams and appreciation for the skills and insight everyone brings to a group. This programme provides time and guidance for you to figure out who and how you want to be in group work. Getting to know each other should be fun.<br />
+In the coming weeks, your skills in  working together with your team will be vital to the success of your project in the minor. One of the most fundamental skills is understanding your own perspectives and knowing how to learn about other people’s perspectives. These are fundamental skills in any endeavour—you will constantly find yourself part of various teams, whether for a short-term project or a career-length collaboration. It could be in science, or other fields, or volunteer organizations. Your family is its own kind of collaboration with its own kind of challenges.</p>
 <ul class="simple">
-<li><p>Lecture: <a href=#lecture-what-is-transdisciplinarity>What is Transdiciplinarity</a></p></li>
-<li><p>Science Spotlight</p></li>
-<li><p><a href=#workshop-perspectives-and-values-with-the-team>Workshop: Perspectives and Values with the Team</a></p></li>
-<li><p>Writing a <a href=#group-activity-of-the-week> team contract</a></p></li>
-<li><p>Friday Symposium</p></li>
+<li><p>Taking time to build these fundamental skills will start us off with a solid foundation for collaboration and exploration</p></li>
 </ul>
-<section id="introduction-and-goals">
-<h2>Introduction and goals<a class="headerlink" href="#introduction-and-goals" title="Permalink to this heading">#</a></h2>
-<p>In every work environment but especially in science, it takes a team working together to build remarkable things or solve big problems. Often where things go wrong is when the group does not spend some time working on their group dynamics from the beginning.  It is also just more fun to work in a group that knows what to expect from each other.  A team can benefit from everyone’s talents and input, so it is important to make sure that all team members feel valued for their contributions and are able to participate fully and authentically.  In this week we hope students will develop better skills and habits for working in teams and appreciation for the skills and insight everyone brings to a group. This programme provides time and guidance for you to figure out who and how you want to be in group work.</p>
-<p>This week’s main topic is “Team building”. Everyone will experience working together in a team and a transdisciplinary environment, a skill vital for the upcoming weeks, where group work is required for completing this minor. This is also a fundamental skill in any endeavour—you will constantly find yourself part of various teams, whether for a short-term project or a career length collaboration. It could be in science or other fields or volunteer organizations. Your family is its own kind of collaboration with its own kind of challenges.</p>
-<p>Taking time to specifically build these fundamental skills will start us off with a solid foundation to explore.</p>
-</section>
-<section id="lecture-what-is-transdisciplinarity">
-<h2>Lecture: What is Transdisciplinarity?<a class="headerlink" href="#lecture-what-is-transdisciplinarity" title="Permalink to this heading">#</a></h2>
-<p>Complex problems do not have a simple solution. Different people experience these problems differently, they might have conflicting interests, or the solution might affect them in various ways. Complex problems often need a transdisciplinary approach. But what are these complex problems? And what is transdisciplinarity? And how do we do a transdisciplinary collaboration right?</p>
-<section id="overview">
-<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h3>
-<p>This lecture is meant to introduce students to the concept of transdisciplinarity. The initial part of the lecture will thus be focused on complex problems, and then we will discuss the differences between disciplinary, multi-, inter- and transdisciplinarity collaborations and their various definitions. We will not only define them but also list the benefits and burdens of these collaboration types. Then we have a short detour to see the different learning steps of professional development and why it is important to learn teamwork-related skills.  Finally, we will dive into the different processes of inter- and transdisciplinary teams that are crucial for effective teamwork.</p>
-</section>
+<p>This week consists of:</p>
+<p><em>Monday</em></p>
+<ul class="simple">
+<li><p>Science Spotlight</p></li>
+<li><p>Workshop: <a href=#workshop-what-is-transdisciplinarity>What is Transdiciplinarity</a></p></li>
+</ul>
+<p><em>Wednesday</em></p>
+<ul class="simple">
+<li><p>Workshop: <a href=#workshop-perspectives-and-values-with-the-team>Perspectives and Values with the Team</a></p></li>
+</ul>
+<p><em>Friday</em></p>
+<ul class="simple">
+<li><p>Symposium: Emotional intelligence skills</p></li>
+</ul>
+<section id="workshop-what-is-transdisciplinarity">
+<h2>Workshop: What is Transdisciplinarity?<a class="headerlink" href="#workshop-what-is-transdisciplinarity" title="Link to this heading">#</a></h2>
+<p>Complex problems do not have a simple solution. Different people experience these problems differently; they might have conflicting interests, or the solution might affect them in various ways. Complex problems often need a transdisciplinary approach. But what are these complex problems? And what is transdisciplinarity? And how do we do a transdisciplinary collaboration right?</p>
+<p>This workshop is meant to introduce students to the concept of transdisciplinarity. The initial part of the workshop will focus on complex problems, and then discuss the differences between disciplinary, multi-, inter- and transdisciplinary collaborations and their various definitions. We will not only define them but also list the benefits and challenges of these collaboration types. Then, we will discuss the role of collaboration skills from the perspective of professional development.. Finally, we will dive into the different processes of inter- and transdisciplinary teams that are crucial for effective teamwork.</p>
 <section id="key-concepts">
-<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Permalink to this heading">#</a></h3>
+<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>What is transdisciplinarity?</p></li>
 <li><p>What are characteristics of transdisciplinary groups?</p></li>
@@ -406,34 +416,31 @@ document.write(`
 </ul>
 </section>
 <section id="relevant-learning-goals">
-<h3>Relevant Learning Goals<a class="headerlink" href="#relevant-learning-goals" title="Permalink to this heading">#</a></h3>
+<h3>Relevant Learning Goals<a class="headerlink" href="#relevant-learning-goals" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>Assess group processes within their own research group during a project.</p></li>
 <li><p>Work effectively in a group which consists of members from different academic disciplines and backgrounds.</p></li>
-<li><p>Collaborate effectively with other group members, other groups and the case owners / experts of the field.</p></li>
-<li><p>Explain how intercultural differences play a role in collaboration—this includes social (language, nationality, etc.) but also professional (business vs education, medicine vs engineering) differences and apply this knowledge to the collaboration.</p></li>
-<li><p>Be aware of and reflect on the various phases of the process, the challenges and problems that were encountered, and what was learned from this.</p></li>
+<li><p>Collaborate effectively with other group members, other groups and the case owners/experts in the field.</p></li>
+<li><p>Explain how intercultural differences play a role in collaboration—this includes social (language, nationality, etc.)  and also professional (business vs education, medicine vs engineering) differences and apply this knowledge to the collaboration. Be aware of and reflect on the various phases of the process, the challenges and problems that were encountered, and what was learned from this.</p></li>
 </ul>
 </section>
 </section>
 <section id="workshop-perspectives-and-values-with-the-team">
-<h2>Workshop: Perspectives and Values with the Team<a class="headerlink" href="#workshop-perspectives-and-values-with-the-team" title="Permalink to this heading">#</a></h2>
-<p>The teams will apply the knowledge and skills they gained during the lectures and workshops so far to create a physical model of the teams’ transactive memory, create team efficacy and overcome some types of team conflicts.</p>
+<h2>Workshop: Perspectives and Values with the Team<a class="headerlink" href="#workshop-perspectives-and-values-with-the-team" title="Link to this heading">#</a></h2>
+<p>The teams will apply the knowledge and skills they have gained so far to create a physical model of the teams’ transactive memory, create team efficacy and overcome some types of team conflicts.</p>
+<p>The activity during Wednesday’s workshop is based on Monday’s workshop on transdisciplinarity. You will reflect in your groups on your disciplinary background, knowledge, skills, values and emotions (the elements of the team’s transactive memory) at this stage of the group work. Then you will discuss these and create the group’s 2D transactive memory map showing overlaps between the team members. This workshop guides teams in making each other aware of what is common between team members, realizing substantial differences between worldviews, values, priorities or ways of thinking. We will dedicate  time to discuss the similarities and differences.  This workshop is a grounding stone that allows the teams to realize where the differences between members come from instead of making biased and possibly invalid assumptions, therefore avoiding some common team conflicts and creating a safe environment and a common framework to work together effectively over the coming weeks. It creates the foundations for groups, by developing a Team contract about shared expectations and working methods.</p>
 <section id="id1">
-<h3>Overview<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
-<p>The team activity during Wednesday’s workshop is based on Monday’s lecture on transdisciplinarity. The students will reflect on their standpoints arising from their disciplinary background, their knowledge, skills, values and emotions at this stage of the group work. Then the teams will discuss these and create the teams’ 2D transactive memory by overlapping these. This assignment allows the teams to make the individual members aware of what is common between the team members, realize substantial differences between their worldviews, values, priorities or ways of thinking and discuss these. The lessons learned during week 1 on collaboration and peer feedback are essential for this discussion. This workshop is a grounding stone that allows the teams to realize where the differences between members come from instead of making biased and possibly invalid assumptions, therefore avoiding some common team conflicts and creating a safe environment and a common ground to work together well over the coming weeks.</p>
-</section>
-<section id="id2">
-<h3>Key Concepts<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+<h3>Key Concepts<a class="headerlink" href="#id1" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>Transactive memory</p></li>
 <li><p>Team efficacy</p></li>
 <li><p>Team conflict</p></li>
 <li><p>Psychological safety</p></li>
+<li><p>Understanding Diversity</p></li>
 </ul>
 </section>
-<section id="id3">
-<h3>Relevant Learning Goals<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h3>
+<section id="id2">
+<h3>Relevant Learning Goals<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>Assess group processes within their own research group during a project.</p></li>
 <li><p>Work effectively in a group which consists of members from different academic disciplines and backgrounds.</p></li>
@@ -443,44 +450,39 @@ document.write(`
 </ul>
 </section>
 </section>
-<section id="group-activity-of-the-week">
-<h2>Group Activity of the Week<a class="headerlink" href="#group-activity-of-the-week" title="Permalink to this heading">#</a></h2>
-<p>There is always research and reading to do as you explore your topic.</p>
-<p>A team contract can include a shared values statement, expectations of
-behaviour, agreement on deadlines and work processes, shared values. It
-should be developed by consensus such that everyone agrees to all parts
-of it. And it should be regularly updated as things change.</p>
-<ul class="simple">
-<li><p>Write the group statement of shared values (the team contract). Link the students to where they can find the necessary resources. Please include photos of the 2D transactive memory (can be separate for values, knowledge, skills etc., for the sake of readability)</p></li>
-<li><p>Read the example proposals on Brightspace to get ideas of what your proposal will need to include.</p></li>
-</ul>
+<section id="group-activities-team-contract">
+<h2>Group Activities: Team Contract<a class="headerlink" href="#group-activities-team-contract" title="Link to this heading">#</a></h2>
+<p>This week’  the teams will research and read to explore the research topic. You should be spending a lot of time with your group discussing ideas and what you’re reading. Identifying what’s interesting that you’d like to look at more and starting to narrow your group topic and identify a question.
+A team contract should include a shared values statement, expectations of behaviour, agreement on deadlines and work processes. It should also discuss how you will handle conflicts or when something isn’t going according to the team contract. It should be developed by consensus such that everyone agrees to all parts of it.  And it should be regularly updated as things change.
+For the Team Contract we will use the personal learning goals you handed in last week.</p>
 </section>
 <section id="discussion-questions">
-<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Permalink to this heading">#</a></h2>
+<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Link to this heading">#</a></h2>
 <ul class="simple">
 <li><p>What are you really good at?</p></li>
 <li><p>What skills do you bring to this project?</p></li>
-<li><p>hat do you want in collaborative environments to be successful?</p></li>
+<li><p>What do you find exciting in what you’re reading or think is worth persuing?</p></li>
+<li><p>What do you want in collaborative environments to be successful?</p></li>
 <li><p>What would you like to develop in yourself/or as a group?</p></li>
 <li><p>What are you likely to want help with?</p></li>
-<li><p>What are your pet peeves in working in groups and how do you handle
-them?</p></li>
+<li><p>What are your pet peeves in working in groups and how do you handle them?</p></li>
+<li><p>How does it show up in groups when emotional needs aren’t being met in the group?</p></li>
 </ul>
 </section>
 <section id="weekly-submitted-assignments">
-<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Permalink to this heading">#</a></h2>
+<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Link to this heading">#</a></h2>
 <section id="group">
-<h3>Group<a class="headerlink" href="#group" title="Permalink to this heading">#</a></h3>
-<p>Group Charter (1-2 pages)</p>
+<h3>Group<a class="headerlink" href="#group" title="Link to this heading">#</a></h3>
+<p>Team Contract including all the elements described above (1-2 pages)</p>
 </section>
 <section id="individual">
-<h3>Individual<a class="headerlink" href="#individual" title="Permalink to this heading">#</a></h3>
-<p>How does your background (cultural, educational, family) inform your perspectives?</p>
+<h3>Individual<a class="headerlink" href="#individual" title="Link to this heading">#</a></h3>
+<p>How does your background (cultural, educational, family) inform your perspectives? (½ page)</p>
 </section>
 </section>
 <section id="references">
-<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
-<p>Interesting reading: <a class="reference external" href="https://nilsgilman.substack.com/p/how-to-be-interdisciplinary?utm_source=substack&amp;utm_medium=email">How to be Interdisciplinary - by Nils Gilman
+<h2>References<a class="headerlink" href="#references" title="Link to this heading">#</a></h2>
+<p>Interesting reading: <a class="reference external" href="https://nilsgilman.substack.com/p/how-to-be-interdisciplinary?utm_source=substack&amp;amp;utm_medium=email">How to be Interdisciplinary - by Nils Gilman
 (substack.com)</a></p>
 <p>Parts of the first lecture are based on <a class="reference external" href="https://nap.nationalacademies.org/catalog/19007/enhancing-the-effectiveness-of-team-science">The NAS report on Enhancing the Effectiveness of Team Science</a></p>
 </section>
@@ -511,11 +513,10 @@ them?</p></li>
 
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer d-print-none">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="Week1_1.html"
@@ -531,21 +532,20 @@ them?</p></li>
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Week 1.3: Searching for Sources</p>
+        <p class="prev-next-title">Week 1.3: What is your quest(ion)?</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -553,20 +553,17 @@ them?</p></li>
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-what-is-transdisciplinarity">Lecture: What is Transdisciplinarity?</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-what-is-transdisciplinarity">Workshop: What is Transdisciplinarity?</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-perspectives-and-values-with-the-team">Workshop: Perspectives and Values with the Team</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key Concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Relevant Learning Goals</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group Activity of the Week</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-team-contract">Group Activities: Team Contract</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#weekly-submitted-assignments">Weekly Submitted Assignments</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group">Group</a></li>
@@ -591,9 +588,10 @@ them?</p></li>
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
@@ -617,8 +615,8 @@ them?</p></li>
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

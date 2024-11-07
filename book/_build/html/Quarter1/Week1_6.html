@@ -1,66 +1,65 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Week 1.6: Getting Money &#8212; CiTG Jupyter Book template</title>
+    <title>Week 1.6: Getting Money &#8212; CSBB - textbook</title>
   
   
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
-  
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'Quarter1/Week1_6';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -68,6 +67,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="prev" title="Week 1.5: Stakeholders" href="Week1_5.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -75,23 +75,16 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+  <div id="pst-scroll-pixel-helper"></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -99,7 +92,6 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,16 +99,25 @@ const thebe_selector_output = ".output, .cell_output"
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -129,9 +130,13 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
+  
+    
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -141,12 +146,19 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="CSBB - textbook - Home"/>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark pst-js-only" alt="CSBB - textbook - Home"/>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -167,8 +179,8 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Week1_1.html">Week 1.1: Getting Underway</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_2.html">Week 1.2: Understanding your crew</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: Searching for Sources</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Exploring Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: What is your quest(ion)?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Power of Questions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_5.html">Week 1.5: Stakeholders</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 1.6: Getting Money</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_7.html">Week 1.7: Leaving a Mark</a></li>
@@ -176,20 +188,25 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="Week1_9.html">Week 1.9: Dress Rehearsal</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_10.html">Week 1.10: Taking the Stage</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Developing Answers</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Finding Answers</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_1.html">Week 2.1: The Research Ecosystem</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_2.html">Week 2.2: Can you repeat that?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_3.html">Week 2.3: Institutional Review Process</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_4.html">Week 2.4: Data Management</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Data Analysis Theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Summarising</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_6.html">Week 2.6: Biases and Papers</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Philosophical Perspectives</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Collaborating and Communicating</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Reviewing a paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Convincing people</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_9.html">Week 2.9: Dress Rehearsal</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_10.html">Week 2.10: We made it!</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Annex</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q1.html">Rubrics Q1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q2.html">Rubrics Q2</a></li>
 </ul>
 
     </div>
@@ -205,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
 
@@ -214,14 +231,14 @@ const thebe_selector_output = ".output, .cell_output"
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
       
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
   <span class="fa-solid fa-bars"></span>
-</label></div>
+</button></div>
       
     </div>
   
@@ -296,26 +313,20 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
-<script>
-document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-  </button>
-`);
-</script>
 
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
-</label>
+</button>
 </div></div>
       
     </div>
@@ -336,17 +347,14 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and Goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-research-funding">Lecture: Research Funding</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-research-funding">Workshop: Research Funding</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-narratives">Workshop: Narratives</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key Concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Relevant Learning Goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group activity of the Week</a></li>
@@ -366,106 +374,93 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <figure class="align-default" id="week6image">
 <img alt="../_images/week6.jpeg" src="../_images/week6.jpeg" />
 </figure>
 <section class="tex2jax_ignore mathjax_ignore" id="week-1-6-getting-money">
-<h1>Week 1.6: Getting Money<a class="headerlink" href="#week-1-6-getting-money" title="Permalink to this heading">#</a></h1>
+<h1>Week 1.6: Getting Money<a class="headerlink" href="#week-1-6-getting-money" title="Link to this heading">#</a></h1>
+<p>Research is expensive, especially lab-based research involving high-tech equipment, special materials, and people with specialized skills. And if you add animals, the price gets even higher.  As we discussed last week, there are financial stakeholders funding research, including universities, governmental agencies, Industry, and special interest groups (foundations).  The available money is limited and the number of applications and projects is high. One of your jobs as a scientist is to convince funders to pay for your research to be done.</p>
+<p>The main topic of this week is to discuss research funding and how to create a narrative for your ideas. We will discuss some of the more administrational sides of academia, such as how grant applications and research funding work. Further, you will learn the skills to tell the story of your research, and how to effectively use that story to convince people of the value of your project.</p>
+<p><em>Monday:</em></p>
 <ul class="simple">
 <li><p>Science Spotlight</p></li>
-<li><p>Lecture: <a href=#lecture-research-funding> Research Funding </a></p></li>
-<li><p>Workshop: <a href=#workshop-narratives> Narratives </a></p></li>
-<li><p><a href=#group-activity-of-the-week> Group Activity </a></p></li>
-<li><p>Friday Symposium</p></li>
+<li><p>Lecture: <a href=#workshop-research-funding> Research Funding </a></p></li>
 </ul>
-<section id="introduction-and-goals">
-<h2>Introduction and Goals<a class="headerlink" href="#introduction-and-goals" title="Permalink to this heading">#</a></h2>
-<p>Research is expensive, especially lab based research involving high tech equipment, special materials, and people with specialized skills. And if you add animals the price gets even higher.  As we discussed last week there are financial stakeholders  funding research: including universities, governmental agencies, Industry, and special interest groups (foundations).  The pool of money is limited and the number of applications and projects is high. One of your jobs as a scientist is to convince funders to pay for your research to be done.</p>
-<p>The main topic of this week is to discuss research funding and how to create a narrative for your ideas. We will discuss some of the more administrational sides of academia, such as how grant applications and research funding work. Further, you will learn the skills to tell the story of your research, and how to effectively use that story to convince people of the value of your project.</p>
-</section>
-<section id="lecture-research-funding">
-<h2>Lecture: Research Funding<a class="headerlink" href="#lecture-research-funding" title="Permalink to this heading">#</a></h2>
-<section id="overview">
-<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h3>
-<p>The lecture aims at presenting the importance of funding in the decision-making process when it comes to science. Moreover, the lecture will include the steps that need to be taken during a grant application and the people that are involved in each part of the process. Examples from real-life situations will be provided as well.</p>
-</section>
+<p><em>Wednesday:</em></p>
+<ul class="simple">
+<li><p>Workshop: <a href=#workshop-narratives> Narratives </a></p></li>
+</ul>
+<p><em>Friday:</em></p>
+<ul class="simple">
+<li><p>Symposium</p></li>
+</ul>
+<section id="workshop-research-funding">
+<h2>Workshop: Research Funding<a class="headerlink" href="#workshop-research-funding" title="Link to this heading">#</a></h2>
+<p>Doing modern scientific research (especially biomedical) is expensive between personnel, facilities, equipment, materials. The workshop presents the role of grant funding in paying for scientific research. Additionally, the workshop include the steps that need to be taken during grant applications and the people who are involved in each part of the process. Examples from real-life situations will be provided as well.</p>
 <section id="key-concepts">
-<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Permalink to this heading">#</a></h3>
+<h3>Key concepts<a class="headerlink" href="#key-concepts" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>How to write a good proposal</p></li>
 <li><p>Importance of narratives in obtaining research funding</p></li>
 </ul>
 </section>
 <section id="relevant-learning-goals">
-<h3>Relevant Learning Goals<a class="headerlink" href="#relevant-learning-goals" title="Permalink to this heading">#</a></h3>
-<p>Students will understand the steps that need to be taken when applying
-for funds and their importance in the entire process</p>
+<h3>Relevant learning goals<a class="headerlink" href="#relevant-learning-goals" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Students will understand the steps that need to be taken when applying for funds and their importance in the entire process</p></li>
+</ul>
 </section>
 </section>
 <section id="workshop-narratives">
-<h2>Workshop: Narratives<a class="headerlink" href="#workshop-narratives" title="Permalink to this heading">#</a></h2>
+<h2>Workshop: Narratives<a class="headerlink" href="#workshop-narratives" title="Link to this heading">#</a></h2>
+<p>Humans like to process information through stories. Being able to create narratives is a valuable skill in communicating the relevance of your research to various audiences (grant reviewers, experts, stakeholders, and the public). In this workshop, you will learn how to create a narrative and how to make it work in your favour by highlighting the importance of your research ideas. You will learn about different narrative types and key ingredients of an effective narrative. At the same time, you will work on constructing narratives about your projects. You will discuss how to apply these narrative tools in the context of text (grant proposal, research paper), visual (poster presentation) and oral (presentations to stakeholders). Storytelling skills are taught in the context of funding applications and explaining your research to diverse groups of people.</p>
 <section id="id1">
-<h3>Overview<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
-<p>Humans like to process information through stories. Being able to create narratives is a valuable skill in communicating the relevance of your research to various audiences (grant reviewers, experts, stakeholders, public). In this workshop, you will learn how to create a narrative and how to make it work in your favour, by highlighting the importance of your research ideas. Students will learn about different narrative types and key ingredients of narratives. At the same time, you will work on constructing narratives about their projects. You apply these narratives to a text (research proposal) and a presentation (for example, a presentation on a symposium to a broader audience including various stakeholders). This way, storytelling skills are taught in the context of funding applications and explaining your research to diverse groups of people.</p>
-</section>
-<section id="id2">
-<h3>Key Concepts<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
+<h3>Key Concepts<a class="headerlink" href="#id1" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>Narratives and storytelling</p></li>
 </ul>
 </section>
-<section id="id3">
-<h3>Relevant Learning Goals<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h3>
+<section id="id2">
+<h3>Relevant Learning Goals<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
 <ul class="simple">
-<li><p>Students learn how narratives work in information processing</p></li>
-<li><p>Students learn how to present their research ideas in a persuasive
-manner</p></li>
-<li><p>Students work on how to integrate narratives into the report and presentation about their research topic</p></li>
-<li><p>Students learn to adapt their story depending on their audience
-(readers/listeners)</p></li>
+<li><p>Theory of how narratives work in information processing</p></li>
+<li><p>Present their research ideas in a persuasive manner</p></li>
+<li><p>Integrating narratives into reports and presentations about research topic</p></li>
+<li><p>Adapting stories depending on their audience (readers/listeners)</p></li>
 </ul>
 </section>
 </section>
 <section id="group-activity-of-the-week">
-<h2>Group activity of the Week<a class="headerlink" href="#group-activity-of-the-week" title="Permalink to this heading">#</a></h2>
-<p>It’s important when developing a narrative to have a clear idea of what
-the key elements to include are.</p>
-<ul class="simple">
-<li><p>Identify and justify 3 ideas/themes in your project that should be
-included in your narrative for both presentation and grant
-application.</p></li>
-</ul>
+<h2>Group activity of the Week<a class="headerlink" href="#group-activity-of-the-week" title="Link to this heading">#</a></h2>
+<p>It’s important when developing a narrative to have a clear idea of what are the key elements to include. This week as you continue developing your project and proposal, think about the narrative elements you need to include. What are the most important things. This can help you communicate it better but also refine your research question.</p>
 </section>
 <section id="discussion-questions">
-<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Permalink to this heading">#</a></h2>
+<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Link to this heading">#</a></h2>
 <ul class="simple">
-<li><p>Can you begin to tell a story about your project? What do you think is
-important to include in a narrative about a research project?</p></li>
-<li><p>Do you know enough to develop a narrative? What do you bring as an
-individualist as tool, knowledge? Does that suit the expertise of our
-team?</p></li>
-<li><p>Does creating a narrative to spotlight a specific result or approach of
-your scientific study conflict with scientific values such as
-objectivity, reproducibility, and transparency? How?</p></li>
+<li><p>Can you begin to tell a story about your project?  What do you think is important to include in a narrative about a research project?</p></li>
+<li><p>Do you know enough to develop a narrative?</p></li>
 <li><p>What do you bring as an individual to the story? Does that suit the expertise of our team?</p></li>
+<li><p>Does creating a narrative to spotlight a specific result or approach of your scientific study conflict with scientific values such as objectivity, reproducibility, and transparency? How?</p></li>
+<li><p>How is it to create a narrative collaboratively? How do you decide which ideas to include?</p></li>
+<li><p>Do you tell yourself stories about the other people in your group?</p></li>
 </ul>
 </section>
 <section id="weekly-submitted-assignments">
-<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Permalink to this heading">#</a></h2>
+<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Link to this heading">#</a></h2>
 <section id="group">
-<h3>Group<a class="headerlink" href="#group" title="Permalink to this heading">#</a></h3>
-<p>Identify the important narrative elements in your project. (½ page)</p>
+<h3>Group<a class="headerlink" href="#group" title="Link to this heading">#</a></h3>
+<p>Identify and describe  3 ideas/themes in your project that should be included in your narrative for both presentation and grant application. Explain why they should be included. No more than a paragraph per idea.</p>
 </section>
 <section id="individual">
-<h3>Individual<a class="headerlink" href="#individual" title="Permalink to this heading">#</a></h3>
-<p>This assignment reflects back on your workshop a couple weeks ago on listening but also on narratives and telling your story.</p>
-<p>What does it mean to feel heard? Which is harder for you, listening to others so they feel heard or being heard yourself?</p>
+<h3>Individual<a class="headerlink" href="#individual" title="Link to this heading">#</a></h3>
+<p>What does it mean to feel heard? Which is harder for you, listening to others so they feel heard or being heard yourself? How are you working on this (½ page)</p>
+<p>Note: This is also a reflection on your findings from week 4 on asking questions and listening to answers.</p>
 </section>
 </section>
 <section id="references">
-<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
+<h2>References<a class="headerlink" href="#references" title="Link to this heading">#</a></h2>
 <p><a class="reference external" href="https://www.futurelearn.com/info/courses/science-communication-for-researchers/0/steps/60448">Framing and the perception of scientific messages</a></p>
 <p>For more in-dept information on the effectiveness of narratives in
 health communication:<br />
@@ -503,11 +498,10 @@ research. <em>Review of Communication Research</em>, 4, 88-131.
 
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer d-print-none">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="Week1_5.html"
@@ -527,17 +521,16 @@ research. <em>Review of Communication Research</em>, 4, 88-131.
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -545,17 +538,14 @@ research. <em>Review of Communication Research</em>, 4, 88-131.
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-and-goals">Introduction and Goals</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-research-funding">Lecture: Research Funding</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-research-funding">Workshop: Research Funding</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-narratives">Workshop: Narratives</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key Concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Relevant Learning Goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activity-of-the-week">Group activity of the Week</a></li>
@@ -583,9 +573,10 @@ research. <em>Review of Communication Research</em>, 4, 88-131.
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
@@ -609,8 +600,8 @@ research. <em>Review of Communication Research</em>, 4, 88-131.
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

@@ -1,66 +1,65 @@
 
-
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="en" data-content_root="../" >
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Week 1.1: Getting Underway &#8212; CiTG Jupyter Book template</title>
+    <title>Week 1.1: Getting Underway &#8212; CSBB - textbook</title>
   
   
   
   <script data-cfasync="false">
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
-    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
+  <!-- 
+    this give us a css class that will be invisible only if js is disabled 
+  -->
+  <noscript>
+    <style>
+      .pst-js-only { display: none !important; }
+
+    </style>
+  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=26a4bc78f4c0ddb94549" rel="stylesheet" />
 
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
-  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
-<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
-
-    <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
-  
+  <!-- So that users can add custom icons -->
+  <script src="../_static/scripts/fontawesome.js?digest=26a4bc78f4c0ddb94549"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549" />
 
-    <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
-    <script src="../_static/jquery.js"></script>
-    <script src="../_static/underscore.js"></script>
-    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
-    <script src="../_static/doctools.js"></script>
-    <script src="../_static/clipboard.min.js"></script>
-    <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
-    <script src="../_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script src="../_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'Quarter1/Week1_1';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -68,6 +67,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="prev" title="Welcome" href="../Introduction.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
+  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -75,23 +75,16 @@ const thebe_selector_output = ".output, .cell_output"
 
   
   
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__primary"
-          id="__primary"/>
-  <label class="overlay overlay-primary" for="__primary"></label>
+  <div id="pst-scroll-pixel-helper"></div>
   
-  <input type="checkbox"
-          class="sidebar-toggle"
-          name="__secondary"
-          id="__secondary"/>
-  <label class="overlay overlay-secondary" for="__secondary"></label>
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
   
-  <div class="search-button__wrapper">
-    <div class="search-button__overlay"></div>
-    <div class="search-button__search-container">
+  <dialog id="pst-search-dialog">
+    
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -99,7 +92,6 @@ const thebe_selector_output = ".output, .cell_output"
   <input type="search"
          class="form-control"
          name="q"
-         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -107,16 +99,25 @@ const thebe_selector_output = ".output, .cell_output"
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form></div>
-  </div>
+</form>
+  </dialog>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
   
-    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
-    </nav>
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
   
+
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      
+      
+      <dialog id="pst-primary-sidebar-modal"></dialog>
+      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -129,9 +130,13 @@ const thebe_selector_output = ".output, .cell_output"
   
     <div class="sidebar-primary-items__start sidebar-primary__section">
         <div class="sidebar-primary-item">
+
+  
+    
   
 
 <a class="navbar-brand logo" href="../intro.html">
+  
   
   
   
@@ -141,12 +146,19 @@ const thebe_selector_output = ".output, .cell_output"
       
     
     
-    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="Logo image"/>
-    <script>document.write(`<img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-light" alt="CSBB - textbook - Home"/>
+    <img src="../_static/TUDelft_logo_rgb.png" class="logo__image only-dark pst-js-only" alt="CSBB - textbook - Home"/>
   
   
 </a></div>
-        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+        <div class="sidebar-primary-item">
+
+<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <span class="search-button__default-text">Search</span>
+ <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+</button></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
@@ -167,8 +179,8 @@ const thebe_selector_output = ".output, .cell_output"
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Week 1.1: Getting Underway</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_2.html">Week 1.2: Understanding your crew</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: Searching for Sources</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Exploring Questions</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_3.html">Week 1.3: What is your quest(ion)?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Week1_4.html">Week 1.4: Power of Questions</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_5.html">Week 1.5: Stakeholders</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_6.html">Week 1.6: Getting Money</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_7.html">Week 1.7: Leaving a Mark</a></li>
@@ -176,20 +188,25 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1"><a class="reference internal" href="Week1_9.html">Week 1.9: Dress Rehearsal</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Week1_10.html">Week 1.10: Taking the Stage</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Developing Answers</span></p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Quarter 2 - Finding Answers</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_1.html">Week 2.1: The Research Ecosystem</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_2.html">Week 2.2: Can you repeat that?</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_3.html">Week 2.3: Institutional Review Process</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_4.html">Week 2.4: Data Management</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Data Analysis Theory</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_5.html">Week 2.5: Summarising</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_6.html">Week 2.6: Biases and Papers</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Philosophical Perspectives</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Collaborating and Communicating</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_7.html">Week 2.7: Reviewing a paper</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_8.html">Week 2.8: Convincing people</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_9.html">Week 2.9: Dress Rehearsal</a></li>
 
 <li class="toctree-l1"><a class="reference internal" href="../Quarter2/Week2_10.html">Week 2.10: We made it!</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Annex</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q1.html">Rubrics Q1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Annex/Rubrics_Q2.html">Rubrics Q2</a></li>
 </ul>
 
     </div>
@@ -205,7 +222,7 @@ const thebe_selector_output = ".output, .cell_output"
 
       </div>
       
-      <main id="main-content" class="bd-main">
+      <main id="main-content" class="bd-main" role="main">
         
         
 
@@ -214,14 +231,14 @@ const thebe_selector_output = ".output, .cell_output"
           <div class="bd-content">
             <div class="bd-article-container">
               
-              <div class="bd-header-article">
+              <div class="bd-header-article d-print-none">
 <div class="header-article-items header-article__inner">
   
     <div class="header-article-items__start">
       
-        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
   <span class="fa-solid fa-bars"></span>
-</label></div>
+</button></div>
       
     </div>
   
@@ -296,26 +313,20 @@ const thebe_selector_output = ".output, .cell_output"
 </button>
 
 
-<script>
-document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
-  </button>
-`);
-</script>
 
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
-<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
+  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
+  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
+</button>
+
+
+<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+</button>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
-</label>
+</button>
 </div></div>
       
     </div>
@@ -337,36 +348,43 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule">Schedule</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-lecture-by-the-minor-director">Introduction Lecture by the Minor Director</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#information-they-should-know">Information They Should Know</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-technical-tools">Workshop: Technical Tools</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key concepts</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#presentations-of-subtopics">Presentations of Subtopics</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-team-dynamics-and-belbin-roles">Workshop: Team Dynamics and Belbin Roles</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-peer-feedback-teamwork-and-collaboration">Workshop: Peer feedback, teamwork, and collaboration</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Key concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-scholarly-communication-and-critical-reading">Workshop: Scholarly Communication and Critical Reading</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-group-roles-and-group-dynamics">Workshop: Group roles and group dynamics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-team-building">Workshop: Team building</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Relevant Learning Goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-jigsaw-puzzle-part-i">Workshop Jigsaw puzzle part I</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#learning-goals">Learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-reflective-science">Workshop: Reflective Science</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Key concepts</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-jigsaw-puzzle-part-ii">Workshop Jigsaw puzzle part II</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">Key concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Learning goals</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structured-group-activity-topic-selection">Structured Group Activity: Topic Selection</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-unscheduled">Group Activities (unscheduled)</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-topic-selection">Workshop: Topic selection</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-not-scheduled">Group activities (not scheduled)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#weekly-submitted-assignments">Weekly Submitted Assignments</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group">Group</a></li>
@@ -383,201 +401,232 @@ document.write(`
               
                 
 <div id="searchbox"></div>
-                <article class="bd-article" role="main">
+                <article class="bd-article">
                   
   <figure class="align-default" id="week1image">
 <img alt="../_images/week1.jpeg" src="../_images/week1.jpeg" />
 </figure>
 <section class="tex2jax_ignore mathjax_ignore" id="week-1-1-getting-underway">
-<h1>Week 1.1: Getting Underway<a class="headerlink" href="#week-1-1-getting-underway" title="Permalink to this heading">#</a></h1>
-<p>Week 1 is meant for the students to get to know each other and the
-topics they will be working on. They will get to know their group, the
-supervisors and the first tools they will need during the minor. It will
-include picking a team name and picking a subtopic.</p>
+<h1>Week 1.1: Getting Underway<a class="headerlink" href="#week-1-1-getting-underway" title="Link to this heading">#</a></h1>
+<p>Week 1 is the time for everyone to get to know who is involved in the minor—fellow students, supervisors, coaches and the teaching team. You will learn about the requirements to complete the minor successfully. You will spend some time getting to know your groups and start learning the  foundational skills needed during the minor.</p>
+<p>This week’s activities also include picking a team name and starting to develop research ideas. Unscheduled time should be spent reading articles on the topics, and discussing ideas with fellow students, and anyone else you want.</p>
+<p>The schedule for this week includes :</p>
 <section id="schedule">
-<h2>Schedule<a class="headerlink" href="#schedule" title="Permalink to this heading">#</a></h2>
+<h2>Schedule<a class="headerlink" href="#schedule" title="Link to this heading">#</a></h2>
 <p>The schedule for the introduction week is quite full and complex. It includes:</p>
-<p>Monday: <strong>Communication</strong></p>
+<p><em>Monday:</em></p>
 <ul class="simple">
-<li><p><a href=#introduction-lecture-by-the-minor-director>Introduction Lecture</a> where the structure of the minor, goals and
-assessments will be introduced.</p></li>
-<li><p><a href=#workshop-technical-tools>Technical Tools</a> - explanation and exploration of all the tools we
-will be using: textbook, Brightspace, Teams.</p></li>
-<li><p>Library searches. Citation management tool.</p></li>
-<li><p>Get to know each other a bit better.</p></li>
+<li><p>Overview of the structure of the minor, our goals, expectations (see Introduction) and the assessment process</p></li>
+<li><p><a href=workshop-technical-tools> Technical Tools </a> – explanation and exploration of all the tools we will be using: textbook, Brightspace, Teams</p></li>
+<li><p>Get to know students and supervisors</p></li>
+<li><p><a href=presentation-of-subtopics> Subtopics presentation </a> by supervisors and coaches</p></li>
 </ul>
-<p>Tuesday: <strong>Research</strong></p>
+<p><em>Tuesday:</em></p>
 <ul class="simple">
-<li><p><a href=#presentations-of-subtopics>Presentation of Subtopics</a>: short presentations by supervisors about
-potential areas to do projects in.</p></li>
-<li><p><a href=#workshop-team-dynamics-and-belbin-roles>Group Roles</a>: understanding Belbin framework of group roles.</p></li>
+<li><p>Literature Search workshop</p></li>
+<li><p><a href=#workshop-scholarly-communication-and-critical-reading> Scholarly Communication and Critical Reading </a></p></li>
+<li><p>Workshop: <a href=#workshop-group-roles-and-group-dynamics> Group Roles and Group Dynamics </a></p></li>
 <li><p>(teaching team makes student groups)</p></li>
 </ul>
-<p>Wednesday: <strong>Collaboration</strong></p>
+<p><em>Wednesday:</em></p>
 <ul class="simple">
-<li><p>Students are informed of their group assignment</p></li>
-<li><p><a href=#workshop-peer-feedback-teamwork-and-collaboration>Workshop: Peer Feedback, Teamwork and Communication</a></p></li>
-<li><p>Group free time to discuss name and topics, do a little reading of
-background materials.</p></li>
+<li><p>Student groups announced</p></li>
+<li><p><a href=#workshop-team-building> Team Building </a>: playing (medical and biology-themed) collaborative and competitive board games</p></li>
+<li><p>Group free time to create a team name, explore the subtopics, and read subtopic articles suggested by the supervisors</p></li>
 </ul>
-<p>Thursday: <strong>Reflection</strong></p>
+<p><em>Thursday:</em></p>
 <ul class="simple">
-<li><p><a href=#workshop-reflective-science>Workshop: Reflective Science</a></p></li>
-<li><p>Keep on reading and understanding background of subtopics.</p></li>
-<li><p>Submit team name.</p></li>
+<li><p><a href=#workshop-jigsaw-puzzle-part-i> Jigsaw Puzzle part I </a> (students will discuss in groups the different parts of the review given on Monday)</p></li>
+<li><p><a href=#workshop-reflective-science> Workshop reflective science </a></p></li>
+<li><p>keep on reading and understanding the background of subtopics</p></li>
+<li><p>Submit team name and personal learning goals</p></li>
 </ul>
-<p>Friday: <strong>Integration</strong></p>
+<p><em>Friday:</em></p>
 <ul class="simple">
-<li><p>Topic selection</p></li>
-<li><p>Submit the first <a href=#weekly-submitted-assignments>writing assignment</a></p></li>
-<li><p>First Friday symposium—reflect on the week.</p></li>
+<li><p><a href=#workshop-jigsaw-puzzle-part-ii> Jigsaw puzzle part II </a> (students will discuss the different parts of the review with the rest of the class. See Jigsaw puzzle part I)</p></li>
+<li><p>Team builder</p></li>
+<li><p>Submit the first writing assignments</p></li>
+<li><p>First Friday symposium—reflect on the week</p></li>
 </ul>
 </section>
-<section id="introduction-lecture-by-the-minor-director">
-<h2>Introduction Lecture by the Minor Director<a class="headerlink" href="#introduction-lecture-by-the-minor-director" title="Permalink to this heading">#</a></h2>
-<section id="overview">
-<h3>Overview<a class="headerlink" href="#overview" title="Permalink to this heading">#</a></h3>
-<p>The minor Director will welcome you during this Monday morning session.
-He will introduce you the minor, the transdisciplinary side of it, what
-we want to achieve, structure and schedule, contact details etc.</p>
-</section>
+<section id="introduction">
+<h2>Introduction<a class="headerlink" href="#introduction" title="Link to this heading">#</a></h2>
+<p>The minor Director will welcome you during this Monday morning session. He   will introduce you to  the minor, the transdisciplinary side of it, what we want to achieve, structure and schedule, contact details, etc.<br />
+In a collaborative project, it’s important to have a strong understanding of shared expectations. We will start the discussion by clarifying the expectations of the teaching team and have time to discuss your expectations. Once the groups are assigned, you will develop shared expectations within your own group.</p>
 <section id="key-concepts">
-<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Permalink to this heading">#</a></h3>
-<p>If you think about this as preparing for a sailing voyage, this is laying out the map of where you’ll go, your destination, and what you might learn along the way.</p>
+<h3>Key Concepts<a class="headerlink" href="#key-concepts" title="Link to this heading">#</a></h3>
+<p>If you think about this as preparing for a sailing voyage, this is about familiarizing yourself with your boat, laying out the map of  your journey and getting excited about what you could learn along the way.</p>
 </section>
 <section id="information-they-should-know">
-<h3>Information They Should Know<a class="headerlink" href="#information-they-should-know" title="Permalink to this heading">#</a></h3>
+<h3>Information They Should Know<a class="headerlink" href="#information-they-should-know" title="Link to this heading">#</a></h3>
 <ul class="simple">
 <li><p>What systems are being used</p></li>
 <li><p>Who’s involved</p></li>
 <li><p>Where to go to get help</p></li>
 <li><p>Deadlines and assignments</p></li>
+<li><p>Expectations</p></li>
 </ul>
 </section>
 </section>
 <section id="workshop-technical-tools">
-<h2>Workshop: Technical Tools<a class="headerlink" href="#workshop-technical-tools" title="Permalink to this heading">#</a></h2>
+<h2>Workshop: Technical Tools<a class="headerlink" href="#workshop-technical-tools" title="Link to this heading">#</a></h2>
+<p>In this short workshop, we will go over all the systems we will be using during the minor: the textbook, Brightspace, teams, etc.</p>
 <section id="id1">
-<h3>Overview<a class="headerlink" href="#id1" title="Permalink to this heading">#</a></h3>
-<p>Go over all the systems we will be using during the minor. The textbook,
-Brightspace, and teams. Show a basic literature search and citation
-management</p>
-</section>
-<section id="id2">
-<h3>Key Concepts<a class="headerlink" href="#id2" title="Permalink to this heading">#</a></h3>
-<p>Understanding the tools that will be used. Like a sailor preparing for a voyage, it’s essential to have your tools ready and know how to use them and where things are.  If the Intro lecture is about where you’re going, this is the technical tools you’ll need.</p>
-</section>
-<section id="relevant-learning-goals">
-<h3>Relevant Learning Goals<a class="headerlink" href="#relevant-learning-goals" title="Permalink to this heading">#</a></h3>
-<p>2.a. Collaborate. Collaborate effectively with other group members, other groups and the experts in the field.</p>
-<p>3.a. Research. Develop a research strategy to learn a body of information.</p>
+<h3>Key concepts<a class="headerlink" href="#id1" title="Link to this heading">#</a></h3>
+<p>Understanding the tools that will be used. Like a sailor preparing for a voyage, it’s essential to have your tools ready and know how to use them and where things are.</p>
 </section>
 </section>
 <section id="presentations-of-subtopics">
-<h2>Presentations of Subtopics<a class="headerlink" href="#presentations-of-subtopics" title="Permalink to this heading">#</a></h2>
-<p>The core of this minor is doing a research project. Within a large umbrella topic, students will be offered subtopics to choose to focus on. These are broad questions where groups will need to work on understanding the area to develop a specific actionable research question.</p>
-<p>Supervisors, experts, and stakeholders suggest topics (more than there are groups and present these in short pitch presentations.</p>
-<p>Each representative of a subtopic will give a brief 7/8-minute talk on the subtopic, what is interesting, what is the status of the field, and what some questions in the area are. When the presentations are over, they will be available so students can ask questions.</p>
-<p>Each subtopic will have a half-page summary and 2-3 articles as suggested beginning reading. These will be available in Brightspace.</p>
-<p>Students will decide with their group which subtopic they want to claim. Students will work in teams of four to five students. Each team will focus on a subtopic: the goal of the teams will be to understand the subtopic, investigate different aspects of it, identify the stakeholders involved and create a research question and then proposal to investigate it.</p>
+<h2>Presentations of Subtopics<a class="headerlink" href="#presentations-of-subtopics" title="Link to this heading">#</a></h2>
+<p>The destination of this minor is doing a research project.  Within a large umbrella topic, you will be offered subtopics as your starting point. These are broad questions where groups will need to work on understanding the area to develop a specific actionable research question.
+Supervisors, experts, and stakeholders will present the subtopics offered  to student groups in the form of short presentations.</p>
+<p>Presentations will last 7 to 8 minutes for each subtopic and will answer very broadly the following questions:  why they think this subtopic is interesting; what is the state of the art in the field; and what are some of the burning questions in the area. The presentations will be followed by a few minutes to ask questions about the topic.</p>
+<p>For each subtopic, we will provide a half-page summary and 2-3 articles as introductory reading to help you start on the right foot. These will be available in Brightspace.</p>
+<p>When you start reading the subtopics, we advise you not to rush into picking one. Try to think of questions you would find interesting in all subtopics.  Once groups have been formed by the teaching team, you can start narrowing down which topic your group wants to focus on. You will work in groups of 3-5 students and will need to develop an idea together. Each team will focus on a subtopic, you can merge subtopics or select elements from multiple subtopics. The goal is to integrate ideas from all group members not vote between two different ideas. The project of the groups will be to understand their subtopic, investigate different aspects of it, identify the stakeholders involved and create a research question and then proposal to investigate it. Each team is expected to become the expert on their topic.</p>
 </section>
-<section id="workshop-team-dynamics-and-belbin-roles">
-<h2>Workshop: Team Dynamics and Belbin Roles<a class="headerlink" href="#workshop-team-dynamics-and-belbin-roles" title="Permalink to this heading">#</a></h2>
-<p>Team dynamics can make or break a project. Every team member has their own goals, interests, backgrounds, skills and knowledge sets. The collaboration of such diverse groups often causes friction, tensions and conflicts. To help your team succeed, we’ll give you some essential tools for examining perspectives and handling conflicts. To support your teamwork, we will focus on various aspects of teamwork and collaboration during the whole minor.</p>
-<p>We first introduce the different roles people like to take in collaborative teams. In this minor, we will use Belbin Team Roles.  Students will have done the Belbin test ahead of time.  This afternoon will be spent talking about group roles (Belbin), perspective (Core Quadrants) and Rose of Leary (‘Conflict’).</p>
+<section id="workshop-scholarly-communication-and-critical-reading">
+<h2>Workshop: Scholarly Communication and Critical Reading<a class="headerlink" href="#workshop-scholarly-communication-and-critical-reading" title="Link to this heading">#</a></h2>
+<p>The aim of the workshop Scholarly Communication – Critical Reading is threefold: (1) introduce the basics of good literature search methodologies, (2) introduce the characteristics of the academic communication environment, and (3) provide guidelines for critically reading scientific texts.</p>
+<p>The first part of the workshop is the fundamentals of searching for scientific literature for articles of interest and methods for tracking what you’ve found and will use in your future research. Then we’ll begin the discussion of how to read what you’ve found.</p>
+<p>Related to the second aim, the typical features of rhetorical communication situations in an academic environment will be addressed. Various elements in a communicative environment, such as audience, context, and conventions, can influence writers’ textual and stylistic choices. We will discuss various genres of scholarly communication that students will regularly come across, such as the scientific journal paper.</p>
+<p>The third part of the workshop introduces critical reading as one of the first steps in both the research and writing process. Carrying out a critical literature review is an essential first step in the research process, of which scientific texts such as a research proposal or journal paper are an important part. This part of the workshop focuses on guidelines for critical reading of literature, to help students determine key information in relevant sources. It introduces the Scientific Argumentation Model, a helpful tool for systematically mapping scientific sources. Students will analyse and discuss critical examples of relevant papers by recognizing helpful structural and stylistic elements to navigate such sources.</p>
+<section id="id2">
+<h3>Key concepts<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>What is scholarly communication?</p></li>
+<li><p>Genres in scholarly communication</p></li>
+<li><p>How to read and interpret scientific sources</p></li>
+<li><p>Writing process (and the role of critical reading in the writing process)</p></li>
+</ul>
+</section>
+<section id="relevant-learning-goals">
+<h3>Relevant learning goals<a class="headerlink" href="#relevant-learning-goals" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Understand the elements of the scholarly communication situation</p></li>
+<li><p>Know about various genres in scholarly communication and their characteristics</p></li>
+<li><p>Understand the various stages of the writing process</p></li>
+<li><p>Understand essential elements and features of scientific texts for critical evaluation</p></li>
+<li><p>Analyse examples of scientific papers with the Scientific Argumentation Model</p></li>
+<li><p>Reflect on the value of information provided in scientific texts</p></li>
+</ul>
+</section>
+</section>
+<section id="workshop-group-roles-and-group-dynamics">
+<h2>Workshop: Group roles and group dynamics<a class="headerlink" href="#workshop-group-roles-and-group-dynamics" title="Link to this heading">#</a></h2>
+<p>can make or break a project. Every team member has their own goals, interests, backgrounds, working methods, knowledge, and skills. The collaboration of such diverse groups will cause friction and conflicts . The skill of coping with friction and conflict is to keep them constructive rather than allowing them to become destructive. To help your team succeed, we will show you some essential tools for examining perspectives and conflicts. To support your collaboration, we will focus on various aspects of teamwork and collaboration during the whole minor.</p>
+<p>This afternoon workshop will focus on group roles (Belbin), perspective (Core Quadrants), the Rose of Leary (effective communication) and the Topoi model of communication.</p>
+<p>We will first introduce the “Belbin Team Roles” model. This model can help you understand different roles people like to take in collaborative teams. You will be asked to take the Belbin test prior to this workshop  so that you can discuss the results in class, whether you disagree with them or what insight you gained from your results. The results will also be considered in forming student groups.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://www.belbin.com/about/belbin-team-roles">Belbin Team Roles |
 Belbin</a></p></li>
 </ul>
 </section>
-<section id="workshop-peer-feedback-teamwork-and-collaboration">
-<h2>Workshop: Peer feedback, teamwork, and collaboration<a class="headerlink" href="#workshop-peer-feedback-teamwork-and-collaboration" title="Permalink to this heading">#</a></h2>
+<section id="workshop-team-building">
+<h2>Workshop: Team building<a class="headerlink" href="#workshop-team-building" title="Link to this heading">#</a></h2>
+<p>In the morning, the teams will be announced, and we will have time to get to know each other by playing competitive and collaborative board games related to biomedical research. During the first part of the workshop, we will dive further into the topic of teamwork and collaboration and discuss your experiences with the various games. We will discuss the essentials of effective collaboration and the role of competition   in teamwork.</p>
 <section id="id3">
-<h3>Overview<a class="headerlink" href="#id3" title="Permalink to this heading">#</a></h3>
-<p>In the morning, the teams will be announced, and the students will have time to get to know each other by playing competitive and collaborative board games related to medicine and nanobiology. During the first part of the workshop, we will dive further into the topic of teamwork and collaboration and discuss the student’s experiences with the various games. We will discuss the essentials of effective collaboration and the role of competition in teamwork. In the afternoon, we will focus on communication between team members, especially on peer feedback.</p>
+<h3>Key concepts<a class="headerlink" href="#id3" title="Link to this heading">#</a></h3>
+<p>Collaboration, competition, team work</p>
 </section>
 <section id="id4">
-<h3>Key concepts<a class="headerlink" href="#id4" title="Permalink to this heading">#</a></h3>
-<p>First, the teams experience collaboration and competition while playing various board games within their new teams. This serves two goals: team bonding (having fun and getting to know each other) and experiencing collaboration and competition. Then we dive into the basics of teamwork. We discuss the following topics: What is teamwork? To what extent it is different from individual work?  What are the pros and cons of working together? How do we make teamwork effective? And finally, what is the relationship between collaboration and competition?</p>
-<p>We will also discuss different types of teamwork and the management of tasks within a team. Finally, we will focus on giving and getting feedback from your team members: peer feedback.</p>
-<p>Getting and giving feedback are important skills for any profession—or person. If we want to improve our skills (ourselves), we need people to give us feedback about how we are doing. But <em>how</em> the feedback is given is as important if not more important than <em>what</em> it is regarding how effective it is at creating change. The other side of that is that sometimes (often), we want feedback from other people about something we are trying to improve—how we ask for that feedback can have a huge effect on the kind of feedback they give us.  Asking for and receiving feedback are skills; they need practice and ongoing refinement.</p>
-<p>Giving feedback to each other is the core of teamwork: letting people know what you can and cannot do, what works for you, and what does not. Developing reflection and good habits in feedback early on can save many conflicts, time, and energy wasted later on – especially feedback around making mistakes.</p>
-</section>
-<section id="id5">
-<h3>Relevant Learning Goals<a class="headerlink" href="#id5" title="Permalink to this heading">#</a></h3>
-<p>Collaboration is one of the four main threads of this minor and peer
+<h3>Relevant Learning Goals<a class="headerlink" href="#id4" title="Link to this heading">#</a></h3>
+<p>Collaboration is one of the four main threads of this minor, and peer
 feedback is key to that.</p>
-<p>A)  Collaborate effectively with other group members, other groups, and
-the case owners / experts of the field.</p>
-<p>B)  Explain how intercultural differences play a role in
-collaboration—this includes social (language, nationality, etc.)
-but also professional (business vs education, medicine vs
-engineering) differences and apply this knowledge to the
-collaboration.</p>
-<p>C)  Be aware of and reflect on the various phases of the process, the
-challenges and problems that were encountered, and what was learned
-from this.</p>
-<p>D)  Evaluate different roles of members in group projects.</p>
-<p>E)  Provide constructive feedback and show openness to feedback from
-others.</p>
+<ul class="simple">
+<li><p>Collaborate effectively with other group members, other groups, and the case owners/experts of the field.</p></li>
+<li><p>Evaluate different roles of members in group projects.</p></li>
+</ul>
+</section>
+</section>
+<section id="workshop-jigsaw-puzzle-part-i">
+<h2>Workshop Jigsaw puzzle part I<a class="headerlink" href="#workshop-jigsaw-puzzle-part-i" title="Link to this heading">#</a></h2>
+<p>In jigsaw activities, students engage with content in different ways, explaining more deeply different parts of the content. In this workshop, students will be grouped according to the piece of the review, given on Monday, that they have had to read. For instance, the four students who had to read the Introduction will come together and discuss the Introduction, they have become Experts in their part. What have they learned from it? What is important? What has piqued their curiosity? Have they found additional interesting information? The other groups do the same for their parts. During the session, the students will make 3-4 slides with the information of their part. These will then be presented to the other students during the Workshop Jigsaw puzzle part II, on Friday. Each group will select a representative to present their part in day 2 of this workshop.</p>
+<section id="id5">
+<h3>Key concepts<a class="headerlink" href="#id5" title="Link to this heading">#</a></h3>
+<p>Collaborative learning, team work.</p>
+</section>
+<section id="learning-goals">
+<h3>Learning goals<a class="headerlink" href="#learning-goals" title="Link to this heading">#</a></h3>
+<p>Students will acquire a deep understanding of their assigned part and be able to explain it clearly to their peers.
+Students will gain experience in teaching complex material to their peers, developing skills in explaining, summarizing, and clarifying information.</p>
 </section>
 </section>
 <section id="workshop-reflective-science">
-<h2>Workshop: Reflective Science<a class="headerlink" href="#workshop-reflective-science" title="Permalink to this heading">#</a></h2>
+<h2>Workshop: Reflective Science<a class="headerlink" href="#workshop-reflective-science" title="Link to this heading">#</a></h2>
+<p>During this workshop, students will dive deeper into what each individual brings to the team. We’ll discuss what prior knowledge and skills we have that could be relevant to the team project. Further, we will reflect on how we prefer to work and communicate with each other. We will use a culture map to identify cultural and personal differences in communication and teamwork, aiming to understand how the individual team members can collaborate effectively.</p>
+<p>Working effectively in a team requires good understanding of what knowledge and skills are required for the project to be undertaken, but also good understanding of cultural (including: field of expertise, social-economic background, or country of origin) and personal preferences of oneself and of all the team members. In this workshop, you will identify what skills and knowledge might be needed to start the project and if the required skills and knowledge are already present in the team. In addition, you’ll work on identifying and discussing personal and cultural preferences regarding teamwork and communication. Analysing how cultural habits position themselves relative to another culture, a deeper understanding of how culture influences collaboration will be discussed. (further information can be found in The Culture Map, Erin Meyer, ISBN: 9781610392761).</p>
+<p>During this workshop, you will discuss what expertise each team members bring to the group, and formulate your learning goals.</p>
 <section id="id6">
-<h3>Overview<a class="headerlink" href="#id6" title="Permalink to this heading">#</a></h3>
-<p>During this workshop, students will dive deeper into what assets each individual student brings to the team. We address what prior knowledge and skills students have that could be relevant to the team project. Further, we will reflect on how students prefer to work and communicate with each other. We will use a culture map to identify cultural and personal differences in communication and teamwork, aiming to understand how the individual team members can collaborate effectively.</p>
+<h3>Key concepts<a class="headerlink" href="#id6" title="Link to this heading">#</a></h3>
+<p>Self-awareness. Intercultural communication and work.</p>
 </section>
+</section>
+<section id="workshop-jigsaw-puzzle-part-ii">
+<h2>Workshop Jigsaw puzzle part II<a class="headerlink" href="#workshop-jigsaw-puzzle-part-ii" title="Link to this heading">#</a></h2>
+<p>In this second part of this workshop, Expert students of one part will be separated and mingled with Experts of the other parts. Each student within these newly formed groups will present their different parts to the rest of the group. In this way, everybody will be teaching different content to the rest of the students. Students will then be making connections between the parts they have studied with the other parts of the content.</p>
+<p>Jigsaw activities make the students more engaged with the content they are learning, sharing it with others and learning from others at the same time. This maximises interactions and collaborations in learning something, together.</p>
 <section id="id7">
-<h3>Key concepts<a class="headerlink" href="#id7" title="Permalink to this heading">#</a></h3>
-<p>Working effectively in a team requires good understanding of what knowledge and skills are required for the project that is undertaken, but also good understanding of cultural (being e.g. field of expertise, social-economic background, or country of origin) and personal preferences of oneself and of all the team members. In this workshop, students will identify what skills and knowledge might be needed to start the project and if the required skills and knowledge are already present in the team. In addition, students will work on identifying and discussing their personal and cultural preferences regarding teamwork and communication. Analysing how cultural habits position themselves relative to another culture, a deeper understanding of how culture influences collaboration is provided (further information can be found in The Culture Map, Erin Meyer, ISBN: 9781610392761).</p>
+<h3>Key concepts<a class="headerlink" href="#id7" title="Link to this heading">#</a></h3>
+<p>Collaborative learning, team work, making connections between parts, presenting.</p>
 </section>
 <section id="id8">
-<h3>Relevant Learning Goals<a class="headerlink" href="#id8" title="Permalink to this heading">#</a></h3>
-<p>4c. Understand how personal biases influence your work and your collaborations.</p>
+<h3>Learning goals<a class="headerlink" href="#id8" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p>Students will acquire a deep understanding of their assigned part and be able to explain it clearly to their peers.</p></li>
+<li><p>Students will connect their subtopic to the larger theme of the course, demonstrating how their section contributes to the overall understanding of the subject.</p></li>
+<li><p>Students will practice active listening and clear communication, ensuring that they can both teach their subtopic to peers and understand the subtopics taught by others.</p></li>
+<li><p>Students will analyze how the different subtopics interrelate and integrate them into a coherent understanding of the larger topic.</p></li>
+<li><p>Students will gain experience in teaching complex material to their peers, developing skills in explaining, summarizing, and clarifying information.</p></li>
+</ul>
 </section>
 </section>
-<section id="structured-group-activity-topic-selection">
-<h2>Structured Group Activity: Topic Selection<a class="headerlink" href="#structured-group-activity-topic-selection" title="Permalink to this heading">#</a></h2>
-<p>There will be structured time with a facilitator to discuss the topics.  For this activity, the students need to pick their favourite subtopics.</p>
-<p>The team members choose their top 3 subtopics, and then the teams will have the possibility to explore two or three out of these via creative brainstorming sessions, using methods such as Draw the problem, Cover story or Anti-problem. This session will make the teams’ choice easier.</p>
-<section id="group-activities-unscheduled">
-<h3>Group Activities (unscheduled)<a class="headerlink" href="#group-activities-unscheduled" title="Permalink to this heading">#</a></h3>
+<section id="workshop-topic-selection">
+<h2>Workshop: Topic selection<a class="headerlink" href="#workshop-topic-selection" title="Link to this heading">#</a></h2>
+<p>There will be structured time with a facilitator to discuss the topics. For this activity, the students need to pick their favourite subtopics.</p>
+<p>The team members identify three subtopics which interest them, and then the teams will have the possibility to explore two or three out of these via creative brainstorming sessions, using methods such as Draw the problem, Cover story or Anti-problem. This session will help make deciding on a topic easier.</p>
+</section>
+<section id="group-activities-not-scheduled">
+<h2>Group activities (not scheduled)<a class="headerlink" href="#group-activities-not-scheduled" title="Link to this heading">#</a></h2>
 <ul class="simple">
 <li><p>Read the suggested sources on the topics you’re interested in.</p></li>
+<li><p>Find and read other sources on the topic</p></li>
+<li><p>Set up Mendeley for your group for tracking who’s reading what</p></li>
 <li><p>Decide on a team name and turn it in.</p></li>
 </ul>
 </section>
-</section>
 <section id="discussion-questions">
-<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Permalink to this heading">#</a></h2>
+<h2>Discussion Questions<a class="headerlink" href="#discussion-questions" title="Link to this heading">#</a></h2>
 <ul class="simple">
-<li><p>How is it going so far?</p></li>
-<li><p>What do you hope for next week?</p></li>
-<li><p>Going through the Belbin roles, what do you think about the results you
-got? What are the strengths and weaknesses of any of these frameworks?</p></li>
+<li><p>Who am I? Going through the Belbin roles, what do you think about the results you got? What are the strengths and weaknesses of any of these frameworks?</p></li>
+<li><p>Why am I interested in these topics? Which aspect of the research topic is interesting / challenging? What do I know about these topics? What questions do I have about the topics?</p></li>
+<li><p>How is it going so far? What do you hope for next week?</p></li>
+<li><p>What is the role of conflict in a collaboration?</p></li>
+<li><p>What does a collaborative team need emotionally to be successful?</p></li>
 </ul>
 </section>
 <section id="weekly-submitted-assignments">
-<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Permalink to this heading">#</a></h2>
-<p>This is the writing prompt for the weekly writing assignment. More details can be found on brightspace.</p>
+<h2>Weekly Submitted Assignments<a class="headerlink" href="#weekly-submitted-assignments" title="Link to this heading">#</a></h2>
+<p>Details in Brightspace:</p>
 <section id="group">
-<h3>Group<a class="headerlink" href="#group" title="Permalink to this heading">#</a></h3>
+<h3>Group<a class="headerlink" href="#group" title="Link to this heading">#</a></h3>
 <p>Decide on a team name and turn it in</p>
 </section>
 <section id="individual">
-<h3>Individual<a class="headerlink" href="#individual" title="Permalink to this heading">#</a></h3>
-<p>What did you learn about yourself from the Belbin Roles workshop? (½ page)</p>
+<h3>Individual<a class="headerlink" href="#individual" title="Link to this heading">#</a></h3>
+<p>Reflection on the Belbin roles, the expertise you bring in the team, and writing Individual learning goals for the minor. (½ page minimum)</p>
 </section>
 </section>
 <section id="references">
-<h2>References<a class="headerlink" href="#references" title="Permalink to this heading">#</a></h2>
+<h2>References<a class="headerlink" href="#references" title="Link to this heading">#</a></h2>
 <p><a class="reference external" href="https://www.belbin.com/about/belbin-team-roles">Belbin Team Roles |
 Belbin</a>
 <a class="reference external" href="https://www.belbin.com/about/belbin-team-roles">https://www.belbin.com/about/belbin-team-roles</a></p>
 <p><a class="reference external" href="https://ocw.tudelft.nl/courses/information-literacy-i/#1499170838085-aa4d22d0-5809">Information Literacy I
 -</a>
 TU Delft OCW</p>
+<p><a class="reference external" href="https://www.tudelft.nl/tulib/managing-your-information/reference-management">Reference management (tudelft.nl)</a></p>
+<p><a class="reference external" href="https://www.mendeley.com/guides">Guides | Mendeley</a></p>
+<p>The Culture Map, Erin Meyer, ISBN: 9781610392761</p>
 </section>
 </section>
 
@@ -606,11 +655,10 @@ TU Delft OCW</p>
 
               
               
-                <footer class="bd-footer-article">
+              
+              
+                <footer class="prev-next-footer d-print-none">
                   
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="../Introduction.html"
@@ -630,17 +678,16 @@ TU Delft OCW</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <dialog id="pst-secondary-sidebar-modal"></dialog>
+                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
 
   <div class="sidebar-secondary-item">
   <div class="page-toc tocsection onthispage">
@@ -649,36 +696,43 @@ TU Delft OCW</p>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#schedule">Schedule</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction-lecture-by-the-minor-director">Introduction Lecture by the Minor Director</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#overview">Overview</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#introduction">Introduction</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#key-concepts">Key Concepts</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#information-they-should-know">Information They Should Know</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-technical-tools">Workshop: Technical Tools</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key Concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id1">Key concepts</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#presentations-of-subtopics">Presentations of Subtopics</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-team-dynamics-and-belbin-roles">Workshop: Team Dynamics and Belbin Roles</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-peer-feedback-teamwork-and-collaboration">Workshop: Peer feedback, teamwork, and collaboration</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Overview</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Key concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Relevant Learning Goals</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-scholarly-communication-and-critical-reading">Workshop: Scholarly Communication and Critical Reading</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#relevant-learning-goals">Relevant learning goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-group-roles-and-group-dynamics">Workshop: Group roles and group dynamics</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-team-building">Workshop: Team building</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Relevant Learning Goals</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-jigsaw-puzzle-part-i">Workshop Jigsaw puzzle part I</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id5">Key concepts</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#learning-goals">Learning goals</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-reflective-science">Workshop: Reflective Science</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Overview</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id6">Key concepts</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-jigsaw-puzzle-part-ii">Workshop Jigsaw puzzle part II</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id7">Key concepts</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Relevant Learning Goals</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id8">Learning goals</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#structured-group-activity-topic-selection">Structured Group Activity: Topic Selection</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-unscheduled">Group Activities (unscheduled)</a></li>
-</ul>
-</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#workshop-topic-selection">Workshop: Topic selection</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#group-activities-not-scheduled">Group activities (not scheduled)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#discussion-questions">Discussion Questions</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#weekly-submitted-assignments">Weekly Submitted Assignments</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#group">Group</a></li>
@@ -703,9 +757,10 @@ TU Delft OCW</p>
   
   <div class="footer-item">
     
+
   <p class="copyright">
     
-      © Copyright 2022.
+      © Copyright 2023.
       <br/>
     
   </p>
@@ -729,8 +784,8 @@ TU Delft OCW</p>
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script defer src="../_static/scripts/bootstrap.js?digest=26a4bc78f4c0ddb94549"></script>
+<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=26a4bc78f4c0ddb94549"></script>
 
   <footer class="bd-footer">
   </footer>

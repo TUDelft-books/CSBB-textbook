@@ -3,37 +3,44 @@
 ```
 # Week 1.7: Leaving a Mark
 
-The scheduled components of this week are:
+The main topic of this week is “Impact”. As researchers, it is important to be aware of the impact of your research on different levels and in varying contexts. Further, it is good to be able to explain the necessity and importance of your work to others, especially when it comes to communicating with non-experts or writing grant applications. Also grant applications often require that you include a section on what the potential utilization of your results could be. 
+These points will be explored this week in two workshops “Knowledge Utilization” and “Grant Writing”. Knowledge utilization is about explaining how the results of your project could be used to solve societal problems or make money. We call this developing the horizon viewpoint—what could happen in the future with this research. It is important to be able to explain how your results can be used and what the applications of that knowledge might be. This includes discussion of patents and other Intellectual Property Rights (IPRs).  
+Grant writing will focus on the technical details of writing grants, developing some best practices, understanding requirements, how to read the instructions and the elements of a research grant.
 
--   Science Spotlight
+*Monday:*
+•	Science Spotlight 
+•	Workshop: Workshop: <a href=#workshop-knowledge-utilization> Knowledge Utilization </a> --Peter van Dongen
 
--   Workshop: <a href=#workshop-knowledge-utilization> Knowledge Utilization </a>
+*Wednesday:*
+•	Workshop: <a href=#workshop-grant-writing> Grant Writing
 
--   Workshop: <a href=#workshop-grant-writing> Grant Writing
+*Friday:*
+•	Symposium: Knowledge for knowledge sake vs applied knowledge
 
--   <a href=#group-activity-of-the-week> Group Activity </a>
-
--   Friday Symposium
-
-## Introduction and Goals
-
-The main topic of this week is “Impact”. As participants in research, it is important be aware of the impact of your research on different levels and in varying contexts. Further, it is good to be able to explain the necessity and importance of your work to others, especially when it comes to communicating with non-experts or writing grant applications. 
-
-These points will be explored as part of two workshops about Knowledge Utilization and Grant Writing. Knowledge utilization is describing how the results of your project could be used in the future. We call this developing the horizon viewpoint—what could happen in the future with this research. It is important to be able to explain how their results can be used and what the applications of that knowledge might be. This will particularly explored from the perspective of the Dutch Patent office.  
-
-Grant writing will focus on the technical details of writing grants, developing some best practices, understanding requirements, how to read the instructions and the elements of a research grant. 
 
 ## Workshop: Knowledge Utilization
 
-### Overview
-Fundamental scientific research is the engine of progress and of key importance to enlarge the frontiers of knowledge and understanding of its subject matter. However, empirical evidence shows that collaborations with industrial partners and companies often provide successful routes to professional pathways for the utilization and commercialization of the results from scientific research into novel innovations when aligned with medical unmet needs. Prior to embark into such collaborations transparent allocations and agreements on Intellectual Property Rights (hence: IPRs) should be arranged in such a way that they are beneficial for all stakeholders (e.g. universities, multinationals, small and medium sized enterprises and startups).  
+Fundamental scientific research is the engine of progress and of key importance to enlarge the frontiers of knowledge and understanding of its subject matter. However, empirical evidence shows that collaborations with industrial partners and companies often provide successful routes to professional pathways for the utilization and commercialization of the results from scientific research into novel innovations when aligned with societal unmet needs. 
+
+This course is designed to equip students with the skills necessary to assess how a research idea can provide value to society and develop a strong value proposition for their projects. A key component of the curriculum is guiding students in articulating a clear value proposition that highlights the unique benefits and impact of their research. This involves understanding the needs of their target audience, positioning their projects within the broader scientific landscape, and communicating the significance of their work. Through hands-on activities, including case studies, research proposal development, and collaborative experiments, students will not only bridge the gap between academic learning and real-world scientific inquiry but also ensure their projects are compelling and valuable to stakeholders.
+Fundamental scientific research is the engine of progress and of key importance to enlarge the frontiers of knowledge and understanding of its subject matter. However, empirical evidence shows that collaborations with industrial partners and companies often provide successful routes to professional pathways for the utilization and commercialization of the results from scientific research into novel innovations when aligned with societal unmet needs. 
+
+This course is designed to equip students with the skills necessary to assess how a research idea can provide value to society and develop a strong value proposition for their projects. A key component of the curriculum is guiding students in articulating a clear value proposition that highlights the unique benefits and impact of their research. This involves understanding the needs of their target audience, positioning their projects within the broader scientific landscape, and communicating the significance of their work. Through hands-on activities, including case studies, research proposal development, and collaborative experiments, students will not only bridge the gap between academic learning and real-world scientific inquiry but also ensure their projects are compelling and valuable to stakeholders.
+
 ### Key Concepts 
-This workshop provides a short introduction into the use of some IPRs (ic. patents) for technological innovations and more background with essential definitions. Prior to the workshop a reader will be disseminated for self-study. Towards the end of the workshop a first start with the identification of interesting patent documents will be presented for future use.
+-	**Value Proposition**: A statement that clearly explains the unique benefits and significance of a project or research, addressing the needs and interests of the target audience.
+-   **Research Proposal**: A detailed plan or outline for a research project, including objectives, methodology, expected outcomes, and the value proposition.
+-	**Target Audience**: The specific group of people or stakeholders who are most likely to benefit from or be interested in the research findings.
+
+### Key Learning Goals
+
+-	**Develop a Strong Value Proposition**: Students will be able to create a compelling value proposition that articulates the unique benefits and significance of their scientific projects.
+-	**Identify and Address Audience Needs**: Students will be able to identify the needs and interests of their target audience and tailor their research and value proposition accordingly.
+
 
 ## Workshop: Grant Writing
-### Overview
-One of the most important skills for a scientist is to be able to write grant applications. Like many other skills, it’s a skill that takes time, and practice to develop further. Every grant will have slightly different requirements, this workshop will cover how to read the instructions, how the systems around grants work, and what you should know in writing a grant.  
 
+One of the most important skills for a scientist is to be able to write grant applications. Like many other skills, it’s a skill that takes time, and practice to develop further. Every grant will have slightly different requirements, this workshop will cover how to read the instructions, how the systems around grants work, and what you should know in writing a grant. 
 ### Key Concepts 
 
 -   What are grants and what role do they play in research?
@@ -50,18 +57,17 @@ Write a draft of the knowledge utilization portion of your grant application. Yo
 
 ## Discussion Questions
 
+- What methods and approach will you use to address your research question?
+
 - What does it mean to overpromise? How do you keep your knowledge
 utilization realistic?
-
-- What does it mean to overpromise? how do you keep your knowledge utilization realistic?
 
 - Is knowledge utilization an important criteria in evaluating a research
 project and funding for it? Why or why not?
 
 - What do you hope the results of your project can be used for in the future? Is that realistic?
 
-- What are the problems with this method of funding research? What other
-ways could there be?
+- What are the problems with this method of funding research? What other ways could there be?
 
 - How do you handle rejection?
 
@@ -69,7 +75,7 @@ ways could there be?
 ### Group
 Kowledge utilization draft (1 paragraph)
 ### Individual
- How important is knowledge for knowledge's sake versus being able to
+How important is knowledge for knowledge's sake versus being able to
 apply it immediately to problems? How do you balance the two? (½ page)
 
 ## References
