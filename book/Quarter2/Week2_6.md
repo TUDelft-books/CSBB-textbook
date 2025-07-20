@@ -68,7 +68,7 @@ Types of Unconscious Biases
 
 - How to counteract them
 
-### Relevant Learning Goals
+### Learning goals
 - Collaboration
 
 - Communication
@@ -95,7 +95,7 @@ At the end of the workshop, students will have written parts of their paper and 
 
 - Academic style and language
 
-### Relevant Learning Goals
+### Learning goals
 - Communication
 
 ## Group Activity of the Week

@@ -29,7 +29,7 @@ This week’s schedule includes:
 
 In this workshop, students will learn how to create impactful, scalable ideas by building on the value proposition canvas they developed in the previous session. We’ll explore how to design scientific proposals with a strategic focus on long-term impact and scalability in healthcare product-service systems. Through interactive exercises with the business model canvas, students will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact., Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic proposals. 
 
-### Relevant Learning Goals
+### Learning goals
 
 - Convince reviewers from funding bodies that the proposed project has a clear, actionable strategy for achieving long-term impact beyond traditional fundamental research. 
 
@@ -48,7 +48,7 @@ It combines various communication skills we have already worked on: creating a c
 -    Handling questions effectively
 -    Adapting the talk to various audiences
 
-### Relevant Learning Goals
+### Learning goals
 
 At the end of this session, students are able to:
 

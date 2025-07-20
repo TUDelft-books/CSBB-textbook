@@ -42,7 +42,7 @@ This workshop is meant to introduce students to the concept of transdisciplinari
 
 - What are the essential team processes needed for transdisciplinary work? 
 
-### Relevant Learning Goals
+### Learning goals
 - Assess group processes within their own research group during a project. 
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  
@@ -66,7 +66,7 @@ The activity during Wednesday’s workshop is based on Monday’s workshop on tr
 - Psychological safety 
 - Understanding Diversity
 
-### Relevant Learning Goals
+### Learning goals
 - Assess group processes within their own research group during a project.  
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  

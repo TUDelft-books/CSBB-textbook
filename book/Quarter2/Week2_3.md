@@ -29,7 +29,7 @@ Understanding why these reviews are needed, what the review boards are typically
 -   Why do we need animal research in biomedical research?
 -   Alternatives to animal research
 
-### Relevant Learning Goals
+### Learning goals
 -   Understanding the legal requiremnts for performing animal reserach in NL
 -   Being able to describe achievemnts in medicine and research that were possible because of the use of animal models
 -   Being able to explain alternatives to animal research -- their advantages and shortcomings
@@ -48,7 +48,7 @@ This workshop will build on the topics discussed last week during the troublesho
 
 -   Emotions in it
 
-### Relevant Learning Goals
+### Learning goals
 - Critical thinking
 
 - Research process

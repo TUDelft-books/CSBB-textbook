@@ -23,7 +23,7 @@ Posters are important tools in academia/research. They represent a compact way o
 
 You will take the theory of what you have learned from constructing narratives and visualization workshops to design an effective poster you can use to explain and promote your idea. 
   
-### Relevant Learning Goals
+### Learning goals
 - Students should be able to design a poster using design software 
 ## Workshop: Presenting -- Improv, Handling Questions and Stage Fright 
 
@@ -36,7 +36,7 @@ the final step of giving a presentation. Once the curtains have opened and you m
 - Handling (challenging) questions
 - Coping with nerves
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Students know about advice for effectively delivering a presentation
 

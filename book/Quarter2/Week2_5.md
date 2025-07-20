@@ -38,7 +38,7 @@ Although teaching statistics and bioinformatics is outside the scope of this wor
 - How to pick the right representation for my data to tell my story 
 
 - How to use style and color to highlight important features in data 
-### Relevant Learning Goals 
+### Learning goals 
 
 - Effectively communicating data and results 
 
@@ -62,7 +62,7 @@ This workshop focuses on the key elements of abstracts and on strategies for wri
 
 - Impact: Understand how an engaging abstract can draw readers into your work and enhance the visibility of your research 
 
-### Relevant Learning Goals 
+### Learning goals 
 
 - Recognize the importance of a well-crafted abstract in scientific research. 
 

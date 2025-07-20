@@ -55,7 +55,7 @@ your lab journal?
 
 - Exploration of all the things that might affect your results.
 
-### Relevant Learning Goals
+### Learning goals
 
 - Clear communication of research methods
 
@@ -89,7 +89,7 @@ collaborators can be a great way to troubleshoot.
 
 - What are all the things that could be affecting it
 
-### Relevant Learning Goals
+### Learning goals
 
 - Collaboration
 

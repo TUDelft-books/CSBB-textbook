@@ -44,7 +44,7 @@ This lecture is meant to introduce students to the concept of transdisciplinarit
 
 - What are the essential team processes needed for transdisciplinary work? 
 
-### Relevant Learning Goals
+### Learning goals
 - Assess group processes within their own research group during a project. 
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  
@@ -67,7 +67,7 @@ The team activity during Wednesday’s workshop is based on Monday’s lecture o
 - Team conflict 
 
 - Psychological safety 
-### Relevant Learning Goals
+### Learning goals
 - Assess group processes within their own research group during a project.  
 
 - Work effectively in a group which consists of members from different academic disciplines and backgrounds.  

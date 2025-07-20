@@ -32,7 +32,7 @@ Communicating scientific research often involves visualizing results or data. Wh
 ### Key concepts
 -	Multimodal information processing
 -	Effectively selecting and working with visuals in a presentation
-### Relevant learning goals
+### Learning goals
 -	Students understand key principles of processing visual information
 -	Students can evaluate the use of visualisations on posters and slides
 -	Students can present a slide with visual information in a clear way
@@ -46,7 +46,7 @@ Collaborative writing in a team is a complex activity. It involves making clear 
 -	Providing constructive feedback on texts
 -	Guidelines for academic writing style and readability
 -	Accepting constructive feedback, and asking for it
-### Relevant learning goals
+### Learning goals
 -	Students apply constructive feedback on a text
 -	Students apply revision and editing strategies to improve readability 
 

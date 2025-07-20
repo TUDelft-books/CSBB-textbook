@@ -39,7 +39,7 @@ ethically want to be part of.
 
 -   Alternatives to animal research
 
-### Relevant Learning Goals
+### Learning goals
 -   Understanding the legal requiremnts for performing animal reserach
     in NL
 
@@ -67,7 +67,7 @@ troubleshooting.
 
 -   Emotions in it
 
-### Relevant Learning Goals
+### Learning goals
 - Critical thinking
 
 - Research process

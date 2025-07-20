@@ -46,7 +46,7 @@ Interviewing is a useful method for gathering information on a research topic. A
 -	Formulate clear and open questions (e.g., with the technique of non-directive questioning)
 -	Reflective listening (based on the LISTEN approach)
 -	How to adapt to the context of the interview  
-### Relevant learning goals 
+### Learning goals 
 Students are able to:
 -	prepare an interview (e.g., keep track of time, prioritize questions, stay in control without being inflexible)
 -	formulate effective questions during an interview 

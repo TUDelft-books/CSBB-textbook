@@ -28,7 +28,7 @@ The lecture aims at presenting the importance of funding in the decision-making 
 - How to write a good proposal 
 
 - Importance of narratives in obtaining research funding 
-### Relevant Learning Goals
+### Learning goals
 
 Students will understand the steps that need to be taken when applying
 for funds and their importance in the entire process
@@ -39,7 +39,7 @@ for funds and their importance in the entire process
 Humans like to process information through stories. Being able to create narratives is a valuable skill in communicating the relevance of your research to various audiences (grant reviewers, experts, stakeholders, public). In this workshop, you will learn how to create a narrative and how to make it work in your favour, by highlighting the importance of your research ideas. Students will learn about different narrative types and key ingredients of narratives. At the same time, you will work on constructing narratives about their projects. You apply these narratives to a text (research proposal) and a presentation (for example, a presentation on a symposium to a broader audience including various stakeholders). This way, storytelling skills are taught in the context of funding applications and explaining your research to diverse groups of people.  
 ### Key Concepts 
 - Narratives and storytelling
-### Relevant Learning Goals
+### Learning goals
 
 -   Students learn how narratives work in information processing
 

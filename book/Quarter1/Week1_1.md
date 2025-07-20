@@ -97,7 +97,7 @@ The third part of the workshop introduces critical reading as one of the first s
 -	Genres in scholarly communication
 -	How to read and interpret scientific sources
 -	Writing process (and the role of critical reading in the writing process)
-### Relevant learning goals
+### Learning goals
 -	Understand the elements of the scholarly communication situation
 -	Know about various genres in scholarly communication and their characteristics
 -	Understand the various stages of the writing process
@@ -123,7 +123,7 @@ We will first introduce the “Belbin Team Roles” model. This model can help y
 In the morning, the teams will be announced, and we will have time to get to know each other by playing competitive and collaborative board games related to biomedical research. During the first part of the workshop, we will dive further into the topic of teamwork and collaboration and discuss your experiences with the various games. We will discuss the essentials of effective collaboration and the role of competition   in teamwork.  
 ### Key concepts 
 Collaboration, competition, team work  
-### Relevant Learning Goals
+### Learning goals
 
 Collaboration is one of the four main threads of this minor, and peer
 feedback is key to that.

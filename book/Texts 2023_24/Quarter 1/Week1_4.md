@@ -68,7 +68,7 @@ Interviewing is a useful method for gathering information on a research topic. A
 
 -   How to adapt to the context of the interview
 
-### Relevant Learning Goals
+### Learning goals
 
 Students are able to:
 

@@ -68,7 +68,7 @@ should we be considering?
 
 - Resource usage
 
-### Relevant Learning Goals
+### Learning goals
 - Process of science
 
 - Ethics and reflection
@@ -91,7 +91,7 @@ lab.
 
 - What are the needs of the various group members?
 
-### Relevant Learning Goals
+### Learning goals
 - Research Process
 
 - Career planning
@@ -112,7 +112,7 @@ weeks.
 
 - Making teams
 
-### Relevant Learning Goals
+### Learning goals
 - Collaboration
 
 - Research
@@ -151,7 +151,7 @@ that scientists attend?
     funding, make informed financial decisions, and ensure
     sustainability.
 
-### Relevant Learning Goals
+### Learning goals
 Student will understand the basic principles and concepts of budgeting
 as they apply to laboratory management, including the creation of a
 budget, revenue sources, etc.
@@ -170,7 +170,7 @@ Building your own microscope and dive into Bionanoscience: exploration on (im)po
 
 - Lasers
 
-### Relevant Learning Goals
+### Learning goals
 Understanding a microscopy lab environment.
 
 ## Lecture: CNS Drug Development Process
@@ -205,7 +205,7 @@ Below you will find some further specifications by the lecturer:
 ### Key Concepts
 Research process of drug design.
 
-### Relevant Learning Goals
+### Learning goals
 Understanding processes of different kinds of research.
 
 ## Workshop: Making and Addressing Mistakes
@@ -218,7 +218,7 @@ No one likes making mistakes, but they are a fact of life. And spending some tim
 
 - Things to think about when addressing them 
 
-### Relevant Learning Goals
+### Learning goals
 Mistakes are part of collaboration, skilled collaboration involves being skilled at addressing them.  
 
 ## Group Activity of the Week

@@ -38,7 +38,7 @@ did, and the visualization they did.
 
 - Cleaning data-what and when and keeping original data.
 
-### Relevant Learning Goals 
+### Learning goals 
 
 Understanding the role analysis plays in our understanding of data.
 
@@ -71,7 +71,7 @@ essence of your research while maintaining clarity.
 Impact: Understand how an engaging abstract can draw readers into your
 work and enhance the visibility of your research
 
-### Relevant Learning Goals 
+### Learning goals 
 
 - Recognize the importance of a well-crafted abstract in scientific research.
 

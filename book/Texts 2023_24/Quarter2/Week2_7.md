@@ -23,7 +23,7 @@ Philosophy offers conceptual tools and methodologies to analyze and understand c
 Philosophical reflection 
 
 Integrative research 
-### Relevant Learning Goals
+### Learning goals
 - Students learn to ask philosophical questions 
 
 - Students are introduced to basic ideas of philosophical reflection 
@@ -48,7 +48,7 @@ process afterwards.
 - Reflection: strengths and weaknesses of the current publishing process
 - How do you feel about the process as an author and reviewer?
 
-### Relevant Learning Goals
+### Learning goals
 At the end of the workshop, students will be able to:
 
 -   Understand what the publishing and review process entails

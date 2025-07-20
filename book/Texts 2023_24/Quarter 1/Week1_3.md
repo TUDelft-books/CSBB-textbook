@@ -72,7 +72,7 @@ necessary to know how to pose specific and helpful research questions.
 
 -   Also how to cite references in papers.
 
-### Relevant Learning Goals
+### Learning goals
 
 ## Workshop: Scholarly Communication and Critical Reading
 
@@ -98,7 +98,7 @@ The second part of the workshop introduces critical reading as one of the first 
 -   Writing process (and the role of critical reading in the writing
     process)
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Understand the elements of the scientific communication situation
 

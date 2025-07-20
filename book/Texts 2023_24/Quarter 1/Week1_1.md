@@ -85,7 +85,7 @@ management
 
 ### Key Concepts 
 Understanding the tools that will be used. Like a sailor preparing for a voyage, it’s essential to have your tools ready and know how to use them and where things are.  If the Intro lecture is about where you’re going, this is the technical tools you’ll need.  
-### Relevant Learning Goals
+### Learning goals
 2.a. Collaborate. Collaborate effectively with other group members, other groups and the experts in the field.  
 
 3.a. Research. Develop a research strategy to learn a body of information. 
@@ -123,7 +123,7 @@ We will also discuss different types of teamwork and the management of tasks wit
 Getting and giving feedback are important skills for any profession—or person. If we want to improve our skills (ourselves), we need people to give us feedback about how we are doing. But *how* the feedback is given is as important if not more important than *what* it is regarding how effective it is at creating change. The other side of that is that sometimes (often), we want feedback from other people about something we are trying to improve—how we ask for that feedback can have a huge effect on the kind of feedback they give us.  Asking for and receiving feedback are skills; they need practice and ongoing refinement.  
 
 Giving feedback to each other is the core of teamwork: letting people know what you can and cannot do, what works for you, and what does not. Developing reflection and good habits in feedback early on can save many conflicts, time, and energy wasted later on – especially feedback around making mistakes.  
-### Relevant Learning Goals
+### Learning goals
 
 Collaboration is one of the four main threads of this minor and peer
 feedback is key to that.
@@ -152,7 +152,7 @@ E)  Provide constructive feedback and show openness to feedback from
 During this workshop, students will dive deeper into what assets each individual student brings to the team. We address what prior knowledge and skills students have that could be relevant to the team project. Further, we will reflect on how students prefer to work and communicate with each other. We will use a culture map to identify cultural and personal differences in communication and teamwork, aiming to understand how the individual team members can collaborate effectively.  
 ### Key concepts 
 Working effectively in a team requires good understanding of what knowledge and skills are required for the project that is undertaken, but also good understanding of cultural (being e.g. field of expertise, social-economic background, or country of origin) and personal preferences of oneself and of all the team members. In this workshop, students will identify what skills and knowledge might be needed to start the project and if the required skills and knowledge are already present in the team. In addition, students will work on identifying and discussing their personal and cultural preferences regarding teamwork and communication. Analysing how cultural habits position themselves relative to another culture, a deeper understanding of how culture influences collaboration is provided (further information can be found in The Culture Map, Erin Meyer, ISBN: 9781610392761).  
-### Relevant Learning Goals
+### Learning goals
 4c. Understand how personal biases influence your work and your collaborations.  
 ## Structured Group Activity: Topic Selection
 

@@ -42,7 +42,7 @@ To get inspired on why Research Data Management is important, listen to some hor
 
 -   A Data Availability Statement
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Realise the important role that good data management plays in research, especially for personal data.
 
@@ -64,7 +64,7 @@ Each group will set up a draft Data Management Plan, which will be exchanged wit
 
 -   What is the importance of communication/documentation regarding data in research projects?
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Contribute to documentation about data in a manner that is understandable to peers
 

@@ -25,7 +25,7 @@ he aim of this workshop is to demystify the review and publication process.  The
 - Reflection: strengths and weaknesses of the current publishing process  
 - How do you feel about the process as an author and reviewer? 
 
-### Relevant Learning Goals
+### Learning goals
 At the end of the workshop, students will be able to:
 
 -   Understand what the publishing and review process entails

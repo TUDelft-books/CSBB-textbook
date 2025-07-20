@@ -27,7 +27,7 @@ The second workshop will be on the presentation piece, strategies for handling d
 Posters are important tools in academia/research - compact way of presenting information visually. Every discipline and subspecialities has research gatherings where scientists gather to exchange ideas and information. They often consist of talks, and lots of opportunities for networking. They will also typically have some poster reception event especially for researchers to present their projects as a way to see a lot of different projects very quickly.  Similar events happen in many professional fields as well.  
 
 You will take the theory of what you have learned from constructing narratives and visualization workshops to design an effective poster you can use to explain and promote your idea.  
-### Relevant Learning Goals
+### Learning goals
 Students are able to design a poster using design software 
 ## Workshop: Presenting -- Improv, Handling Questions and Stage Fright 
 
@@ -52,7 +52,7 @@ challenging questions and questioners.
 - Handling (challenging) questions
 - Coping with nerves
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Students know about advice for effectively delivering a presentation
 

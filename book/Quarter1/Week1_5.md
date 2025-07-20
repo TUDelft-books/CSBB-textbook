@@ -40,7 +40,7 @@ After this workshop, groups should be able to answer the following questions whe
 -	What needs to be considered in aligning your presentation with stakeholders in your audience?
 
 
-### Relevant learning goals
+### Learning goals
 
 -	Students can describe the concept of a stakeholder and why this is relevant in the context of research
 -	Students should be able to identify stakeholders in different situations
@@ -55,7 +55,7 @@ After this workshop, groups should be able to answer the following questions whe
 
 
 This workshop will be a stakeholder panel. Students will define interesting statement and several questions. Panel members may include education experts, researchers, industry representatives, patient advocates and insurance companies. 
-### Relevant learning goals
+### Learning goals
 
 Understand different perspectives of why people engage or participate.
 Their hopes and desires.

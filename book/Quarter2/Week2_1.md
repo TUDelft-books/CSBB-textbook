@@ -44,7 +44,7 @@ This interactive session focuses on team dynamics. Starting with visualizing how
 - Team dynamics 
 - Change management  
 - Reflection for improvement 
-### Relevant learning goals
+### Learning goals
 - Collaboration 
 - Research 
 - Critical Thinking 
@@ -56,7 +56,7 @@ Collaborative research groups have certain roles within them. These roles can ch
 - What are the strengths and weaknesses of this structure? 
 - What are the assumptions?  
 - What are the needs of the various group members? 
-### Relevant learning goals
+### Learning goals
 - Research Process
 - Career planning
 
@@ -65,7 +65,7 @@ Biological science projects often require energy and resource-intensive processe
 ### Key concepts
 - Sustainability
 - Resource usage
-### Relevant learning goals
+### Learning goals
 - Process of science
 - Ethics and reflection
 
@@ -78,7 +78,7 @@ This is a structured time for groups to work with their coaches on what they nee
 - Resource allocation
 - Making teams 
 
-### Relevant learning goals 
+### Learning goals 
 
 - Scientific planning
 - Collaboration skills 
@@ -95,7 +95,7 @@ Throughout this workshop, we will explore the intricacies of laboratory budgetin
 -	 Budget: Understanding how to distribute your budget across research projects, personnel, equipment, and supplies is vital for achieving research goals efficiently.
 -	Cost Control: Learning to monitor and manage ongoing expenses, identifying cost-saving opportunities, and avoiding financial pitfalls are essential skills for maintaining a balanced budget.
 -	Financial Planning: Developing a clear financial plan that includes short-term and long-term financial goals will help labs secure funding, make informed financial decisions, and ensure sustainability.
-## Relevant learning goals
+### Learning goals
 - Budgeting as it applies to laboratory management, including the creation of a budget, revenue sources, etc. 
 
 - Understanding how research budgets work. 
@@ -107,7 +107,7 @@ Not all projects have a drug development component, but if working in biomedical
 It’s also just useful in society for people to understand how development happens, the time frame, costs and access. This workshop is done by a representative of a pharmaceutical company to include that perspective and partnership.  
 ### Key concepts
 Research process of drug design
-### Relevant learning goals 
+### Learning goals 
 Understanding process of different kinds of research
 
 ## Workshop: Lab Safety
@@ -118,7 +118,7 @@ For those unfamiliar with working in a lab environment, this workshop will go th
 ## Key concepts
 Etiquette in a lab. 
  
-## Relevant learning goals
+### Learning goals
 Understanding a research lab environment
 
 
@@ -129,7 +129,7 @@ No one likes making mistakes, but they are a fact of life. And spending some tim
 - Developing self-understanding of your response to mistake making
 - Things to think about when addressing them
 - Knowing when they must be reported 
-### Relevant learning goals
+### Learning goals
 Mistakes are part of collaboration and skilled collaboration involves being skilled at addressing them.  
 
 ## Group activity of the week

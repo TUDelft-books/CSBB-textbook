@@ -27,7 +27,7 @@ Doing modern scientific research (especially biomedical) is expensive between pe
 -	How to write a good proposal
 -	Importance of narratives in obtaining research funding
 
-### Relevant learning goals
+### Learning goals
 -	Students will understand the steps that need to be taken when applying for funds and their importance in the entire process
 
 
@@ -37,7 +37,7 @@ Doing modern scientific research (especially biomedical) is expensive between pe
 Humans like to process information through stories. Being able to create narratives is a valuable skill in communicating the relevance of your research to various audiences (grant reviewers, experts, stakeholders, and the public). In this workshop, you will learn how to create a narrative and how to make it work in your favour by highlighting the importance of your research ideas. You will learn about different narrative types and key ingredients of an effective narrative. At the same time, you will work on constructing narratives about your projects. You will discuss how to apply these narrative tools in the context of text (grant proposal, research paper), visual (poster presentation) and oral (presentations to stakeholders). Storytelling skills are taught in the context of funding applications and explaining your research to diverse groups of people.  
 ### Key Concepts 
 - Narratives and storytelling
-### Relevant Learning Goals
+### Learning goals
 
 -	Theory of how narratives work in information processing
 -	Present their research ideas in a persuasive manner

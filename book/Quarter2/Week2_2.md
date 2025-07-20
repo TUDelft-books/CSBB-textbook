@@ -35,7 +35,7 @@ What are the necessary elements in reproducibility: keeping a good lab journal, 
 ### Key concepts
 - Lab journal plan
 - Exploration of all the things that might affect your results. 
-### Relevant learning goals
+### Learning goals
 - Clear communication of research methods
 - Understanding the importance of documentation
 - Collaboration on experiments
@@ -52,7 +52,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 - Identify problem spots
 - Evaluate variables
 - What are all the things that could be affecting it
-### Relevant learning goals
+### Learning goals
 - Collaboration
 - Research Process
 - Critical Thinking

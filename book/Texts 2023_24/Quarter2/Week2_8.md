@@ -66,7 +66,7 @@ Outbreak](https://doi.org/10.1111/joms.12607). *Journal of Management Studies*,
 
 Collaborative science, relationship management, long-lasting partnerships
 
-### Relevant Learning Goals
+### Learning goals
 
 At the end of this session, students are able to
 
@@ -96,7 +96,7 @@ audiences. For your talk, it is time to show that you can do this!
 -    Handling questions effectively
 -    Adapting the talk to various audiences
 
-### Relevant Learning Goals
+### Learning goals
 
 At the end of this session, students are able to:
 

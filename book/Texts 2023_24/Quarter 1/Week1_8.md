@@ -44,7 +44,7 @@ presenting their own slides.
 - Multimodal information processing
 
 - Effectively selecting and working with visuals in a presentation
-### Relevant Learning Goals
+### Learning goals
 
 -   Students understand key principles of processing visual information
 
@@ -67,7 +67,7 @@ Collaborative writing in a team is a complex activity. It involves making clear 
 
 -   Accepting constructive feedback, and asking for it
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Students apply constructive feedback on a text
 

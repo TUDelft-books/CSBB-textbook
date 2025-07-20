@@ -61,7 +61,7 @@ questions when it comes to their own project:
 
 -   What is your relationship with stakeholders?
 
-### Relevant learning goals
+### Learning goals
 
 -   Students can describe the concept of a stakeholder and why this is
     relevant in the context of research
@@ -89,7 +89,7 @@ questions when it comes to their own project:
 This workshop will be a stakeholder panel. Students will ask questions.
 Panel members may include education experts, researchers, industry,
 patient advocates.
-### Relevant learning goals
+### Learning goals
 
 Understand different perspectives of why people engage or participate.
 They're hopes and desires.

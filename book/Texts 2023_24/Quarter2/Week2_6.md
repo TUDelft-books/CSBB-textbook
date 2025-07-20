@@ -86,7 +86,7 @@ Types of Unconscious Biases
 
 - How to counteract them?
 
-### Relevant Learning Goals
+### Learning goals
 - Collaboration
 
 - Communication
@@ -122,7 +122,7 @@ paper and have determined a strategy for finishing their (draft) paper.
 
 - Academic style and language
 
-### Relevant Learning Goals
+### Learning goals
 Communication
 
 ## Group Activity of the Week

@@ -72,7 +72,7 @@ video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 
 -   A Data Availability Statement?
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Realise the important role that good data management plays in
     research, especially for personal data.
@@ -108,7 +108,7 @@ can also be included in your project's Data Management Plan!
 -   What is the importance of communication/documentation regarding data
     in research projects?
 
-### Relevant Learning Goals
+### Learning goals
 
 -   Contribute to documentation about data in a manner that is
     understandable to peers
