@@ -1,80 +1,71 @@
 ```{figure} ../images/week9.jpeg
 :name: week9image
 ```
-# Week 1.9: Dress Rehearsal
-Many researchers and students are asked to “make a poster” and “give a presentation” with little guidance about how to do that. As with many things these are skills which can be taught and then practiced and improved.  This week, will be dedicated to these skills.  We will start with a workshop on developing page layouts using a design software. This technical skill will make your posters look excellent. 
-The second workshop will be focused on the presentation skills, you will learn strategies for handling difficult questions and overcome stage fright. You willpractice these skills during a small theatre improvisation.
+# Week 1.9: Editing and Feedback
+In the world of scientific research, the ability to critically edit one's work and effectively process feedback is fundamental to producing clear, credible, and impactful science. Scientific writing is not just about conveying results—it is about building trust, ensuring reproducibility, and contributing meaningfully to a broader conversation. Critical editing helps researchers refine their arguments, eliminate ambiguity, and strengthen the logic and structure of their work.
+
+Equally important is the capacity to receive and integrate feedback. Scientific progress relies on dialogue—between collaborators, peer reviewers, and the wider research community. Processing feedback with openness and discernment allows researchers to improve their work, challenge assumptions, and grow intellectually. Rather than being a sign of failure, feedback is a tool for refinement and a reflection of science as a collective, iterative process. Mastering these skills supports not only individual success but also the integrity and advancement of science as a whole.
+
 
 *Monday:*
--	Science Spotlight 
--	Workshop: <a href=#workshop-poster-design> Poster Design </a>
+-	This week there is no spotlight nor workshop on Monday
 
 *Wednesday:*
--	Workshop: <a href=#workshop-presenting-improv-handling-questions-and-stage-fright> Presenting -- Improv, Handling Questions and Stage Fright </a>
+-	Workshop: <a href=#workshop-critical-editing-and-processing-feedback> Critical Editing and Processing Feedback </a>
 
 *Friday:*
 -	Friday Symposium
 
 
-## Workshop: Poster Design
+## Workshop: Critical Editing and Processing Feedback
 
 
-Posters are important tools in academia/research. They represent a compact way of presenting information visually. Every discipline and subspeciality has research gatherings where scientists gather to exchange ideas and information. They often consist of talks and lots of opportunities for networking. They will also typically have some poster reception event especially for researchers to present their projects as a way to see a lot of different projects very quickly.  Similar events happen in many professional fields as well. 
+Collaborative writing in a team is a complex activity. It involves making clear agreements about the text, editing and giving feedback on each other’s work. The ingredients and storyline of your research should now be in place, and it is time to turn the document into a coherent, clear and attractive text. This workshop focuses on effective strategies for giving feedback on and revising a collaborative document. Working with your draft research proposals, we will discuss how to constructively give feedback on someone else’s text, how to trace style and readability issues with the ‘read aloud’ method and how to solve such readability issues. Furthermore, we will discuss how to ask for, receive and process constructive feedback. This involves accepting feedback on your text and determining what feedback is most valuable to process. After the workshop, time is reserved for writing consultations.
 
-You will take the theory of what you have learned from constructing narratives and visualization workshops to design an effective poster you can use to explain and promote your idea. 
+### Key concepts
+-	Providing constructive feedback on texts
+
+-	Guidelines for academic writing style and readability
+
+-	Accepting constructive feedback, and asking for it
+
   
-### Relevant Learning Goals
-- Students should be able to design a poster using design software 
-## Workshop: Presenting -- Improv, Handling Questions and Stage Fright 
+### Learning goals
+-	Give constructive feedback on a text
 
+-	Apply revision and editing strategies to improve readability 
 
-
-Delivery, or the *actio* as ancient Roman and Greek orators put it, is
-the final step of giving a presentation. Once the curtains have opened and you meet your audience, you want to keep them engaged to get your message and get the narrative across . This means that you need to effectively use your body posture, gestures, voice and facial expression to deliver your talk. This workshop focuses on the effective delivery of a presentation. We will practice using body language and voice with improvisation exercises. Students gain insight into their own ‘actio’ strengths and pitfalls. Special attention will be given to nerves: what can you do if they get the better of you? Furthermore, we will practice handling questions – a part of presenting that can only be prepared to a certain extent and that often involves some improvisation. We will touch upon guidelines for structuring answers and dealing with challenging audiences and questions. 
-### Key Concepts
-- Delivery of a presentation: body language, voice and movement
-- Handling (challenging) questions
-- Coping with nerves
-
-### Relevant Learning Goals
-
--   Students know about advice for effectively delivering a presentation
-
-- Students practice with engaging delivery skills
-
--   Students gain insight into their personal presentation delivery
-    style, strengths and points for improvement
-
--   Students apply guidelines for handing (challenging) questions
-
--   Students know guidelines for dealing with nerves prior or during a
-    presentation
 
 ## Group Activity of the Week
 
--   Turn in final grant application to supervisor
+-	Turn in final grant proposal to supervisor
 
--   Design poster and send for printing
+-	Submit poster
+
+-	Peer review of other group’s draft proposals
+
 
 ## Discussion Questions
 
-- Do you feel ready for the presentations next week? What do you feel
-confident about? What do you feel least confident about? Think of a way
-to prepare and lessen the worry.
+-   If you are editing something for someone else, what is your method? How could you do better? When giving something to someone else to edit, what do you particularly want help on? 
 
-- What are you proud of in the work you've done this quarter?
+-   Do you feel ready for the presentations next week? What do you feel confident about? What do you feel least confident about? Think of a way to prepare and lessen the worry.
 
-- What was your favourite thing to learn?
+-   What are you proud of in the work you’ve done this quarter?
+
+-   What was your favourite thing to learn?
+
 
 ## Weekly Submitted Assigments
 ### Group
-Submit your poster (A0 format)
+-   Submit your poster (A0 format)
 
-Submit your final proposal
+-   Hand in your feedback for another group’s final draft of the grant 
 
 ### Individual
 What makes for a good presentation? How will you prepare for that? (½ page)
 
 ## References
 
-TU Present (see Brightspace) -- Delivery module
+TU Present (see Brightspace): 
+-   Module *Delivery*

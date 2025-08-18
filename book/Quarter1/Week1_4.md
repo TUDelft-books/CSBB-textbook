@@ -4,11 +4,11 @@
 # Week 1.4: Power of Questions
 
 
-Doing science and any research requires taking time to stop and think about your process. What do you not know about the topic in front of you? Is what you’re doing working, are there ways to improve it? This can be called critical thinking or reflection. It takes practice to develop the habit and awareness of your biases.  
+Doing science and any research requires taking time to stop and think about your process. What do you not know about the topic in front of you? Is what you are doing working, are there ways to improve it? This can be called critical thinking or reflection. It takes practice to develop the habit and awareness of your biases.  
 
 Another key piece is learning to ask other people questions and effectively listen to the answers. This includes checking your assumptions about what they mean by the answer. These are powerful tools for being an excellent researcher.  
 
-This week we’ll focus on these two sides of exploring questions while you further develop your group’s research question
+This week we will focus on these two sides of exploring questions while you further develop your group’s research question
 The schedule for week 4 includes:
 
 *Monday:*
@@ -24,33 +24,44 @@ The schedule for week 4 includes:
 
 ## Philosophy Workshop: What do we know? 
 
-This workshop will teach students the importance of reflection and how to properly use it to improve their own research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind. 
+This workshop will teach the importance of reflection and how to properly use it to improve research and thinking. Reflection is a vital component of critical and independent thinking and an important part of the scientific process. To better understand reflection, you will learn some of the philosophical backgrounds behind this technique, which was first described as the observation of internal operations of the mind.  
 
-The main focus, however, should be on teaching techniques for reflection and how to turn them into habits that will accompany them through any future research and scientific endeavour they are part of. They should also be sensitised to the presence of internal biases and assumptions, which have the ability to skew and influence any research. For such, common biases such as the confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will be explained so that students will in the future be able to avoid and mitigate any such biases. 
+The main focus, however, will be on teaching techniques for reflection and how to turn them into habits that will accompany you through any future research and scientific endeavours you are part of. You will also explore the presence of internal biases and assumptions, which have the ability to skew and influence any research. Common biases such as confirmation bias, anchoring bias, availability heuristic, status quo bias or the misinformation effect (this list is not exhaustive) and how they can come back in research will be explained so that you will be able to avoid or mitigate any such biases. 
 
-Furthermore, we will discuss the various types of uncertainties, and how can one deal with these. 
+Furthermore, we will discuss various types of uncertainties, and how can we deal with these. 
+
 ### Key concepts 
 -	Reflection – What is it, and why do we want it?
+
 -	How to deal with what we know and what we do not
+
 -	Components of reflection: perceiving, doubting, thinking, believing, knowing, assuming, reasoning, questioning, ...
+
 -	Characteristics of a good reflective process 
--	Different biases, how to recognise your own biases and how to avoid them
+
+-	Different biases, how to recognise your own biases and how to avoid or mitigate them
+
 -	When to make assumptions? Which assumptions are better not to make?
 
 
 ## Workshop: Effective interviewing = good questions + reflective listening
 
  
-Interviewing is a useful method for gathering information on a research topic. A well-prepared conversation with stakeholders can provide valuable insights into a study’s societal relevance, approach, or contributions. This workshop aims to prepare students for effectively conducting an interview. First, effective preparation of the interview is addressed. The key focus is on formulating clear, open questions that invite interviewees to give informative answers, as well as prioritizing questions, keeping track of time, and making agreements on how the information is used for research purposes. Second, students practice interviewing in-class activities such as role plays; in challenging situations, they practice effective listening, adapting and responding to interviewees’ answers while keeping an eye on the aim of the interview. 
+Interviewing is a useful method for gathering information on a research topic. A well-prepared conversation with stakeholders can provide valuable insights into a study’s societal relevance, approach, or contributions. This workshop aims to prepare students for effectively conducting an interview. First, prepring for the interview is addressed. The key focus is on formulating clear, open questions that invite interviewees to give informative answers, as well as prioritizing questions, keeping track of time, and making agreements on how the information is used for research purposes. Second, students practice interviewing in-class activities such as role plays; in challenging situations, they practice effective listening, adapting and responding to interviewees’ answers while keeping an eye on the aim of the interview. 
 ### Key concepts
 -	Formulate clear and open questions (e.g., with the technique of non-directive questioning)
+
 -	Reflective listening (based on the LISTEN approach)
+
 -	How to adapt to the context of the interview  
-### Relevant learning goals 
+### Learning goals 
 Students are able to:
 -	prepare an interview (e.g., keep track of time, prioritize questions, stay in control without being inflexible)
+
 -	formulate effective questions during an interview 
+
 -	understand in practice how to listen effectively and reflectively
+
 -	deal with challenging situations during an interview
 
 
@@ -62,12 +73,21 @@ Groups should also identify questions they want to ask in the stakeholder panel 
 ## Discussion Questions
 
 - What do you think about reflection and learning in a research context?
+
 - Have you ever started something first by doing and learning from your experiences? How did you find this process?
+
 - Do you have instances in your life where reflection has helped you resolve a problem or learn from an experience?
+
 - What question are you focusing on for your project? Why?
+
 - What advice for asking questions do you find most valuable and why?
+
+- How much should you pay attention to emotional needs of the interviewee when asking questions? 
+
 - Listening: what does it mean? What does it mean to feel heard? What does it mean to hear those around you? 
+
 - How do you feel about not knowing things? What is your strategy to deal with uncertainty?
+
 - Do you have tools you use to help you identify what you don’t know you don’t know? 
 
 
