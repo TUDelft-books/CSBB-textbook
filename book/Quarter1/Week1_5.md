@@ -31,30 +31,43 @@ Regarding the presentations at the end of this minor, you will want to learn abo
 ### Key concepts 
 
 After this workshop, groups should be able to answer the following questions when it comes to their own project:
+
 -	What are stakeholders?
+
 -	Who are the stakeholders in their project?
+
 -	What do they find important?
+
 -	What do they already know?
+
 -	How do they influence your work?
+
 -	What is your relationship with stakeholders?
+
 -	What needs to be considered in aligning your presentation with stakeholders in your audience?
 
 
 ### Learning goals
 
 -	Students can describe the concept of a stakeholder and why this is relevant in the context of research
+
 -	Students should be able to identify stakeholders in different situations
+
 -	Students know the influence of stakeholders on their actions 
+
 -	Students understand their own responsibility towards (different types of) stakeholders
+
 -	Students are able to to make decisions and actions with active consideration of the stakeholders’ influence
+
 -	Students understand how different audiences are different stakeholders, and the different characteristics that define these audiences
+
 -	Students know how to present information to stakeholders
 
 
 ## Workshop: Stakeholder Panel
 
-
 This workshop will be a stakeholder panel. Students will define interesting statement and several questions. Panel members may include education experts, researchers, industry representatives, patient advocates and insurance companies. 
+
 ### Learning goals
 
 Understand different perspectives of why people engage or participate.
