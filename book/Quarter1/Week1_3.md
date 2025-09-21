@@ -23,16 +23,6 @@ The schedule for week 3 includes:
 
 ## Workshop: Choosing a Problem and Creating Good Research Questions
 Designing an academic research project is a difficult task: it is a series of decisions which affect the various aspects of the research. For example, the method choice often defines what kind of data you will get, which then affects the data analysis methods, which limits the kind of research questions you can relate to the method.  
-
-During this workshop, we will discuss the choices you need to make while designing a research project, and you will practice the process of creating research questions. You will also investigate examples of research questions from published articles and create a list of criteria for good research questions. 
-
-### Key concepts 
-Research design, research questions, criteria for good research questions
-
-
-
-## Workshop: Choosing a Problem and Creating Good Research Questions
-Designing an academic research project is a difficult task: it is a series of decisions which affect the various aspects of the research. For example, the method choice often defines what kind of data you will get, which then affects the data analysis methods, which limits the kind of research questions you can relate to the method.  
 During this workshop, we will discuss the choices you need to make while designing a research project, and you will practice the process of creating research questions. You will also investigate examples of research questions from published articles and create a list of criteria for good research questions. 
 
 ### Key concepts 
