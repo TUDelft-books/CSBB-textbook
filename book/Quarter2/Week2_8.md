@@ -2,11 +2,11 @@
 :name: week2_8image
 ```
 
-# Week 2.8: Convincing people
+# Week 2.8: Convincing People
 
-This week is a combination of impact and communication.  
+This week is a combination of impact and communication. How do we talk effectively about our research to help others understand it and how can we communicate about it’s potential impact?  
 
-The workshop on Monday will focus on a continuation of the workshop Knowledge Utilization in week 1.7. 
+The workshop on Monday will be a continuation of the workshop Knowledge Utilization in week 1.7.  
 
 The ability to give a presentation is an invaluable skill in today's world. Its importance cannot be overlooked. Presentations are powerful means of communication. They allow you to convey information, ideas, and messages in a clear and organized manner. They facilitate effective communication with your audience, whether it is a small group or a large gathering. Presentations enable the sharing of knowledge and expertise. They provide a platform for you to share your insights, research findings, or experiences with others. The ability to give an engaging and impactful presentation is a key asset for professional development.  
 
@@ -15,7 +15,7 @@ This week’s schedule includes:
 
 *Monday:*
 -   Science Spotlight
--   Workshop: <a href=#workshop-how-to-create-an-impacful-proposal-with-scalable-venture-ideas>How to create an impactful proposal with scalabale venture ideas</a>
+-   Workshop: <a href=#workshop-impactful-research-with-scalable-venture-ideas> Impactful Research with Scalable Venture Ideas</a>
 
 
 *Wednesday:*
@@ -25,20 +25,23 @@ This week’s schedule includes:
 *Friday:*
 -   Friday Symposium
 
-## Workshop: How to create an impactful proposal with scalabale venture ideas
+## Workshop: Impactful Research with Scalable Venture Ideas
 
-In this workshop, students will learn how to create impactful, scalable ideas by building on the value proposition canvas they developed in the previous session. We’ll explore how to design scientific proposals with a strategic focus on long-term impact and scalability in healthcare product-service systems. Through interactive exercises with the business model canvas, students will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact., Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic proposals. 
+In this workshop, you will learn how to create impactful, scalable ideas by building on the value proposition canvas you developed in the previous session. We’ll explore how to design scientific research with a strategic focus on long-term impact and scalability. Through interactive exercises with the business model canvas, you will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact. Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic formats. 
 
-### Relevant Learning Goals
+### Learning goals
 
-- Convince reviewers from funding bodies that the proposed project has a clear, actionable strategy for achieving long-term impact beyond traditional fundamental research. 
+-   Understand what potential investors find attractive in proposals 
 
-- Develop a scalable venture strategy that aligns with the value proposition and business model frameworks, making the idea more attractive to potential stakeholders and investors. 
+-   Develop a scalable venture strategy that aligns with the value proposition and business model frameworks
+
+-   Create a clear actionable strategy for achieving long term impact in healthcare based on your research  
 
 ## Workshop: Giving a Talk
 
-In this workshop, you will work on your talk and practise delivering (parts of) it. 
-It combines various communication skills we have already worked on: creating a compelling narrative, designing effective visuals, ensuring a clear and attractive delivery, active listening, and answering (challenging) questions. The secret to giving a great talk is to find the perfect balance between the rhetorical and the engagement elements, to adapt to different situations and audiences, and to keep your key message at the core of the presentation. For your talk, it is time to show that you can do this! 
+In this workshop, you will work on your talk and practice delivering (parts of) it. 
+
+Giving a talk combines various communication skills we have already worked on: creating a compelling narrative, designing effective visuals, ensuring a clear and attractive delivery, active listening, and answering (challenging) questions. The secret to giving a great talk is to find the perfect balance between the rhetorical and the engagement elements, to adapt to different situations and audiences, and to keep your key message at the core of the presentation. For your talk, it is time to show that you can do this! 
 
 ### Key Concepts 
 
@@ -48,7 +51,7 @@ It combines various communication skills we have already worked on: creating a c
 -    Handling questions effectively
 -    Adapting the talk to various audiences
 
-### Relevant Learning Goals
+### Learning goals
 
 At the end of this session, students are able to:
 
@@ -91,3 +94,5 @@ How have your collaboration skills changed over the past 18 weeks? What areas do
 -   [TED-talk by Nancy Durate: the secret structure of great talks](https://www.ted.com/talks/nancy_duarte_the_secret_structure_of_great_talks?language=en)
 
 -   [TED talk by Joshua Foer: feats of memory anyone can do](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=en)
+
+-   [FameLab 2017 National Dutch Final Competition](https://www.youtube.com/watch?v=F2IUDMPVBBo)

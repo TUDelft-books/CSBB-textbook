@@ -4,19 +4,18 @@
 
 # Week 2.2: Can you repeat that? 
 
-Doing something new and getting great results is very exciting! However, the results of your project only “count” if others can carry the same experiments you carried and get the same results you did. This is called reproducibility. Reproducibility is how scientists verify the trustworthiness and accuracy of results.  There are As a researcher it is your responsibility to ensure the reproducibility of your results.  
+Doing something new and getting great results is very exciting! However, the results of your project only “count” if others can carry the same experiments you carried and get the same results you did. This is called reproducibility. Reproducibility is how scientists verify the trustworthiness and accuracy of results. As a researcher it is your responsibility to ensure the reproducibility of your results.  
 
 What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important.  So, how can you troubleshoot this situation and solve this reproducibility issue?  
 
 This week’s topic is ‘reproducibility’. The schedule includes: 
 
-This week there is no spotlight nor workshop on Monday. 
-
-
+*Monday:*
+This week there is no spotlight nor workshop on Monday. This will get you some extra time to get started on your project.
 
 *Wednesday:*
 
--	Workshop:<a href=#workshop-reproducibility>Reproducibility</a>
+-	Workshop:<a href=#workshop-reproducibility> Reproducibility</a>
 -	Workshop: <a href=#workshop-troubleshooting>Troubleshooting</a>
 
 *Friday:*
@@ -25,6 +24,7 @@ This week there is no spotlight nor workshop on Monday.
 
 ## Workshop: Reproducibility
 What are the necessary elements in reproducibility: keeping a good lab journal, writing clear and accurate methods, reading methods accurately and checking assumptions. What are the things necessary to record in your lab journal?  
+
 -	What is “reproducibility”?  
 -	How is it used to assess scientific results? 
 -	Examples of theories where lack of reproducibility unraveled a published theory. 
@@ -35,16 +35,17 @@ What are the necessary elements in reproducibility: keeping a good lab journal, 
 ### Key concepts
 - Lab journal plan
 - Exploration of all the things that might affect your results. 
-### Relevant learning goals
+### Learning goals
 - Clear communication of research methods
 - Understanding the importance of documentation
 - Collaboration on experiments
 
 
 ## Workshop: Troubleshooting
-Troubleshooting is foundational to experimental work: “You try something”. “You figure out it didn’t work the way you wanted”. “You figure out why, or find new things to try” and repeat the process until you get the consistent output that you want.  
+Troubleshooting is foundational to experimental work: “You try something”. “You figure out it didn’t work the way you wanted”. “You figure out why, or find new things to try” and repeat the process until you get reproducible results that answer your research question (or start a new question).   
 
-We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to troubleshoot.    
+We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to troubleshoot.   
+
 ### Key Concepts
 - Ways of approaching problems
 - Keeping track of what you’ve tried
@@ -52,7 +53,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 - Identify problem spots
 - Evaluate variables
 - What are all the things that could be affecting it
-### Relevant learning goals
+### Learning goals
 - Collaboration
 - Research Process
 - Critical Thinking
@@ -60,7 +61,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 
 ## Group Activity of the Week
 
-- Develop research strategy for the project---how do you turn a two page proposal into a step by step plan?
+- Develop research strategy for the project---how do you turn a two page proposal into a step-by-step plan?
 
 - Identify resources you will need at various stages
 
@@ -70,8 +71,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 
 - How is your project going?
 
-- Are you finding there are things you need to change now that you're
-    doing it?
+- Are you finding there are things you need to change now that you're doing it?
 
 - What areas are you concerned or uncertain about? How will you approach those? Who might have insight to help?
 
@@ -95,7 +95,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 
 ### Group
 
-Summary of how you'll keep a lab journal, and identify what are the key things to record in your lab journal for your project.
+Summary of how you'll keep a lab journal and identify the key things to record in your lab journal for your project.
 
 ### Individual
 

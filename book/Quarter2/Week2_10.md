@@ -9,6 +9,7 @@ Twenty weeks have gone by incredibly quickly. We will now conclude our journey w
 We will also have the opportunity to look back at everything we learned, experienced and achieved during these weeks.  
 
 This week’s schedule includes: 
+
 *Tuesday:*
 -	Presentation Practice with peers and peer feedback
 
@@ -19,10 +20,10 @@ This week’s schedule includes:
 *Friday:*
 -	Final reflection on the whole minor
 
-Remember you will also have a graded individual oral exam with your supervisor at some point this week. This will have to be scheduled with your supervisor. 
+*Scheduled by Supervisor:*
+-   Oral Exam
 
-## Group Activity of the Week
-This week will be mostly focused on final presentations and feedback.
+Remember you will also have a graded individual oral exam with your supervisor at some point this week. This will have to be scheduled with your supervisor. 
 
 ## Sample Oral Exam Questions
 
@@ -44,15 +45,19 @@ This week will be mostly focused on final presentations and feedback.
 
 -   What questions do you have? (Students should be prepared to ask something)
 
+
+## Group Activity of the Week
+This week will be mostly focused on final presentations and feedback.
+
 ## Weekly Submitted Assignments
 
 ### Group
 
-Submit the final paper.
+Submit your final paper including cover letter, with the peer feedback you received and your rebuttal.
 
 ### Individual
 
-- Do the course evaluation (anonymous)-
+- Do the course evaluation (anonymous).
 
 - Submit your final thoughts on the minor and suggestions for improvements (not anonymous).
 
