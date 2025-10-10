@@ -4,29 +4,28 @@
 
 # Week 2.4: Data Management
 
-In any research project, it is important to have a plan for how you will store and manage your data. Data Management is important to ensure that no research data is lost. It contributes to research results reproducibility. In some cases, (e.g., open science and open data) it also facilitates the reusability of the data in future projects. Besides research projects need to abide by research integrity principles, ethical requirements, and, in some cases, legal or institutional obligations. While it is good to publicly share data, not all data can always be shared. Your research data may be sensitive or legally protected requiring that the data remain private and secure. There may also be potential for patenting and copy rights, which means that not all data and code can be shared immediately but only after those procedures are finalized.  This workshop will focus on these issues.  
+In any research project, it is important to have a plan for how you will store and manage your data. Data Management is important to ensure that no research data is lost. Good data management practices contribute to research results, reproducibility and reduce fraud. Research projects need to abide by research integrity principles, ethical requirements, and legal or institutional oversight obligations, and being able to review the data and it’s storage is key to that. In some cases, such as Open Science, good data management practices facilitates the reusability of the data in future projects. While it is good (and may be required) to publicly share data, not all data can always be shared. Your research data may be sensitive or legally protected requiring that the data remain private and secure. There may also be potential for patenting and copyrights, which means that not all data and code can be shared immediately but only after those procedures are finalized. This workshop will focus on all these issues.  
 
-Thanks to Open and FAIR Data, it is possible to reuse existing data. FAIR is an acronym for Findable, Accessible, Interoperable, and Reusable (and not to be confused with fair or ethical research!). FAIR data is made available via data repositories, which you can use to interact with existing research data and generate new insights. Data repositories can also be used to share the research data of your research project. To plan for data sharing, every research project should have a Data Management Plan. In this Plan, you describe what type of data you will generate, how you will document it, where you will store the data securely (especially important for personal data!), and which data repository you will use for the data that can be publicly shared.  
+Thanks to Open and FAIR Data, it is possible to reuse existing data. FAIR is an acronym for Findable, Accessible, Interoperable, and Reusable (and not to be confused with fair or ethical research!). FAIR data is made available via data repositories, which you can use to interact with existing research data and generate new insights. Data repositories can also be used to share the research data of your research project. To plan for data sharing, every research project should have a Data Management Plan. In this plan, you describe what type of data you will generate, how you will document it, where you will store the data securely (especially important for personal data!), and which data repository you will use for the data that can be publicly shared.  
 
 This week we’ll focus on: 
 
 *Monday:*
 -  Science Spotlight
--  Workshop: <a href=#workshop-data-management-and-privacy>Data Management and Data Privacy</a>
-
+-  Workshop: <a href=#workshop-data-privacy-and-storage-fair>Data Management and Data Privacy</a>
     
 
 *Wednesday:*
--   Workshop: <a href=#workshop-data-repositories-management-and-documentation>Data Repositories, Management and Documentation</a>
+-  Workshop: <a href=#workshop-writing-a-data-management-plan>Data Management and Data Privacy</a> 
 
 *Friday:*
 -   Friday Symposium
 
-## Workshop: Data Management and Privacy 
+## Workshop: Data Privacy and Storage, FAIR
 
-Research depends on data we collect, store and analyse. Before any researcher gets started, they need a plan for how they will manage their data, as it will be easier to manage your data properly from the start instead of having to redo some of your work. When joining an ongoing project, it is important to learn how that project stores its data. This is generally described in the Data Management Plan of a project or a research group. This workshop will introduce many of the concepts.  
+Research depends on data we collect, store and analyse. Before any researcher gets started, they need a plan for how they will manage their data, as it will be easier to manage your data properly from the start instead of having to redo some of your work. When joining an ongoing project, it is important to learn how that project stores its data. This is generally described in the projects Data Management Plan. This workshop will introduce many of the requirements of a good Data Management Plan.  
 
-During this workshop we will also consider what personal data you are handling in your project. How would you need to adhere to privacy regulations? 
+During this workshop we will also consider what personal data you are handling in your project. What are the privacy regulations you need to adhere to?
 
 To get inspired on why Research Data Management is important, listen to some horror stories such as the [Data Horror Song](https://twitter.com/rafamoral/status/1571622591219236864) or the [Zheng Lab - Bad Project video](https://www.youtube.com/watch?v=Fl4L4M8m4d0)!
 
@@ -38,9 +37,9 @@ To get inspired on why Research Data Management is important, listen to some hor
 
 -   Data sharing and what not to share
 
--   The FAIR principles
+-   The FAIR principles?
 
--   A Data Availability Statement
+-   A Data Availability Statement?
 
 ### Learning goals
 
@@ -48,13 +47,13 @@ To get inspired on why Research Data Management is important, listen to some hor
 
 -   Identify different types of research data and recognise the regulations, policies and/or legal requirements associated with them.
 
--   List the main components of the FAIR data principles and connect them to your own research workflows.
+-   Understand open data principles, FAIR data, and how it connects to your research.  
 
-## Workshop: Data Repositories, Management and Documentation
+## Workshop: Writing a Data Management Plan
 
 Whether you are reusing existing data or using newly collected data in your project, you have to select an appropriate Data Repository to store and manage access to this data. You also have to document this information in your Data Management Plan. During this workshop, we will first explore in more detail what a Data Repository is, as well as how to find the ones relevant to your research project. 
 
-Each group will set up a draft Data Management Plan, which will be exchanged with another group during the workshop to receive input and feedback. As it is also important to provide your data with sufficient information and documentation when you share it in a data repository, we will go over an exercise that will demonstrate the importance of proper documentation. The lessons learned can also be included in your project’s Data Management Plan! 
+Each group will set up a draft Data Management Plan, which will be exchanged with another group during the workshop to receive input and feedback. As it is also important to provide your data with sufficient information and documentation when you share it in a data repository, we will go over an exercise that will demonstrate the importance of proper documentation. The lessons learned will be included in your project’s Data Management Plan! 
 
 ### Key Concepts
 
@@ -68,12 +67,11 @@ Each group will set up a draft Data Management Plan, which will be exchanged wit
 
 -   Contribute to documentation about data in a manner that is understandable to peers
 
--   Design a research data management strategy for your projects via the Data Management Plan
+-   Design a research data management strategy for your projects and create the Data Management Plan
 
 ## Group Activity of the Week
 
-Continue working on with your research overall, special focus this week
-is on your data.
+This week you will continue working on your research project with a special focus on data management.  
 
 -   Write your data management plan for your project.
 

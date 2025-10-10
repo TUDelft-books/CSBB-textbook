@@ -3,22 +3,23 @@
 ```
 
 # Week 2.6: Biases and Papers
-This week will focus on two slightly separate but equally important aspects of science: Bias and paper writing. 
-The first is Bias—unconscious or otherwise. We all have biases shaped by our neurodevelopement—culture, language, experiences.  As scientists, we strive to be objective, but the reality is that we very rarely are. In this workshop, we will discuss how to be aware of our biases and what we might want to do to shape them in the way we want.  And why it matters. Biases influence which theories we believe; what papers get published and how scientific theory changes. This becomes even bigger when considering AI. 
-The second part of this week is a dive into scientific paper writing. What should be included in a paper? what are the various parts of a paper?, and what is the process to follow in order to write a publishable paper? 
+This week, we will focus on an important aspect of science: Biases.  
+
+Bias: unconscious or otherwise. We all have biases shaped by our neurodevelopment—culture, language, experiences. As scientists, we strive to be objective, but the reality is that we very rarely are. In this workshop, we will discuss how to be aware of our biases and what we might want to do to shape them in the way we want. And why it matters. Biases influence which theories we believe; what papers get published and how scientific theory changes. This becomes even more relevant when using AI based tools to support or improve your research project.  
+
 Components this week are:
 
 *Monday:*
--	Workshop: <a href=#workshop-unconscious-bias-in-science-and-personal>Unconscious Bias -- In Science and Personal</a>
--	Science Spotlights
+
+This week, there will not be a science spotlight or a Monday workshop. This will allow you more time to focus on your research project. 
 
 *Wednesday:*
--	 Workshop: <a href=#workshop-paper-writing>Paper Writing</a>
+-	Workshop: <a href=#workshop-unconscious-bias-in-science-and-personal>Unconscious Bias -- In Science and Personal</a>
 
 
 
 ## Workshop: Unconscious Bias -- in Science and Personal
-People make judgements about other people, themselves, their environment and about science. Besides objective facts, there is a whole range of additional factors the influence our judgements and decisions. These factors include culture, identity, values, human nature, etc. We call these factors biases. The influence and impacts of these biases in our decisions are stronger when they are unexamined and unchallenged. On some level, biases are unavoidable, examining and challenging our biases often leads to better decisions and, consequently, better science. Who is in control of our decisions—our intellect and values or our biases?  
+People make judgements about other people, themselves, their environment and about science. Besides objective facts, there is a whole range of additional factors the influence our judgements and decisions. These factors include culture, identity, values, human nature, etc. We call these factors biases. The influence and impacts of these biases in our decisions are stronger when they are unexamined and unchallenged. On some level, biases are unavoidable, examining and challenging our biases often leads to better decisions and, consequently, better science. Who is in control of our decisions — our intellect and values or our biases?  
 
 ### Key Concepts
 Types of Cognitive biases (so many ways to categorize them)
@@ -77,26 +78,6 @@ Types of Unconscious Biases
 
 - Reflection
 
-## Workshop: Paper Writing
-In this hands-on workshop, students will work on their research paper. At the same time, we will discuss and apply guidelines and strategies for writing clear papers on three levels:  
-
-- macro-level (the function and ingredients of the most important sections, how to create coherence between main objective and main conclusion) 
-
-- meso-level (creating a flow on a paragraph level, making sure that steps in the storyline are well-connected and easily understood by readers) 
-
-- micro-level (writing clear, concise, correct and attractive sentences; discussing common style and language issues in academic English) 
-
-At the end of the workshop, students will have written parts of their paper and have determined a strategy for finishing their (draft) paper. 
-
-### Key Concepts
-- Elements of a research paper 
-
-- Scientific storyline (section and paragraph level)
-
-- Academic style and language
-
-### Learning goals
-- Communication
 
 ## Group Activity of the Week
 - Keep on researching and reading and writing. Check how your biases are
@@ -117,17 +98,19 @@ affecting your research and if that's the decision you want.
 
 - How are biases showing up in our projects?
 
+- What are examples of structural biases?  Or structures that reinforce social/systemic biases?  
+
 ## Weekly Submitted Assignments
 ### Group
-Hand in the writing plan for your paper:
+Hand in the writing plan for your project:
 
 -   Which tasks need to be done?
 
+-   Who is doing which tasks?
+
 -   Which deadlines have you set?
 
--   Who will take up which writing task?
-
--   How will you edit and evaluate each other's work?
+-   What did you almost forget?
 
 ### Individual
 What kinds of biases do you most struggle with? What strategies do you plan to use going forward to control their effect?
@@ -145,8 +128,4 @@ What kinds of biases do you most struggle with? What strategies do you plan to u
 [How Implicit Bias and Lack of Diversity Undermine Science - Scientific American Blog Network](https://blogs.scientificamerican.com/voices/how-implicit-bias-and-lack-of-diversity-undermine-science/)
 
 
-Silyn-Roberts, H. (2013). *Writing for Science and Engineering*. 2nd ed. Elsevier. Available [here](https://www.sciencedirect.com/science/article/pii/B9780080982854000236) (if required, login using your TU Delft NetID).
-
-- [Chapter 6: A Journal Paper](https://www.sciencedirect.com/science/article/pii/B9780080982854000066#c0006)
-- [Chapter 17: Revising](https://www.sciencedirect.com/science/article/pii/B9780080982854000170#c0017)
-- [Chapter 18: Problems of Style: Recognising and Correcting Them](https://www.sciencedirect.com/science/article/pii/B9780080982854000182#c0018)
+[Structural Barriers to Scientific Progress](https://journals.iucr.org/d/issues/2020/10/00/qj5004/qj5004.pdf)
