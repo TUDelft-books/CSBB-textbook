@@ -2,7 +2,8 @@
 title: CiTG Jupyter Book template
 author:  
 logo: images/TUDelft_logo_rgb.png
-
+baseurl: "https://oit.tudelft.nl/CSBB-textbook"
+repository_url: "https://github.com/TUDelft-books/CSBB-textbook"
 # Execute notebooks when building
 execute:
   execute_notebooks: auto
