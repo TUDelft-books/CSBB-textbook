@@ -1,3 +1,4 @@
+teachbooks
 jupyter-book
 numpy
 scipy
