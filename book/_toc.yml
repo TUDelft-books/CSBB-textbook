@@ -33,9 +33,7 @@ parts:
     chapters: 
     - file: Annex/Rubrics_Q1.md
     - file: Annex/Rubrics_Q2.md
+    - file: Annex/Supervisors_and_Coaches_Guide.md
     #- file: Annex/rubric.ipynb
 
-
- 
-    
   

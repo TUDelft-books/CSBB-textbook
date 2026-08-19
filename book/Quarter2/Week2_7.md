@@ -43,11 +43,11 @@ This workshop focuses on the key elements of abstracts and on strategies for wri
 
 You will also work on your research paper. We will discuss and apply guidelines and strategies for writing clear papers on three levels:  
 
-macro-level (the function and ingredients of the most important sections, how to create coherence between main objective and main conclusion) 
+-   *macro-level*: the function and ingredients of the most important sections, how to create coherence between main objective and main conclusion 
 
-meso-level (creating a flow on a paragraph level, making sure that steps in the storyline are well-connected and easily understood by readers) 
+-   *meso-level*: creating a flow on a paragraph level, making sure that steps in the storyline are well-connected and easily understood by readers
 
-micro-level (writing clear, concise, correct and attractive sentences; discussing common style and language issues in academic English) 
+-   *micro-level*: writing clear, concise, correct and attractive sentences; discussing common style and language issues in academic English 
 
 At the end of the workshop, you will have written parts of your paper and have determined a strategy for finishing your (draft) paper. 
 

@@ -49,12 +49,12 @@ The schedule for this week includes :
 
 ## Introduction 
 
-The minor Director will welcome you during this Monday morning session. He   will introduce you to  the minor, the transdisciplinary side of it, what we want to achieve, structure and schedule, contact details, etc.  
+The minor Director will welcome you during this Monday morning session. We will introduce you to  the minor, the transdisciplinary side of it, what we want to achieve, structure and schedule, contact details, etc.  
 
 In a collaborative project, it’s important to have a strong understanding of shared expectations. We will start the discussion by clarifying the expectations of the teaching team and have time to discuss your expectations. Once the groups are assigned, you will further develop shared expectations within your own group. 
 
 ### Key Concepts 
-If you think about this as preparing for a sailing voyage, this is about familiarizing yourself with your boat, laying out the map of  your journey and getting excited about what you could learn along the way. 
+If you think about this as preparing for a sailing voyage, this is about familiarizing yourself with your boat, your crew, laying out the map of  your journey and getting excited about what you could learn along the way. 
 
 ### Information They Should Know
 - What systems are being used 
@@ -180,6 +180,7 @@ The group members identify three subtopics which interest them, and then you wil
 -	Find and read other sources on the topic
 -	Set up Mendeley for your group for tracking who’s reading what
 -	Decide on a team name and turn it in.
+-   Plan a social activity with your group to get to know each other
 
 
 ## Discussion Questions
@@ -200,7 +201,7 @@ Decide on a team name and turn it in
 
 ### Individual
 
-Reflection on grouproles, the expertise you bring in the team, and writing Individual learning goals for the minor. (½ page minimum) 
+Reflection on group roles, the expertise you bring in the team, and writing Individual learning goals for the minor. (½ page minimum) 
 
 ## References
 

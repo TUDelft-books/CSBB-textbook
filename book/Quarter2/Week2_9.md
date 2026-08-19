@@ -4,7 +4,7 @@
 
 # Week 2.9: Paper Reviewing
 
-Who decides if your paper gets published and how? In order to be published, papers go through a review process. This process is very important both for paper authors and paper readers. It helps the author get feedback and improve their work and it provides the reader with some guarantees of the reliability of the paper’s claims and results.  
+Who decides if your paper gets published and how? In order to be published, papers go through a review process. This process is very important both for paper authors and paper readers. It helps the author get feedback and improve their work, and it provides the reader with some guarantees of the reliability of the paper’s claims and results.  
 
 This week is also about wrapping up your research. It is now time to cleanup, finalize, and hand off the written material and documentation of your project. It is also time to prepare your research talk. 
 

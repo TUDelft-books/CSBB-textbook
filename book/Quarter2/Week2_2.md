@@ -6,7 +6,7 @@
 
 Doing something new and getting great results is very exciting! However, the results of your project only “count” if others can carry the same experiments you carried and get the same results you did. This is called reproducibility. Reproducibility is how scientists verify the trustworthiness and accuracy of results. As a researcher it is your responsibility to ensure the reproducibility of your results.  
 
-What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important.  So, how can you troubleshoot this situation and solve this reproducibility issue?  
+What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important. So, how can you troubleshoot this situation and solve this reproducibility issue?  
 
 This week’s topic is ‘reproducibility’. The schedule includes: 
 
@@ -95,7 +95,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 
 ### Group
 
-Summary of how you'll keep a lab journal and identify the key things to record in your lab journal for your project.
+Summary of how you will keep a lab journal and identify the key things to record in your lab journal for your project.
 
 ### Individual
 

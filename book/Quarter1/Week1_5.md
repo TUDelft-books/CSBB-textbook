@@ -26,17 +26,13 @@ This workshop will introduce the concept of stakeholders and how they are connec
 
 Besides “what are they” and “why do we care about them”, this workshop will help you answer more questions about the importance of stakeholders. We will discuss how to collaborate with them, why they would collaborate with you, and what could break this relationship. At the end of this workshop, you should have an inventory of mindsets, epistemological standpoints and doctrines, which help you build a good relationship with stakeholders.
 
-Regarding the presentations at the end of this minor, you will want to learn about how different types of audiences (eg. supervisor, fellow students, general public) are different stakeholders and how that should influence the way you present your findings. Furthermore, the characteristics of these audiences, such as along the scale of involved to less involved or how they process information, will be discussed. This latter part also means that the you will learn some essential communication elements for presenting to and talking with external but interested parties. Considering speaker, message, audience and context are vital in deciding how to relay information.
+Regarding the presentations at the end of this minor, you will want to learn about how different types of audiences (eg. supervisor, fellow students, general public) are different stakeholders and how that should influence the way you present your findings. Furthermore, the characteristics of these audiences, such as along the scale of involved to less involved or how they process information, will be discussed. This latter part also means that the you will learn some essential communication elements for presenting to and talking with external but interested parties. Considering speaker, message, audience and context are vital in deciding how to present information.
 
 ### Key concepts 
 
 After this workshop, groups should be able to answer the following questions when it comes to their own project:
 
 -	What are stakeholders?
-
--	Who are the stakeholders in their project?
-
--	What do they find important?
 
 -	What do they already know?
 
@@ -49,29 +45,31 @@ After this workshop, groups should be able to answer the following questions whe
 
 ### Learning goals
 
--	Students can describe the concept of a stakeholder and why this is relevant in the context of research
+-	Describe the concept of a stakeholder and why this is relevant in the context of research
 
--	Students should be able to identify stakeholders in different situations
+-	Identify stakeholders in different situations
 
--	Students know the influence of stakeholders on their actions 
+-	Understand the influence of stakeholders on their actions 
 
--	Students understand their own responsibility towards (different types of) stakeholders
+-	Understand their  responsibility towards (different types of) stakeholders
 
--	Students are able to to make decisions and actions with active consideration of the stakeholders’ influence
+-	Understand how different audiences are different stakeholders, and the different characteristics that define these audiences
 
--	Students understand how different audiences are different stakeholders, and the different characteristics that define these audiences
-
--	Students know how to present information to stakeholders
 
 
 ## Workshop: Stakeholder Panel
 
-This workshop will be a stakeholder panel. Students will define interesting statement and several questions. Panel members may include education experts, researchers, industry representatives, patient advocates and insurance companies. 
+This workshop will be a stakeholder panel. Students will define interesting statements and several questions. Panel members may include education experts, researchers, industry representatives, patient advocates and insurance companies. 
+
+### Key concepts
+-   Who are the stakeholders in their project?
+-   What do they found important?
 
 ### Learning goals
 
-Understand different perspectives of why people engage or participate.
-Their hopes and desires.
+-   Understand different perspectives of why people engage or participate. Their hopes and desires.
+-   Present information in effective ways to various stakeholders
+-   Make decisions and actions with the active consideration of the stakeholders' influence
 
 ## Group activity of the week
 

@@ -4,7 +4,7 @@
 
 # Week 2.4: Data Management
 
-In any research project, it is important to have a plan for how you will store and manage your data. Data Management is important to ensure that no research data is lost. Good data management practices contribute to research results, reproducibility and reduce fraud. Research projects need to abide by research integrity principles, ethical requirements, and legal or institutional oversight obligations, and being able to review the data and it’s storage is key to that. In some cases, such as Open Science, good data management practices facilitates the reusability of the data in future projects. While it is good (and may be required) to publicly share data, not all data can always be shared. Your research data may be sensitive or legally protected requiring that the data remain private and secure. There may also be potential for patenting and copyrights, which means that not all data and code can be shared immediately but only after those procedures are finalized. This workshop will focus on all these issues.  
+In any research project, it is important to have a plan for how you will store and manage your data. Data Management is important to ensure that no research data is lost. Good data management practices contribute to research results, reproducibility and reduce fraud. Research projects need to abide by research integrity principles, ethical requirements, and legal or institutional oversight obligations, and being able to review the data and its storage is key to that. In some cases, such as Open Science, good data management practices facilitate the reusability of the data in future projects. While it is good (and may be required) to publicly share data, not all data can always be shared. Your research data may be sensitive or legally protected requiring that the data remain private and secure. There may also be potential for patenting and copyrights, which means that not all data and code can be shared immediately but only after those procedures are finalized. This workshop will focus on all these issues.  
 
 Thanks to Open and FAIR Data, it is possible to reuse existing data. FAIR is an acronym for Findable, Accessible, Interoperable, and Reusable (and not to be confused with fair or ethical research!). FAIR data is made available via data repositories, which you can use to interact with existing research data and generate new insights. Data repositories can also be used to share the research data of your research project. To plan for data sharing, every research project should have a Data Management Plan. In this plan, you describe what type of data you will generate, how you will document it, where you will store the data securely (especially important for personal data!), and which data repository you will use for the data that can be publicly shared.  
 
@@ -103,7 +103,7 @@ This week you will continue working on your research project with a special focu
 
 ### Group
 
-Submit draft of data management plan
+Submit a draft of the data management plan
 
 ### Individual
 

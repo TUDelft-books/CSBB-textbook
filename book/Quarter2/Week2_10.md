@@ -25,7 +25,7 @@ This week’s schedule includes:
 
 Remember you will also have a graded individual oral exam with your supervisor at some point this week. This will have to be scheduled with your supervisor. 
 
-## Sample Oral Exam Questions
+## Exam Questions - sample questions
 
 -   What are you proud of in collaborating with teammates?
 

@@ -22,7 +22,9 @@ Martijn Wackers, TU Delft, Faculty of Technology, Policy and Management, Centre 
 
 Éva Kalmár, TU Delft, Faculty of Industrial Design Engineering, Department of Design, Organization and Strategy, previously at Faculty of Applied Sciences, Communication Design for Innovation
 
-Hegias Mira Bontenbal, Erasmus University-Rotterdam, Erasmus Medical Center, Development Biology
+Roberto Narcisi, Erasmus University-Rotterdam, Erasmus Medical Center, Orthopaedics & Sports Medicine
+
+Andrea Lolli, Erasmus University-Rotterdam, Erasmus Medical Center, Oral and Maxillofacial Surgery
 
 Johanna Colgrove, TU Delft, Faculty of Applied Sciences, Department of Education & Student Affairs
 
@@ -30,11 +32,17 @@ Hylkje Geertsema, TU Delft, Faculty of Applied Sciences, Department of Imaging P
 
 Dimphna Meijer, TU Delft, Faculty of Applied Sciences, Department of Bionanoscience
 
+Verena Zinschitz, TU Delft and Erasmus University-Rotterdam, Nanobiology student
+
+
+## Past contributors:
+Hegias Mira Bontenbal, Erasmus University-Rotterdam, Erasmus Medical Center, Development Biology
+
 Nadia Metoui, TU Delft, Faculty of Technology, Policy and Management,  Information and Communication Technology
 
-Verena Zinschitz, TU Delft and Erasmus University-Rotterdam Nanobiology student
+Alin Mateescu, TU Delft and Erasmus University-Rotterdam, Nanobiology student
 
-Alin Mateescu, TU Delft and Erasmus University-Rotterdam Nanobiology student
+_All affiliations are those at the time of contribution._
 
 ## Illustrations and graphics created by 
 Sandra Lousberg, RISBO

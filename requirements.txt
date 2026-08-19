@@ -1,5 +1,5 @@
 teachbooks
-jupyter-book
+jupyter-book<2
 numpy
 scipy
 matplotlib
