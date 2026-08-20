@@ -6,7 +6,7 @@ In serving as mentors for developing scientists, we want to stimulate students t
 
 Below we describe expectations from supervisors and coaches, provide suggestions on how to structure meetings with students, and describe how to coach for curiosity, bravery and critical thinking within a safe space.  
 
-## Expectations from supvervisors and coaches
+## Expectations from supervisors and coaches
 
 -   Meet regularly with students and monitor their progress 
 
