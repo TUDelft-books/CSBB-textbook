@@ -30,7 +30,7 @@ Each chapter of the textbook is a week in the programme. We ask supervisors and 
 
 Supervisors are research group leaders or senior researchers with extensive experience in scientific research. They are very well acquainted with the process of developing research questions, conducting experiments, interpreting results, communicating findings through scientific publications and collaborating. They are used to supervise projects in their research field but likely less experienced with projects outside their expertise and groups of interdisciplinary students.  
 
-#### CSBB Main tasks:
+#### CSBB: Main tasks
 
 -    Review weekly the chapter of the textbook for that week. 
 
@@ -46,7 +46,7 @@ Supervisors are research group leaders or senior researchers with extensive expe
 
 -    Attend and evaluate poster presentation in week 1.10 and research talk in week 2.10 
 
-#### On your own Main tasks:
+#### On your own: Main tasks
 
 If you’re supervising a group outside of our  minor some things you should have agreements with your group about: 
 

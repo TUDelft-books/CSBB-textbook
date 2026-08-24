@@ -1,15 +1,66 @@
 # General settings
-title: CSBB-minor
+title: CSBB Textbook
 #Author:  
+description: Textbook and guidebook for the Collaborative Science for Biomedical Breakthroughs minor (aka CSBB)
 logo: images/TUDelft_logo_rgb.png
 baseurl: "https://oit.tudelft.nl/CSBB-textbook"
-repository_url: "https://github.com/TUDelft-books/CSBB-textbook"
-# Execute notebooks when building
+repository:
+  url: https://github.com/TUDelft-books/CSBB-textbook
+
+
+# Execution Settings
 execute:
-  execute_notebooks: auto
+  execute_notebooks: force
+  cache: ""
+  exclude_patterns: [ ]
+  timeout: 30
+  run_in_temp: false
+  allow_errors: false
+  stderr_output: show
+
+# Only build files in the ToC to avoid building README, etc.
+only_build_toc_files: true
 
 # Static files
 sphinx:
   config:
     html_extra_path:
       - pdf
+
+# Parse and Render Settings
+parse:
+  myst_enable_extensions:
+    - amsmath
+    - colon_fence # To allow for ::: instead of ``` blocks.
+    - deflist
+    - dollarmath
+    - html_admonition
+    - html_image
+    - linkify
+    - replacements
+    - smartquotes
+    - substitution
+    - tasklist
+  myst_url_schemes: [ mailto, http, https ]
+  myst_dmath_double_inline: true
+
+html:
+  favicon: "content/images/favicon.ico"
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: false
+  use_multitoc_numbering: true
+  extra_navbar: ""
+  extra_footer: ""
+  analytics:
+    google_analytics_id: ""
+  home_page_in_navbar: true
+  baseurl: ""
+  comments:
+    hypothesis: true
+    utterances: false
+  announcement: ""
+
+# Launch Button Settings
+launch_buttons:
+  notebook_interface : classic
