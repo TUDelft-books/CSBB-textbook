@@ -1,6 +1,6 @@
 # General settings
-title: CiTG Jupyter Book template
-#uthor:  
+title: CSBB-minor
+#Author:  
 logo: images/TUDelft_logo_rgb.png
 baseurl: "https://oit.tudelft.nl/CSBB-textbook"
 repository_url: "https://github.com/TUDelft-books/CSBB-textbook"
