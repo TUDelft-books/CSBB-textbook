@@ -7,7 +7,8 @@ Welcome to the textbook for the Collaborative Research for Biomedical Breakthrou
 
 This textbook provides an overview and explanation of the different workshops within the minor. It also includes some resources and thought-provoking questions to inspire interesting discussions. Each chapter is organized to cover the topics of a given week and provide navigation markers for our journey. It also includes information about the weekly assignments both individual and group.  
 
-```{dropdown} On your own: Introduction
+```{admonition} On your own: Introduction
+:class: dropdown on-your-own-dropdown
 
 For people who want to use this book outside the minor we have added some notes throughout to help you. Look for the “On your own” headers.  We can't provide all the workshops, but this guide can help you identify what you need to learn and what questions are helpful to think about along the way. Often one of the hardest parts of becoming a researcher with collaborative skills is knowing what skills you need to develop. It is organized for students who are developing a research question, research grant application, doing the project and finally writing a paper about the research. We've put the workshops, questions, etc in the order that we think they most naturally come up as you're doing such a project. Your order might be different; this is a starting point.  
 
@@ -182,11 +183,15 @@ Each chapter of the textbook has an introduction and our learning goals for that
 The appendices contain descriptions of assessments and rubrics, and guidance for supervisors and coaches. The actual submission of assignments and grading is done in Brightspace.  
 
 
-```{dropdown} CSBB: Using the Textbook
+```{admonition} CSBB: Using the Textbook
+:class: dropdown csbb-dropdown
+
 We highly recommend everyone read the chapter of the week at the start of each week.  
 ```
 
-```{dropdown} On your own: Using the Textbook
+```{admonition} On your own: Using the Textbook
+:class: dropdown on-your-own-dropdown
+
 If you’re reading this textbook and not taking the minor, you may wonder what’s in it for you or how best to use it. Use it as a means to ask yourself questions along the way of your project. Things as scientists and researchers we often forget to ask. Maybe you can find a friend, colleague, mentor to discuss the discussion questions with. The chapters are ordered in the way that we think is natural for most projects, the points when you should consider those issues. This textbook, and our education is not really about giving people answers, it’s helping them ask more and better questions. Especially questions about things they didn’t even think they needed to know.
 ```
   

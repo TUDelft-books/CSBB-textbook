@@ -30,7 +30,8 @@ Each chapter of the textbook is a week in the programme. We ask supervisors and 
 
 Supervisors are research group leaders or senior researchers with extensive experience in scientific research. They are very well acquainted with the process of developing research questions, conducting experiments, interpreting results, communicating findings through scientific publications and collaborating. They are used to supervise projects in their research field but likely less experienced with projects outside their expertise and groups of interdisciplinary students.  
 
-```{dropdown} CSBB: Main tasks
+```{admonition} CSBB: Main tasks
+    :class: dropdown csbb-dropdown
 
 -    Review weekly the chapter of the textbook for that week. 
 
@@ -48,7 +49,8 @@ Supervisors are research group leaders or senior researchers with extensive expe
 
 ```
 
-```{dropdown} On your own: Main tasks
+```{admonition} On your own: Main tasks
+:class: dropdown on-your-own-dropdown
 
 If you’re supervising a group outside of our  minor some things you should have agreements with your group about: 
 
@@ -90,8 +92,10 @@ Each week supervisors and coaches meet with their groups. Coaches meet once with
 
 It is important for students to structure their own work, and this already starts with the weekly meetings. It is important to discuss how to use the meetings effectively and expectations about the meeting. Students should take responsibility by preparing the agenda in advance, indicating priorities and challenges to discuss, and taking minutes. At the same time, meetings should be flexible enough to suit the needs of the group, deal with anything that comes up during the meeting, and keep things fun. Every now and then it can be very effective to try a completely different type of meeting. 
 
-> **Tip**:
-> Regularly check in with students about how they are doing, not just the project.  
+``` {admonition} Tip:
+:class: tip
+
+Regularly check in with students about how they are doing, not just the project.  
 
 -    Coach meeting early in the week 
 
@@ -101,6 +105,7 @@ It is important for students to structure their own work, and this already start
 
 -    Have fun and be flexible 
 
+```
 
 ### Meeting content
 
@@ -110,8 +115,12 @@ In addition to discussing progress and planning, the group regularly discusses t
 
 Discussions and reflections on (inter)personal skills are also extremely important. Coaches and supervisors look for opportunities to discuss strategies on teamwork, time management, setting priorities, handling criticisms and feedback (among others).  
 
-> **Tip**:
-> Share fun facts and lessons learned from own experience, it is helpful in building rapport.  
+``` {admonition} Tip:
+:class: tip
+
+Share fun facts and lessons learned from own experience, it is helpful in building rapport.
+  
+``` 
 
 ## Developing curiosity as a group
 
@@ -119,8 +128,10 @@ Scientific research requires peering into the unknown and navigating uncharted w
 
 Supervisors and coaches will receive questions on topics they are not familiar with. Most of the time their role is not to directly answer the questions but to provide the group with new tools, options, or perspectives that can help students figure out their own answers. Supervisors and coaches are challenged to develop curiosity as well: they should be curious about their students, what interests them, what motivates them, what they can learn from them. 
 
-> **Tip**:
-> Don’t be afraid to say you don’t know something but brainstorm with students about finding answers (see also section on Bravery).
+``` {admonition} Tip:
+:class: tip
+ Don’t be afraid to say you don’t know something but brainstorm with students about finding answers (see also section on Bravery).
+```
 
 As the group walks new paths, different personalities will emerge. Some students will be talkative and spontaneously try to take the lead while others will stand back. At times someone may be annoyed by a certain group dynamic or disagreeing with the majority and maybe not dare to say it. A supportive environment for group curiosity is one where everyone wants to know what the other members think. Supervisors and coaches can help engage everybody in the discussion by asking direct questions or doing rounds. Especially for students with non-biology backgrounds, it is helpful to encourage them that even if they are less (or not) familiar with the topic, the questions they ask have value.  
 
@@ -136,11 +147,15 @@ Some useful questions:
 
 -    What else do you need to tackle this challenge? 
 
-> **Tip**:
-> Ask challenging questions and encourage creative ideas. 
+``` {admonition} Tip:
+:class: tip
+ Ask challenging questions and encourage creative ideas. 
+```
 
-> **Warning**:
-> Don’t rush to identify all the problems immediately. 
+``` {admonition} Warning:
+:class: warning
+ Don’t rush to identify all the problems immediately. 
+```
 
 ## Developing Bravery
 
@@ -164,21 +179,29 @@ As a coach or supervisor, an important skill is knowing when to solve the uncert
 
 The job of the coach and supervisor is not to solve the uncertainty of their students, it is to give them tools so that the next time, or far in the future, they will have these tools ready to use. They can be transparent with students about this process, even if they are not entirely comfortable with it.  
 
-> **Tip**:
-> Teach tools, not one-time answers
+``` {admonition} Tip:
+:class: tip
+Teach tools, not one-time answers
+```
 
-> **Warning**:
-> Be careful of advocating for your solution
+``` {admonition} Warning:
+:class: warning
+Be careful of advocating for your solution
+```
 
 ### Building trust
 
 A key component of bravery is feeling safe enough to try things. This is an aspect which will definitely show up in the group dynamics. If students in a group trust each other, they are much more capable of challenging themselves and what is possible. Hence, it is absolutely critical that the group invests some time in getting to know each other. Students should spend social time together independently from the project (lunch, fun activities). While it is not necessary to become friends, getting to know each other in different contexts strongly helps group dynamics and group bravery. Coaches and supervisors also invest time in getting to know their group, so that they can form ideas on the best ways to help and support. It can also be helpful if they participate in social moments at least occasionally. There is no need to maintain a hierarchy. 
 
-> **Tip**:
-> Invest in social time together. Encourage sharing food and treats, or playing games.
+``` {admonition} Tip:
+:class: tip
+Invest in social time together. Encourage sharing food and treats, or playing games.
+```
 
-> **Warning**:
-> Not all students drink, or can eat pizza.
+``` {admonition} Warning:
+:class: warning
+Not all students drink, or can eat pizza.
+```
 
 ## Effective conflict
 
@@ -188,19 +211,27 @@ One of the big challenges is to help students move from group work to collaborat
 
 The other advantage of a collaboratively designed project is that everyone feels more ownership and responsibility towards it. You can support this in how you talk about it, but also in how you help address problems.  
 
-> **Tip**:
-> Help students develop distance from their ideas to be open for change.
+``` {admonition} Tip:
+:class: tip
+Help students develop distance from their ideas to be open for change.
+```
 
-> **Warning**:
-> When you see an emotional response, stop and solve that first before you go back to arguing ideas. 
+``` {admonition} Warning:
+:class: warning
+When you see an emotional response, stop and solve that first before you go back to arguing ideas. 
+```
 
 The mix of personalities in the group may be a cause of conflicts. Supervisors and coaches keep an eye on this, paying attention to signs and non-verbal language. The goal is to foster an inclusive environment overall, where everybody contributes and feels safe to speak out about things that are not working well, or they do not feel like their ideas are being acknowledged. Part of the skill set is learning to take advantage of each other’s strengths for the benefit of the group, but also to create opportunities to learn and experiment with new ideas and intuitions. Supervisors and coaches support this process and also (gently) stimulate students to challenge themselves. The other advantage of a collaboratively designed project is that everyone feels more ownership and responsibility towards it. You can support this in how you talk about it, but also in how you help address problems. 
 
-> **Tip**:
-> Model use of group language. Our project, our team. If someone says "This other team member isn't doing something,” ask them what they think that team member needs to be successful.  
+``` {admonition} Tip:
+:class: tip
+Model use of group language. Our project, our team. If someone says "This other team member isn't doing something,” ask them what they think that team member needs to be successful. 
+```
 
-> **Warning**:
-> Watch for divisive language.
+``` {admonition} Warning:
+:class: warning
+Watch for divisive language.
+```
 
 ### Addressing conflict
 
@@ -208,8 +239,10 @@ Producing good work will require uncomfortable moments. Everybody can help norma
 
 When there are different ideas or options on the table and a decision needs to be made, it is important to discourage voting. No voting for favorite topics, ideas or even where to go for lunch. We want students to develop consensus skills, which means proposing alternatives, and then modifying them until everyone agrees it will work for them. Creativity goes a long way in this process; there are always new (and often better) options that can be considered. Coaches and supervisors regularly discuss this topic with the students, making sure everybody is on board with the decision-making process. Hesitations or concerns should be openly discussed and addressed. 
 
-> **Tip**:
-> The most basic tool to check consensus is Thumbs up, Thumbs sideways, Thumbs down.
+``` {admonition} Tip:
+:class: tip
+The most basic tool to check consensus is Thumbs up, Thumbs sideways, Thumbs down.
+
 
 -    Thumbs up: “I am really excited about this solution, or proposal”. 
 
@@ -218,6 +251,8 @@ When there are different ideas or options on the table and a decision needs to b
 -    Thumbs down: “I am not ok with this solution.” This requires proposing what should be changed to make it workable, or asking for time to come up with an alternative. 
 
 The advantage is that thumbs up or sideways means providing active support. Thumbs down is not just disagreement, but a change must be proposed.  
+
+```
 
 The critical arguing of ideas, strategies, and interpretations is at the core of science. Thus, it is important to have people in the group who will really offer critical constructive feedback, and everyone should strive to develop these skills. However, it is also vital to help recognize when people are having strong emotional reactions, and it is time to take breaks and make space.  
 
@@ -233,8 +268,11 @@ The critical arguing of ideas, strategies, and interpretations is at the core of
 
 Not only students, but also supervisors and coaches are encouraged to discuss with each other and other teachers for inspiration, to receive or offer help with possible issues and overall to learn and have fun together. We hope to create a challenging but safe environment where collaboration and openness are key values.  
 
-> **Tip**:
-> If you are not sure of something, or how to approach a difficult topic, ask the students for help. Consider something like this: _It looks to me like there is a problem. I am here to help. But I don’t know what the right question is to get you to tell me what’s wrong or where the problem is. What question should I ask?_ 
+``` {admonition} Tip:
+:class: tip
+If you are not sure of something, or how to approach a difficult topic, ask the students for help. Consider something like this: _It looks to me like there is a problem. I am here to help. But I don’t know what the right question is to get you to tell me what’s wrong or where the problem is. What question should I ask?_ 
+
+```
 
 ## For the teachers
 
@@ -288,8 +326,12 @@ If someone has a strong emotional response—stop and check in, or consider whet
 
 Especially for science focused discussions, it can be helpful to use markers and a white board.  
 
-> **Warning**:
->   Some sessions will be hard, especially if participants don’t want to talk. Plan to take a few minutes afterwards to reflect on how it went, and what you could do differently next time.
+``` {admonition} Warning:
+:class: warning
+Some sessions will be hard, especially if participants don’t want to talk. Plan to take a few minutes afterwards to reflect on how it went, and what you could do differently next time.
+```
 
-> **Tip**:
->   Silence is hard but okay. Let it linger.
+``` {admonition} Tip:
+:class: tip
+Silence is hard but okay. Let it linger.
+```

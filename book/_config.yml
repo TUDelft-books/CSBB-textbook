@@ -26,6 +26,11 @@ sphinx:
   config:
     html_extra_path:
       - pdf
+    html_static_path:
+      - _static
+
+  extra_extensions:
+    - sphinx_design
 
 # Parse and Render Settings
 parse:
@@ -60,6 +65,8 @@ html:
     hypothesis: true
     utterances: false
   announcement: ""
+  extra_css:
+    - tudelft_style.css
 
 # Launch Button Settings
 launch_buttons:
