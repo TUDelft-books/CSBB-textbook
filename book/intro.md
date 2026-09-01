@@ -2,7 +2,6 @@
 :name: Minor_Drawing
 ```
 # Home
-Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor! Please check out the page [Introduction](./Introduction.md) for information on this minor. Check out the pages under the section [Quarter 1](./Quarter1) to find the weekly components and assignments. We are looking forward to working with you!
 
 # Collaborative Science for Biomedical Breakthroughs (LDE)
 
@@ -12,11 +11,12 @@ Do Research
 
 Explore new Fields
 
-This textbook is a collaborative effort and is still under development.
-If you have suggestions or questions about this minor or textbook,
+<br/>
+
+Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor! Please check out the page [Introduction](./Introduction.md) for information about the textbook and how to use it. This textbook is a collaborative effort and is still under development. If you have suggestions or questions about this minor or textbook,
 please send them to <minor-csbb@tudelft.nl>.
 
-## Writers and Editors include:
+## Writing and Editing Team
 
 Martijn Wackers, TU Delft, Faculty of Technology, Policy and Management, Centre for Language and Academic Skills (ITAV)
 
@@ -35,7 +35,7 @@ Dimphna Meijer, TU Delft, Faculty of Applied Sciences, Department of Bionanoscie
 Verena Zinschitz, TU Delft and Erasmus University-Rotterdam, Nanobiology student
 
 
-## Past contributors:
+## Past Contributors:
 Hegias Mira Bontenbal, Erasmus University-Rotterdam, Erasmus Medical Center, Development Biology
 
 Nadia Metoui, TU Delft, Faculty of Technology, Policy and Management,  Information and Communication Technology
@@ -49,5 +49,6 @@ Sandra Lousberg, RISBO
 
 Johanna Colgrove
 
-Polina Kairiūkštytė, Nanobiology Student
+Verena Zinschitz
 
+Polina Kairiūkštytė, Nanobiology Student
