@@ -3,7 +3,7 @@
 ```
 # Home
 
-# Collaborative Science for Biomedical Breakthroughs (LDE)
+## Collaborative Science for Biomedical Breakthroughs (LDE)
 
 Learn Transdisciplinary Skills
 
