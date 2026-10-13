@@ -10,6 +10,7 @@ In addition to understanding the narrative elements, it’s important to conside
 
 One of the most important writing/design skills is critical editing. If you become really skilled at editing you can edit your own work effectively, but it is always better to ask for help with this from others, especially when starting. And as a collaborator it’s important to develop your editing skills so you can contribute to making presentations better. No design or written document is perfect and there is always room (though not always time) for improvement. 
 
+
 Scheduled components of this week:
 
 *Monday*
@@ -93,3 +94,8 @@ TU Write - Scientific Writing:
 -   Visualising your research
 
 -   Academic writing style (SPArCC style tutorial on scientific style)
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

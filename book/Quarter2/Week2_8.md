@@ -96,3 +96,9 @@ How have your collaboration skills changed over the past 18 weeks? What areas do
 -   [TED talk by Joshua Foer: feats of memory anyone can do](https://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do?language=en)
 
 -   [FameLab 2017 National Dutch Final Competition](https://www.youtube.com/watch?v=F2IUDMPVBBo)
+
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

@@ -2,15 +2,21 @@
 :name: intro image
 ```
 
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```
+
+
 # Welcome
-Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor. This textbook was designed to guide supervisors, coaches, and students on     their journey of becoming a scientist. We are using the metaphor of a boat journey as a fun and hopefully helpful metaphor of different steps and milestones of your project, and because Johanna likes boats. The teaching team, supervisors and coaches are available to provide guidance, but this is your journey.  
+Welcome to the textbook for the Collaborative Science for Biomedical Breakthroughs minor. This textbook was designed to guide supervisors, coaches, and students on     their journey of becoming a scientist. We are using the metaphor of a boat journey as a fun and hopefully helpful metaphor of different steps and milestones of your project, and because Johanna likes boats. The teaching team, supervisors and coaches are available to provide guidance, but this is your journey.  
 
 This textbook provides an overview and explanation of the different workshops within the minor. It also includes some resources and thought-provoking questions to inspire interesting discussions. Each chapter is organized to cover the topics of a given week and provide navigation markers for our journey. It also includes information about the weekly assignments both individual and group.  
 
 ```{admonition} On your own: Introduction
 :class: dropdown on-your-own-dropdown
 
-For people who want to use this book outside the minor we have added some notes throughout to help you. Look for the “On your own” headers.  We can't provide all the workshops, but this guide can help you identify what you need to learn and what questions are helpful to think about along the way. Often one of the hardest parts of becoming a researcher with collaborative skills is knowing what skills you need to develop. It is organized for students who are developing a research question, research grant application, doing the project and finally writing a paper about the research. We've put the workshops, questions, etc in the order that we think they most naturally come up as you're doing such a project. Your order might be different; this is a starting point.  
+For people who want to use this book outside the minor we have added a few notes throughout to help you. Look for the “On your own” headers. We can't provide the content of the workshops, but this guide can help you identify what you need to learn and what questions are helpful to think about along the way. If you are a teacher or supervisor using this to gather ideas, this book can help you identify things you might want to teach or think about. Often one of the hardest parts of becoming a researcher with collaborative skills is identifying and learning the skills you didn’t know you needed. This book is organized for those who are developing a research question, research grant application, doing the project and finally writing a paper about the research. We've put the workshops, questions, etc in the order that we think they most naturally come up as you're doing such a project. Your order might be different; this is a starting point. It will hopefully help you ask the questions you need to develop better answers.  
 
 ```
 
@@ -18,8 +24,11 @@ The participants in the minor’s Learning community include:
 
 
 •	*The teaching team* — thread leaders and developers who constructed this framework and give workshops. They have expertise in the durable skills being taught, and through the minor are learning more. They are always available for questions via email. 
+
 •	*Supervisors* — scientists and researchers who supervise a group of students to help design realistic projects. They have expertise in the process of designing research projects. They will ask a lot of questions but provide few answers. They are also learning more about collaborative research projects and supervising them.  
+
 •	*Coaches* — PhD students who will serve as coaches for groups. They also have expertise in developing research projects. This minor is also a place for them to practice and develop their supervisory skills.  
+
 •	*Students* — they are leading the content and research questions. They will become the experts on their topics. They also bring a variety of expertise from different programmes and life experiences to the whole minor. They are divided into teams (crews) who will work together to learn more. 
 
 The Collaborative Research for Biomedical Breakthrough minor provides opportunities to do multi/inter/transdisciplinary research while learning necessary durable research skills. We explicitly teach the structures, networks and connections that are foundational to (scientific) research. The skills are organised and grouped into four intertwined threads: 
@@ -48,7 +57,7 @@ The founding assumptions when we developed this programme:
 One way to think about the research environment
 ```
 
-We want our students to develop understanding of the relational pieces of doing science, the people involved, the kinds of resources; how to communicate and collaborate effectively;and have the ability to reflect on all these elements in order to achieve impactful and excellent science. 
+We want our students to develop understanding of the relational pieces of doing science, the people involved, the kinds of resources; how to communicate and collaborate effectively; and have the ability to reflect on all these elements in order to achieve impactful and excellent science. 
 
 # Our Expectations
 
@@ -60,11 +69,11 @@ When working in a collaborative environment, it is important to have clear expec
 
 -    Be kind to the people around you. Help them out. Recognize we all have feelings, and they matter. Everybody will have different feelings and perspectives. 
 
--    Be hard on ideas, making sure to separate them from the people. This is how ideas are improved. Think critically about your own ideas as well as the ideas of others. This is how we develop better ideas.  
+-    Be hard on ideas, making sure to separate them from the people. Think critically about your own ideas as well as the ideas of others. This is how we develop better ideas.  
 
 -    Challenge yourself, have the courage to step out of your comfort zone, and when someone around you is clearly challenging themself be supportive.  
 
--    Nothing is really a failure. It’s a first attempt. Assess the results, if it didn’t do the thing you wanted it to do, try to figure out why it responded the way it did, try something different. If it affects other people, let them know, let them know what you’re going to do differently    next time. Understanding unexpected results is a skill to master and learning from these is at the heart of science. Unexpected results are the key to discovery. There are really only two failures: doing the same thing over and over and expecting a different result, or claiming something worked when it didn't.  
+-    Nothing is really a failure. It’s a first attempt. Assess the results, if it didn’t do the thing you wanted it to do, try to figure out why it responded the way it did, try something different. If it affects other people, let them know, let them know what you’re going to do differently    next time. Understanding unexpected results is a skill to master and learning from these is at the heart of science. Unexpected results are the key to discovery. There are really only two failures: doing the same thing over and over and expecting a different result or claiming something worked when it didn't.  
 
 -    Take responsibility for your own messes—whether this is in the lab, classroom, in your relationships. If you’re not sure how to clean it up, ask for help. There’s nothing wrong with needing support. What causes real problems is trying to hide it, cover it up, or pretend it didn’t happen. 
 

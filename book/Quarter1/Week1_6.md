@@ -112,3 +112,7 @@ form, and context of narratives in health-related narrative persuasion
 research. *Review of Communication Research*, 4, 88-131.
 <https://doi.org/10.12840/issn.2255-4165.2016.04.01.011>
     
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

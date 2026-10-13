@@ -129,3 +129,9 @@ What kinds of biases do you most struggle with? What strategies do you plan to u
 
 
 [Structural Barriers to Scientific Progress](https://journals.iucr.org/d/issues/2020/10/00/qj5004/qj5004.pdf)
+
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

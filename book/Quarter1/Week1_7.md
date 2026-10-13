@@ -89,3 +89,7 @@ Kowledge utilization draft (1 paragraph)
 ### Individual
 How important is knowledge for knowledge's sake versus being able to apply it immediately to problems? How do you balance the two? (½ page)
 
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

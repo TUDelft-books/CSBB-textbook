@@ -6,6 +6,7 @@
 
 Week 1 is the time for everyone to get to know who is involved in the minor—fellow students, supervisors, coaches and the teaching team. You will learn about the requirements to complete the minor successfully. You will spend some time getting to know your groups and start learning the  foundational skills needed during the minor.
 
+
 This week’s activities also include picking a team name and starting to develop research ideas. Unscheduled time should be spent reading articles on the topics, and discussing ideas with fellow students, and anyone else you want. 
 
 The schedule for this week includes : 
@@ -215,3 +216,8 @@ TU Delft OCW
 
 
 The Culture Map, Erin Meyer, ISBN: 9781610392761
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

@@ -5,6 +5,7 @@
 
 Responsible scientific research requires both rigorous critical thinking and adherence to ethical standards. Scientists must continuously question assumptions, evaluate evidence, and reason logically—not only in interpreting data, but also in designing ethically sound studies. The institutional review process for human and animal research ensures that studies meet legal and moral obligations, protecting participants, society and the environment. By submitting protocols to review boards, researchers demonstrate accountability and a commitment to minimizing harm. Together, critical thinking and ethical review form the backbone of credible science, supporting integrity, transparency, and the advancement of knowledge. 
 
+
 The schedule for this week includes:
 
 *Monday:*
@@ -98,3 +99,8 @@ You will also need to decide what journal publication you future article could b
 - What do you think is important in the institutional review process? Why is it necessary?
 
 ## References
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

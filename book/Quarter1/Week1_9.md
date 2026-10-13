@@ -68,3 +68,8 @@ What makes for a good presentation? How will you prepare for that? (½ page)
 
 TU Present (see Brightspace): 
 -   Module *Delivery*
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

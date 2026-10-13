@@ -691,6 +691,22 @@ div.example button.dual-btn span:not(.active) {
       background: url("csbb-lifering.png") center / contain no-repeat;
   }
 
+  /* Email us with feedback */
+  div.email-us p.admonition-title::after {
+  content: "\f21a";
+  color: var(--tud-raspberry);
+  }
+  div.email-us p.admonition-title::before {
+    content: "";
+  }
+  div.email-us {
+    border-color: var(--tud-raspberry);
+    background-color: var(--tud-raspberry-min);
+  }
+  div.email-us > p.admonition-title {
+    background-color: var(--tud-raspberry-mid);
+  }
+
 .tud-red {color: var(--tud-red);}
 .tud-blue {color: var(--tud-blue);}
 .tud-green {color: var(--tud-green);}

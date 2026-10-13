@@ -7,6 +7,7 @@ There are two fundamental standpoints about the goal of science, in general. One
 Durham (2014) defines a stakeholder in a scientific context as: "any person or group who influences or is influenced by the research”. This includes the people working on a research project, paying for it, and will be affected by or using its results. At its broadest definition, everyone could be a stakeholder in your project, though most are not active participants. It’s usually helpful to consider them in three broad categories: those who support your project, those who oppose it, and those who will be affected by it. Mapping the stakeholders and understanding their perspectives are crucial in setting up transdisciplinary research projects. It is also important to remember that people have multiple things they’re stakeholders in with competing interests. 
 This week, we will be talking about stakeholders. What are they? Why do we care about stakeholders? How do they impact what we are doing? Whether you have heard of the term stakeholders before or not—being aware of who they are and how they affect your research, and actions can help you produce a result that best fits the circumstances and expectations. 
 
+
 *Monday:*
 - 	Science Spotlight
 -	Workshop: <a href=#workshop-stakeholders> Stakeholders</a>: what does it mean and why do we care?
@@ -113,3 +114,8 @@ A handbook for [Stakeholder engagement](https://www.biodiversa.org/706/download)
 A great example of stakeholder engagement: [Lisa ten Brug: ObeCity, How neighbourhood design can reduce childhood obesity](https://thecityateyelevel.com/app/uploads/2019/11/Obecity.pdf)
 
 An interesting video on [citizens’ involvement in science projects changing the way we do science](https://collegedoctoral.psl.eu/formation-doctorale/ethique-et-integrite-scientifique/sensibilisation-a-lhistoire-lepistemologie-et-lethique-des-sciences/how-radical-forms-of-citizens-participation-in-science-transforms-the-way-we-conduct-research/#vid1top)
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

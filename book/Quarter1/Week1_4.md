@@ -8,7 +8,9 @@ Doing science and any research requires taking time to stop and think about your
 
 Another key piece is learning to ask other people questions and effectively listen to the answers. This includes checking your assumptions about what they mean by the answer. These are powerful tools for being an excellent researcher.  
 
-This week we will focus on these two sides of exploring questions while you further develop your group’s research question
+This week we will focus on these two sides of exploring questions while you further develop your group’s research question.
+
+
 The schedule for week 4 includes:
 
 *Monday:*
@@ -108,3 +110,8 @@ conducting qualitative research interviews. *Medical* Teacher, 41(9),
 [10.1080/0142159X.2018.1497149.](https://doi.org/10.1080/0142159X.2018.1497149)
 
 Ribbs, G.R. (2013). [How to do a research interview](https://www.youtube.com/watch?v=9t-_hYjAKww)
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

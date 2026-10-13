@@ -8,6 +8,7 @@ Twenty weeks have gone by incredibly quickly. We will now conclude our journey w
 
 We will also have the opportunity to look back at everything we learned, experienced and achieved during these weeks.  
 
+
 This week’s schedule includes: 
 
 *Tuesday:*
@@ -62,3 +63,8 @@ Submit your final paper including cover letter, with the peer feedback you recei
 - Submit your final thoughts on the minor and suggestions for improvements (not anonymous).
 
 ## References
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

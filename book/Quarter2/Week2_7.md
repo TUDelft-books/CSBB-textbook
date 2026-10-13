@@ -12,6 +12,7 @@ One of the first steps in planning your paper is knowing what format it should b
 
 Next you have to write it.  This can seem overwhelming. This week we’ll walk you through what you need to include.  What should be included in a paper? What are the various parts of a paper? And what is the process to follow in order to write a publishable paper? How do you write an abstract? How do you decide where to publish, or to write a cover letter?  
 
+
 *Monday:*
 -   Science Spotlight
 -   Workshop: <a href=where-to-publish-and-how-to-write-a-cover-letter> Where to Publish and how to Write a Cover Letter</a>
@@ -103,3 +104,8 @@ Silyn-Roberts, H. (2013). *Writing for Science and Engineering. 2nd ed. Elsevier
 -   [Chapter 17: Revising](https://www.sciencedirect.com/science/article/pii/B9780080982854000170#c0017)
 
 -   [Chapter 18: Problems of Style: Recognising and Correcting Them](https://www.sciencedirect.com/science/article/pii/B9780080982854000182#c0018)
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

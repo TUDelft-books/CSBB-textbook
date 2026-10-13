@@ -135,7 +135,6 @@ Supervisors and coaches will receive questions on topics they are not familiar w
 
 As the group walks new paths, different personalities will emerge. Some students will be talkative and spontaneously try to take the lead while others will stand back. At times someone may be annoyed by a certain group dynamic or disagreeing with the majority and maybe not dare to say it. A supportive environment for group curiosity is one where everyone wants to know what the other members think. Supervisors and coaches can help engage everybody in the discussion by asking direct questions or doing rounds. Especially for students with non-biology backgrounds, it is helpful to encourage them that even if they are less (or not) familiar with the topic, the questions they ask have value.  
 
-As the group walks new paths, different personalities will emerge. Some students will be talkative and spontaneously try to take the lead while others will stand back. At times someone may be annoyed by a certain group dynamic or disagreeing with the majority and maybe not dare to say it. A supportive environment for group curiosity is one where everyone wants to know what the other members think. Supervisors and coaches can help engage everybody in the discussion by asking direct questions or doing rounds. Especially for students with non-biology backgrounds, it is helpful to encourage them that even if they are less (or not) familiar with the topic, the questions they ask have value.  
 
 Some useful questions: 
 
@@ -334,4 +333,9 @@ Some sessions will be hard, especially if participants don’t want to talk. Pla
 ``` {admonition} Tip:
 :class: tip
 Silence is hard but okay. Let it linger.
+```
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
 ```

@@ -13,7 +13,7 @@ Explore new Fields
 
 <br/>
 
-Welcome to the textbook for the Collaborative Research for Biomedical Breakthroughs minor! Please check out the page [Introduction](./Introduction.md) for information about the textbook and how to use it. This textbook is a collaborative effort and is still under development. If you have suggestions or questions about this minor or textbook,
+Welcome to the textbook for the Collaborative Science for Biomedical Breakthroughs minor! Please check out the page [Introduction](./Introduction.md) for information about the textbook and how to use it. This textbook is a collaborative effort and is still under development. If you have suggestions or questions about this minor or textbook,
 please send them to <minor-csbb@tudelft.nl>.
 
 ## Writing and Editing Team

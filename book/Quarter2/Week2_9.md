@@ -8,6 +8,7 @@ Who decides if your paper gets published and how? In order to be published, pape
 
 This week is also about wrapping up your research. It is now time to cleanup, finalize, and hand off the written material and documentation of your project. It is also time to prepare your research talk. 
 
+
 *Monday:*
 -   There is no science spotlight nor workshop on Monday
 
@@ -82,3 +83,9 @@ Hand in peer review of another groups paper.
 [Peer Review Process explained --- what happens after submission](https://blog.researchpal.co/academic-writing/peer-review-process-explained/)
 
 [Elsevier Reviewers - What is a peer review](https://www.elsevier.com/reviewer/what-is-peer-review)
+
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

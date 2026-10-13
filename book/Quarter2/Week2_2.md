@@ -8,6 +8,7 @@ Doing something new and getting great results is very exciting! However, the res
 
 What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important. So, how can you troubleshoot this situation and solve this reproducibility issue?  
 
+
 This week’s topic is ‘reproducibility’. The schedule includes: 
 
 *Monday:*
@@ -102,3 +103,8 @@ Summary of how you will keep a lab journal and identify the key things to record
 Why do you think reproducibility in science matters?
 
 ## References
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

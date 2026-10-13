@@ -99,3 +99,8 @@ Submit your final grant proposal.
 What would you advise to the minor team to keep, discard and add for
 next year? What will you keep, discard and build on from what you
 learned during the first half of the minor?
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

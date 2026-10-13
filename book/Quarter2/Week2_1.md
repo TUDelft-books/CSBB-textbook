@@ -10,6 +10,7 @@ This quarter will also be when students learn to turn their ideas and questions 
 
 ![The Research Process](../images/Research_Process.gif)
 
+
 This week is the first week of “quarter 2” and will thus include a lot of “Getting Started”. You will have a greater focus on creating something new (new results, policy, algorithms, methods) than in “quarter 1”. This week’s schedule includes:  
 
 *Monday:*
@@ -149,3 +150,8 @@ Submit team name and project plan draft
 - What skills do you hope to improve?
 
 # References
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

@@ -8,6 +8,8 @@ In any research project, it is important to have a plan for how you will store a
 
 Thanks to Open and FAIR Data, it is possible to reuse existing data. FAIR is an acronym for Findable, Accessible, Interoperable, and Reusable (and not to be confused with fair or ethical research!). FAIR data is made available via data repositories, which you can use to interact with existing research data and generate new insights. Data repositories can also be used to share the research data of your research project. To plan for data sharing, every research project should have a Data Management Plan. In this plan, you describe what type of data you will generate, how you will document it, where you will store the data securely (especially important for personal data!), and which data repository you will use for the data that can be publicly shared.  
 
+
+
 This week we’ll focus on: 
 
 *Monday:*
@@ -128,3 +130,8 @@ What do you think is important in balancing data privacy and being able to do re
 -   [FAIR principles](https://estherplomp.github.io/TNW-RDM-101/07-FAIR-principles.html)
 
 -   [Data Management Sections for grant proposals (tudelft.nl)](https://www.tudelft.nl/en/library/research-data-management/r/plan/grant-proposals/data-management-sections-for-grant-proposals)
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

@@ -125,3 +125,9 @@ Interesting reading: [How to be Interdisciplinary - by Nils Gilman
 (substack.com)](https://nilsgilman.substack.com/p/how-to-be-interdisciplinary?utm_source=substack&utm_medium=email)
 
 Parts of the first lecture are based on [The NAS report on Enhancing the Effectiveness of Team Science](https://nap.nationalacademies.org/catalog/19007/enhancing-the-effectiveness-of-team-science)
+
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

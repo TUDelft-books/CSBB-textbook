@@ -8,6 +8,7 @@ One of the key components of research is how you present your findings to an aud
 
 This format is a powerful tool but can have constraints. Visualisations should be simple and clear. Therefore, you need to carefully select the best type of visualisations to convey the message of your data. Some important questions to ask are what to include? What is relevant? What can help explain your ideas? And what might make them confusing or misleading? 
 
+
 *Monday:*
 This week, there is no science spotlight or a Monday workshop. This will allow you more time to focus on your research project. 
   
@@ -85,3 +86,7 @@ What are potential problems with or considerations in your data analysis plan an
 
 ## References
 
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```

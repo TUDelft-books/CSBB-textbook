@@ -6,6 +6,7 @@ Perhaps the most important skill for a scientist is the ability to ask good rese
 
 It is one thing to select a project or research question, and it’s a whole additional layer of complexity to collaboratively create a project. It has the likelihood of being more successful, innovative and with greater impact, but also slower to start, and more complicated to fully include all perspectives.  In this week we’ll dive further into understanding research questions and how to do it collaboratively.   
 
+
 The schedule for week 3 includes:
 
 *Monday:*
@@ -87,3 +88,8 @@ Reflect on your favorite of the research questions from your group. What interes
 ## References
 
 [Problem choice and decision trees in science and engineering: Cell ](https://www.cell.com/cell/fulltext/S0092-8674(24)00304-0) Michael Fishbach, Volum 187, Issue 8, P1828-1833, April 11, 2024. https://www.cell.com/cell/fulltext/S0092-8674(24)00304-0 
+
+```{admonition} Please email us if you have any notes on this book!
+:class: email-us
+Email us your feedback at [minor-csbb@tudelft.nl](mailto:minor-csbb@tudelft.nl?subject=CSBB%20Textbook%20Feedback).
+```
