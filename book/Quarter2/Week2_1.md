@@ -23,7 +23,7 @@ This week is the first week of “quarter 2” and will thus include a lot of �
 -	Workshop: <a href=#workshop-from-proposal-to-plan>From Proposal to Plan</a>
 
 *Wednesday:*
--	Workshop: <a href=#workshop-drug-development-process> Drug development process</a>
+-	Workshop: <a href=#workshop-industry-development-process> Industry development process</a>
 
 *Thursday:*
 -	Workshop: <a href=#workshop-lab-safety> Lab Safety </a>
@@ -73,7 +73,7 @@ Biological science projects often require energy and resource-intensive processe
 - Ethics and reflection
 
 ## Workshop: From Proposal to Plan
-This is a structured time for groups to work with their coaches on what they need to do to turn their research proposal into a plan which is likely to succeed. What are the pitfalls, what resources need to be identified and anything that has been forgotten. Activities will include setting up a timeline of how and when things need to be done in order to complete the project in the time allotted and what can be done in parallel. 
+This is a structured time for groups to work on what they need to do to turn their research proposal into a plan which is likely to succeed. What are the pitfalls, what resources need to be identified and anything that has been forgotten. Activities will include setting up a timeline of how and when things need to be done in order to complete the project in the time allotted and what can be done in parallel. 
 
 ### Key Concepts 
 
@@ -87,11 +87,13 @@ This is a structured time for groups to work with their coaches on what they nee
 - Collaboration skills 
 
 
-## Workshop: Drug Development Process
+## Workshop: Industry Development Process
+This workshop varies as we bring in different industry representatives to talk about new technologies used in drug development, the process of drug development or medical device development from the industry perspective. 
+
 Not all projects have a drug development component, but if working in biomedical research, it’s important for a researcher to understand what the process is for new developments. This can help you develop that long-term vision of how this might turn into something which could be used in treatment. It can be important in funding decisions, prioritizing research questions and approaches.  
 
-It’s also useful in society for people to understand how development happens, the time frame, 
-costs, and access. This workshop is done by a representative of a pharmaceutical company to include that perspective and partnership.  
+It’s also useful in society for people to understand how drug development happens, the time frame, 
+costs, and access. This workshop is done by a representative from a biomedical research company to include that perspective and partnership.  
 
 ### Key concepts
 Research process of drug design and testing

@@ -4,21 +4,22 @@
 
 # Week 2.7: The Paper Writing Process
 
-So, you are doing a bunch of research, and now you want to contribute to scientific knowledge by publishing it, so how do you do that?  
+## Introduction and goals
+Publishing results from research is the foundation of science, it's how we expand scientific understanding. And is a required element in most scientific careers. Doing research without publishing is very limited in impact. Now that you're doing research, and are ready to think about contributing to scientific knowledge by publishing it, how do you do that?  
 
-This week, we dive into scientific paper writing and the different steps you need to consider to do that successfully. 
+This week, we dive into scientific paper writing and the different steps you need to consider in order to do it successfully. 
 
-One of the first steps in planning your paper is knowing what format it should be. This depends on which journal you’re going to publish in. So the first step is to identify which journal you’re going to submit your paper, and how to correspond with them. It’s not uncommon to submit to one journal and then have to rewrite a paper to submit to another journal when the first rejects your paper, but that’s a story for another project.   
+One of the key pieces in planning your paper is knowing what format it should be in when done. This depends on which journal you’re going to publish in. So, the first step is to identify which journal you’re going to submit your paper to, and how to correspond with them. It’s not uncommon to submit to one journal and then have to rewrite a paper to submit to another journal when the first rejects your paper, but that’s a story for another project.   
 
-Next you have to write it.  This can seem overwhelming. This week we’ll walk you through what you need to include.  What should be included in a paper? What are the various parts of a paper? And what is the process to follow in order to write a publishable paper? How do you write an abstract? How do you decide where to publish, or to write a cover letter?  
+Next you have to write it. This can seem overwhelming. This week we’ll walk you through what you need to include.  What are the various parts of a paper? What should you include or not include? And what is the process to follow in order to write a publishable paper? How do you write an abstract? How do you decide where to publish, or to write a cover letter?  
 
 
 *Monday:*
 -   Science Spotlight
--   Workshop: <a href=where-to-publish-and-how-to-write-a-cover-letter> Where to Publish and how to Write a Cover Letter</a>
+-   Workshop: <a href=where-to-publish-and-how-to-write-a-cover-letter> Where to publish and how to write a cover letter</a>
 
 *Wednesday:*
--	Workshop: <a href=#workshop-writing-an-abstract-and-paper-writing> Writing an Abstract and Paper Writing</a>
+-	Workshop: <a href=#workshop-writing-an-abstract-and-paper-writing> Writing an abstract and paper writing</a>
 
 
 *Friday:*
@@ -38,7 +39,9 @@ Secondly, the workshop will cover the cover letter: the letter that scholars sen
 -   Understand the genre of the cover letter (key elements, recommendations for writing style) 
 
 ## Workshop: Writing an Abstract and Paper writing
-By now you should know what an abstract is. You have read many abstracts. Now it is time to write one. In this hands-on workshop, you will be guided through abstract writing process. The abstract is an important part of a research paper for both readers and writers. Readers use abstracts to swiftly learn about the aim of a study as well as the expected findings and conclusions. This information will help a reader decide whether to continue reading your paper or not. Writers can use abstracts at an earlier stage in the writing process to determine the key components of a paper and as a guide . The abstract should then be iteratively improved to best reflect the content of the paper, inform the readers, and catch their attention.   
+The abstract is an important part of a research paper for both readers and writers. Readers use abstracts to swiftly learn about the aim of a study as well as the expected findings and conclusions. This information will help a reader decide whether to continue reading your paper or not. Writers can use abstracts at an earlier stage in the writing process to determine the key components of a paper and as a guide. You have read many abstracts and hopefully developed some ideas about what makes a good engaging abstract.
+
+The time has come to write one. In this hands-on workshop, you will be guided through the abstract writing process. The abstract should then be iteratively improved to best reflect the content of the paper, inform the readers, and catch their attention until it's finalized when you finalize the paper.   
 
 This workshop focuses on the key elements of abstracts and on strategies for writing them. Together, we will analyse and discuss a sample of abstracts. You will individually, write an abstract for your project. Then you will merge your team’s abstracts. Note that the abstract may (should) still change after this workshop. Consider it a living dynamic part of the paper that is subject to change until the final version of your paper is handed in. 
 
@@ -53,13 +56,11 @@ You will also work on your research paper. We will discuss and apply guidelines 
 At the end of the workshop, you will have written parts of your paper and have determined a strategy for finishing your (draft) paper. 
 
 ### Key concepts
--   Structure and Content: Learn how to structure an abstract, including key sections such as objectives, methods, results, and conclusions. 
+-   Structure and Content: Learn how to structure a paper, including key sections such as objectives, methods, results, and conclusions. 
 
 -   Clarity and Brevity: Master the art of concise writing to capture the essence of your research while maintaining clarity. 
 
--   Impact: Understand how an engaging abstract can draw readers into your work and enhance the visibility of your research 
-
--   Elements of a research paper  
+-   Impact: Understand how an engaging abstract can draw readers into your work and enhance the visibility of your research   
 
 -   Scientific storyline (section and paragraph level) 
 
@@ -83,7 +84,7 @@ Researching, reading, writing. Keep reflecting on what you’re doing and if it�
 
 -   How do you make a scientific argument persuasive without overstating your results? 
 
--   ow do you balance clarity and complexity when writing an abstract for a scientific audience? 
+-   How do you balance clarity and complexity when writing an abstract for a scientific audience? 
 
 -   How do you merge different voices in a collaborative team to make a harmonious clear paper?  
 
@@ -95,7 +96,7 @@ Submit your abstract and paper writing plan to complete your paper.  Also submit
 Write a societal/philosophical reflection on your project. (1/2 page) How does it fit in and contribute to science and society?                                     
 
 ## References
-Springer. *Cover letters*. [Cover letters - Springer --- International Publisher](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574). Accessed July 10, 2025
+Springer. *Cover letters*. [Cover letters - Springer --- International Publisher](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574).
 
 Silyn-Roberts, H. (2013). *Writing for Science and Engineering. 2nd ed. Elsevier. Available [here](https://www.sciencedirect.com/science/article/pii/B9780080982854000236) (if required, login using your TU Delft NetID)
 

@@ -43,9 +43,9 @@ What are the necessary elements in reproducibility: keeping a good lab journal, 
 
 
 ## Workshop: Troubleshooting
-Troubleshooting is foundational to experimental work: “You try something”. “You figure out it didn’t work the way you wanted”. “You figure out why, or find new things to try” and repeat the process until you get reproducible results that answer your research question (or start a new question).   
+Troubleshooting is foundational to experimental work: “you try something, you realize it didn’t work the way you wanted, you try to figure out why, or find new things to try” and repeat the process until you get reproducible results that answer your research question (or start a new question).   
 
-We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to troubleshoot.   
+We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to improve your troubleshooting.   
 
 ### Key Concepts
 - Ways of approaching problems

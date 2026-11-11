@@ -26,7 +26,9 @@ This week’s schedule includes:
 
 Remember you will also have a graded individual oral exam with your supervisor at some point this week. This will have to be scheduled with your supervisor. 
 
-## Exam Questions - sample questions
+##  Oral exam - sample questions
+
+The oral exam is an important component of assessing your learning in the minor. This is to assess what you learned about the process of collaborative research and your contributions to your project. It will take place with your supervisor and one other supervisor or member of the teaching team. They will schedule it with you. Usually this is on Thursday or Friday.
 
 -   What are you proud of in collaborating with teammates?
 
@@ -41,6 +43,8 @@ Remember you will also have a graded individual oral exam with your supervisor a
 -   Where do you think this project could go?
 
 -   What interests you most about this project?
+
+-   What do you think most people don’t understand about biomedical research projects thatthey should?
 
 -   What biases did you encounter during this project and how do you think they affected your project?
 

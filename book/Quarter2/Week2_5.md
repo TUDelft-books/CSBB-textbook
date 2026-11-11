@@ -4,9 +4,9 @@
 
 # Week 2.5: Data Analysis Theory and Practice
 
-One of the key components of research is how you present your findings to an audience. One effective way to communicate in science is to tell a concise and impactful story about your research. Often research projects generate a lot of ideas and outputs. The volume and the complexity of these outputs can get in the way of telling your story. This week will focus on how we summarize information by analysing and presenting data using visualisations. 
+One of the key components of research is how you present your findings to an audience. Often research projects generate a lot of outputs. The volume and the complexity of these outputs can get in the way of understanding your presentation. To effectively communicate in science requires the skill to tell a concise and impactful story about your research. Images and graph can provide a lot of information more clearly to summarize your project's outputs. This week will focus on how we summarize information by analysing and presenting data using visualisations. 
 
-This format is a powerful tool but can have constraints. Visualisations should be simple and clear. Therefore, you need to carefully select the best type of visualisations to convey the message of your data. Some important questions to ask are what to include? What is relevant? What can help explain your ideas? And what might make them confusing or misleading? 
+Visualizations are a powerful tool but there are things you should consider. Visualisations should be simple and clear. Therefore, you need to carefully select the best type of visualisations to convey the message of your data. Some important questions to ask are what to include? What is relevant? What can help explain your ideas? And what might make them confusing or misleading? Does what you're showing accurately represent your results or could it be easily misinterpreted? 
 
 
 *Monday:*
@@ -74,6 +74,8 @@ Continue with research. Write your data analysis methods section. Look at how th
 
 - Do you have a question that other groups could help you with?
 
+- What considerations should you have in regards to accessibility of your visualizations?
+
 ## Weekly Submitted Assignments
 
 ### Group
@@ -85,6 +87,8 @@ Write a data analysis and visualization plan
 What are potential problems with or considerations in your data analysis plan and visualizations?
 
 ## References
+
+[A checklist for designing and improving the visualization of scientific data | Nature Cell Biology](https://www.nature.com/articles/s41556-025-01684-z)
 
 ```{admonition} Please email us if you have any notes on this book!
 :class: email-us

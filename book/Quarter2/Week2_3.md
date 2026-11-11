@@ -23,12 +23,12 @@ The schedule for this week includes:
 ## Workshop: Institutional Review Process
 Many research projects, especially in biomedical sciences, will have an institutional review process for ethical and safety considerations. This includes reviews of human and animal research to make sure it’s done ethically and humanely; it also includes biological safety depending on the materials you will be working with, especially if it includes viruses, bacteria, radiation, etc. 
 
-Understanding why these reviews are needed, what the review boards are typically looking for, and the timelines and constraints of these reviews can greatly reduce project planning frustration. If you are joining a new project, this review will provide you with documentation you can read and assess if you ethically want to be part of this project.   
+Understanding why these reviews are needed, what the review boards are typically looking for, and the timelines and constraints of these reviews can greatly reduce project planning frustration. If you are joining a new project, the review documents will provide you with documentation you can read and assess if you ethically want to be part of this project and what is required of you to be able to participate in conducting research.   
 
 ### Key concepts
 -   The process of obtaining a license for animal research
 -   Training of the responsible personnel who can work with research animals
--   Reporting of animal research
+-   Reporting requirements of animal research
 -   Why do we need animal research in biomedical research?
 -   Alternatives to animal research
 
