@@ -5,6 +5,7 @@ parts:
   - caption: Introduction
     chapters:
     - file: Introduction.md
+    - file: Colophon.md
   - caption: Quarter 1 - Understanding Questions
     chapters:
     - file: Quarter1/Week1_1.md

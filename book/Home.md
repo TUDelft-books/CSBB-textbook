@@ -16,6 +16,8 @@ Explore new Fields
 Welcome to the textbook for the Collaborative Science for Biomedical Breakthroughs minor! Please check out the page [Introduction](./Introduction.md) for information about the textbook and how to use it. This textbook is a collaborative effort and is still under development. If you have suggestions or questions about this minor or textbook,
 please send them to <minor-csbb@tudelft.nl>.
 
+In 2025, an article under the title "Co-creating durable skills education: A case study of the collaborative science for biomedical breakthroughs minor" was published in the European Journal of Stem Education, concerning the creation, further development and evaluation of this minor and its associated learning tools. You can check out the full article [here] (https://research.tudelft.nl/en/publications/co-creating-durable-skills-education-a-case-study-of-the-collabor/).
+
 ## Writing and Editing Team
 
 Martijn Wackers, TU Delft, Faculty of Technology, Policy and Management, Centre for Language and Academic Skills (ITAV)
