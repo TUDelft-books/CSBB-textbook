@@ -4,7 +4,7 @@
 The book's title (and subtitle, if used). 
 <Title> <subtitle> -->
 
-**Collaborative science for Biomedical Breakthroughs**
+**Collaborative science for Biomedical Breakthroughs: A guidebook for learning to navigate collaborative biomedical research**
 
 <!-- AUTHORS
 List each author, numbered, with affiliation, ORCID, and email for
@@ -17,18 +17,33 @@ the corresponding author. Add or remove numbered entries as needed.
 ... -->
 ## Authors
 
-Jane Doe
-[Faculty of Civil Engineering and Geosciences, TU Delft] [j.doe@tudelft.nl] [ORCID: 0000-0000-0000-0000] 
+Johanna Colgrove
+[Faculty of Applied Sciences, Department of Education & Student Affairs, TU Delft] [j.c.colgrove@tudelft.nl] [minor-csbb@tudelft.nl] [ORCID 0009-0002-4117-3226]
 
-John Smith
-[Faculty of Electrical Engineering, Mathematics and Computer Science, TU Delft] [j.smith@tudelft.nl] [ORCID: 0000-0000-0000-0000]
+Hylkje Geertsema
+[Faculty of Applied Sciences, Department of Imaging Physics, TU Delft] [h.j.geertsema@tudelft.nl] [ORCID 0000-0001-5808-0611]
+
+Andrea Lolli
+[Department of Oral & Maxillofacial Surgery, Erasmus MC University Medical Center Rotterdam] [a.lolli@erasmusmc.nl] [ORCID 0009-0004-1144-7745 ]
+
+Dimphna Meijer
+[Faculty of Applied Sciences, Department of Bionanoscience, TU Delft] [d.h.m.meijer@tudelft.nl] [ORCID 0000-0002-2010-8751]
+
+Martijn Wackers
+[Faculty of Technology, Policy, and Management, Centre for Languages and Academic Skills, TU Delft] [m.j.y.wackers@tudelft.nl] [ORCID 0009-0002-9228-5463]  
+
+Verena Zinschitz
+[Student Nanobiology, Faculty  of Applied Sciences, TU Delft and Erasmus Medical Center, Erasmus University Rotterdam] [v.zinschitz@student.tudelft.nl]
+
+
+
 
 <!-- KEYWORDS -->
 <!--List of keywords <keyword 1>, <keyword 2>, <keyword 3>, ... -->
 
 ## Keywords
 
-[keyword 1], [keyword 2]
+interdisciplinary, collaboration, durable skills, professional skills
 
 <!-- USE OF AI (required if AI tools were used — delete this whole section if not applicable) -->
 
@@ -53,7 +68,7 @@ line if there is no funder to credit. -->
 
 ## Copyright statement
 
-©20xx Delft University of Technology. Written by [author1], [author2], ...
+©2026 Delft University of Technology. Written by Johanna Colgrove, Hylkje Geertsema, Andrea Lolli, Dimphna Meijer, Martijn Wackers, Verena Zinschitz
 
 This work is licensed under a Creative Commons Attribution 4.0 International (<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>) licence unless otherwise stated.
 
@@ -64,7 +79,6 @@ This work is licensed under a Creative Commons Attribution 4.0 International (<a
 </div>
 
 Cover artwork drawn by Polina Kairiūkštytė.
-Cover design made by [creatorXX]
 
 Copyright clearance was made by the TU Delft Library copyright team.
 
@@ -72,7 +86,7 @@ Copyright clearance was made by the TU Delft Library copyright team.
 
 ## Disclaimer
 
-Every attempt has been made to ensure the correct source of images and other potentially copyrighted material was ascertained, and that all materials included in this book have been attributed and used according to their license. If you believe that a portion of the material infringes someone else’s copyright, please contact [author@tudelft.nl].
+Every attempt has been made to ensure the correct source of images and other potentially copyrighted material was ascertained, and that all materials included in this book have been attributed and used according to their license. If you believe that a portion of the material infringes someone else’s copyright, please contact [minor-csbb@tudelft.nl] or [j.c.colgrove@tudelft.nl].
 
 ```{figure} images/tudelft_publish.png
 :alt: TU Delft OPEN Publishing

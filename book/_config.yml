@@ -2,7 +2,7 @@
 title: CSBB Textbook
 #Author:  
 description: Textbook and guidebook for the Collaborative Science for Biomedical Breakthroughs minor (aka CSBB)
-logo: images/TUDelft_logo_rgb.png
+logo: images/TUDelft_logo_styled.svg
 baseurl: "https://oit.tudelft.nl/CSBB-textbook"
 repository:
   url: https://github.com/TUDelft-books/CSBB-textbook
