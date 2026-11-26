@@ -39,7 +39,7 @@ Welcome to Q2! During this first session, we will provide an overview of the pla
 We will have a general discussion of this week's content and how it is relevant specifically to Q2 (Why are we doing this now as opposed to Q1? How does this quarter differ from Q1?) 
 
 ## Workshop: Team reflection
-This interactive session focuses on team dynamics. Starting with visualizing how your team operated in Q1, you will discuss what went well within your team and what could be improved. Furthermore, we will discuss changes in your teams composition (e.g., if new members have joined or former members have left ). You will reflect on and address  what are the potential effects of these changes, and how do you want to update the team contracts?  
+This interactive session focuses on team dynamics. Starting with visualizing how your team operated in Q1, you will discuss what went well within your team and what could be improved. Furthermore, we will discuss changes in your teams composition (e.g., if new members have joined or former members have left). You will reflect on and address  what are the potential effects of these changes, and how do you want to update the team contracts?  
 
 ### Key concepts
 - Team dynamics 
@@ -54,7 +54,7 @@ This interactive session focuses on team dynamics. Starting with visualizing how
 Collaborative research groups have certain roles within them. These roles can change and evolve as the project progresses. However, within a research lab, there is a whole set of very formal research roles, including PIs, postdocs, technicians, core resources, and lab managers. Understanding these roles, how they work together, their respective responsibilities, and what to expect when joining a new lab can greatly improve your effectiveness. We will have various professionals working in labs for our panel discussions, who will share their everyday work practices, struggles and joys with you.
 
 ### Key concepts
-- The different roles in a research group? 
+- Different roles in a research group 
 - The strengths and weaknesses of the standard research group structure
 - Assumptions within a research group about other team members
 - Understanding the needs of the group members
@@ -63,7 +63,7 @@ Collaborative research groups have certain roles within them. These roles can ch
 - Career planning
 
 ## Workshop: Sustainability in the Lab
-Biological science projects often require energy and resource-intensive processes.  For example, plastic-made disposable tools could be required for sterility and precision machinery. Devices such as freezers need to be running 24/7. Large and costly computations might be needed for data analysis etc.  More sustainable practices and options exist. As scientists, you need to consider sustainability tradeoffs when making decisions for your projects. In other words you should ask yourself the following questions What are the sustainability issues in your project? How can you mitigate these issues? And what are the risks and tradeoffs to carry your project successfully and sustainably?
+Biological science projects often require energy and resource-intensive processes.  For example, plastic-made disposable tools could be required for sterility and precision machinery. Devices such as freezers, need to be running 24/7. Large and costly computations might be needed for data analysis. Etc. More sustainable practices and options exist. As scientists, you need to consider sustainability trade-offs when making decisions for your projects. In other words you should ask yourself the following questions: What are the sustainability issues in your project? How can you mitigate these issues? And what are the risks and trade-offs to carry your project successfully and sustainably?
 
 ### Key concepts
 - Sustainability
@@ -73,58 +73,49 @@ Biological science projects often require energy and resource-intensive processe
 - Ethics and reflection
 
 ## Workshop: From Proposal to Plan
-This is a structured time for groups to work with their coaches on what they need to do to turn their research proposal into a plan which is likely to succeed. What are the pitfalls, what resources need to be identified and anything that has been forgotten. Activities will include setting up a timeline of how and when things need to be done in order to complete the project in the time allotted and what can be done in parallel. 
+This is a structured time for groups to work on what they need to do to turn their research proposal into a plan which is likely to succeed. What are the pitfalls, what resources need to be identified and anything that has been forgotten. Activities will include setting up a timeline of how and when things need to be done in order to complete the project in the time allotted and what can be done in parallel. 
 
 ### Key Concepts 
-
 - Time management
 - Resource allocation
 - Research timeline and process
-
 ### Learning goals 
-
 - Scientific planning
 - Collaboration skills 
 
-
 ## Workshop: Drug Development Process
-Not all projects have a drug development component, but if working in biomedical research, it’s important for a researcher to understand what the process is for new developments. This can help you develop that long-term vision of how this might turn into something which could be used in treatment. It can be important in funding decisions, prioritizing research questions and approaches.  
+This workshop varies as we bring in different industry representatives to talk about new technologies used in drug development, the process of drug development or medical device development from the industry perspective. Not all projects have a drug development component, but if working in biomedical research, it’s important for a researcher to understand what the process is for new developments. This can help you develop that long-term vision of how this might turn into something which could be used in treatment. It can be important in funding decisions, prioritizing research questions and approaches.  
 
-It’s also useful in society for people to understand how development happens, the time frame, 
-costs, and access. This workshop is done by a representative of a pharmaceutical company to include that perspective and partnership.  
+It’s also useful in society for people to understand how drug development happens, the time frame, costs, and access. This workshop is done by a representative from a biomedical research company to include that perspective and partnership.  
 
 ### Key concepts
-Research process of drug design and testing
+- Research process of drug design and testing
 ### Learning goals 
-Understanding the process of different kinds of research
+- Understanding the process of different kinds of research
 
 ## Workshop: Lab Safety
 For those unfamiliar with working in a biomedical lab environment, this workshop will go through basic lab safety, in part so that as a collaborator visiting a lab, you don’t do something dangerous or destructive.  
  
 ## Key concepts
-Etiquette in a lab
- 
+- Etiquette in a lab
 ### Learning goals
-Understanding a research lab environment
-
+- Understanding a research lab environment
 
 ## Workshop: Making and Addressing Mistakes
 No one likes making mistakes, but they are a fact of life. Spending some time thinking about how you make them and what you should do when you make them is an important skill in becoming a better scientist. Sometimes we can call mistakes just first attempts, and we try something else with minimal negative consequences. But sometimes they are mistakes or accidents that must be formally reported. Knowing which is which and what reporting mechanisms are in place is important in being an ethical scientist.  
 
 ### Key concepts
 - Mistakes happen
-- Developing self-understanding of your response to mistake making
+- Developing self-understanding of your response to mistake-making
 - Things to think about when addressing them
 - Knowing when they must be reported 
-
 ### Learning goals
-Mistakes are part of collaboration and skilled collaboration involves being skilled at addressing them.  
+- Mistakes are part of collaboration and skilled collaboration involves being skilled at addressing them.  
 
-## Group activity of the week
-This week groups will move quickly to adjust their groups and select their focus project. Students and coaches will discuss the projects and how best to allocate resources (students and supervisors) to ensure that all projects are successful. Multi-center collaboration if you will.  
+## Group Compass
+This week groups will move quickly to adjust their groups and select their focus project. Students and coaches will discuss the projects and how best to allocate resources (students and supervisors) to ensure that all projects are successful. Multi-centre collaboration if you will.  
 
-With your team, make a research plan and a new or updated team contract. 
-
+With your team, make research plan and new or updated team contract. 
 
 ## Discussion Questions
 - How does your new group contract differ from the one in Q1?
@@ -146,8 +137,7 @@ With your team, make a research plan and a new or updated team contract.
 Submit team name and project plan draft
 
 ### Individual
-- What are your learning goals for the next 10 weeks?
-- What skills do you hope to improve?
+What are your learning goals for the next 10 weeks? What skills do you hope to improve?
 
 # References
 

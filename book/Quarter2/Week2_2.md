@@ -4,15 +4,14 @@
 
 # Week 2.2: Can you repeat that? 
 
-Doing something new and getting great results is very exciting! However, the results of your project only “count” if others can carry the same experiments you carried and get the same results you did. This is called reproducibility. Reproducibility is how scientists verify the trustworthiness and accuracy of results. As a researcher it is your responsibility to ensure the reproducibility of your results.  
+Doing something new and getting great results is very exciting! However, the results of your project only “count” if others can complete the same experiments you carried out and get the same results you did. This is called reproducibility. Reproducibility is how scientists verify the trustworthiness and accuracy of results. As a researcher it is your responsibility to ensure the reproducibility of your results.  
 
-What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important. So, how can you troubleshoot this situation and solve this reproducibility issue?  
+What if you are not able to reproduce your own results? What does it mean? The basic assumption is that if you can’t reproduce your results, you may not entirely understand what you’re doing and what factors are important.  So, how can you troubleshoot this situation and solve this reproducibility issue?  
 
-
-This week’s topic is ‘reproducibility’. The schedule includes: 
+This week’s topic is ‘reproducibility’. The schedule includes:  
 
 *Monday:*
-This week there is no spotlight nor workshop on Monday. This will get you some extra time to get started on your project.
+- This week there is no spotlight nor workshop on Monday. This will get you some extra time to get started on your project.
 
 *Wednesday:*
 
@@ -24,13 +23,13 @@ This week there is no spotlight nor workshop on Monday. This will get you some e
 
 
 ## Workshop: Reproducibility
-What are the necessary elements in reproducibility: keeping a good lab journal, writing clear and accurate methods, reading methods accurately and checking assumptions. What are the things necessary to record in your lab journal?  
+What are the necessary elements in reproducibility: keeping a good lab journal, writing clear and accurate methods, understanding your variables, reading methods accurately, and checking assumptions. What are the things necessary to record in your lab journal?  
 
 -	What is “reproducibility”?  
 -	How is it used to assess scientific results? 
 -	Examples of theories where lack of reproducibility unraveled a published theory. 
 -	Why keeping a lab notebook and writing clear methods sections matters. 
--	Some of the surprising variables that can effect reproducibility--lots of examples of this though this is one of my favorites, also an excellent example of critical thinking: [Comparison of Trials Using Ivermectin for COVID-19 Between Regions With High and Low Prevalence of Strongyloidiasis: A Meta-analysis | Infectious Diseases | JAMA Network Open | JAMA Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
+-	Some of the surprising variables that can effect reproducibility--lots of examples of this, though this is one of my favorites, also an excellent example of critical thinking: [Comparison of Trials Using Ivermectin for COVID-19 Between Regions With High and Low Prevalence of Strongyloidiasis: A Meta-analysis | Infectious Diseases | JAMA Network Open | JAMA Network](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790173)
 
  
 ### Key concepts
@@ -41,11 +40,10 @@ What are the necessary elements in reproducibility: keeping a good lab journal, 
 - Understanding the importance of documentation
 - Collaboration on experiments
 
-
 ## Workshop: Troubleshooting
-Troubleshooting is foundational to experimental work: “You try something”. “You figure out it didn’t work the way you wanted”. “You figure out why, or find new things to try” and repeat the process until you get reproducible results that answer your research question (or start a new question).   
+Troubleshooting is foundational to experimental work: you try something, you realize it didn’t work the way you wanted, you try to figure out why, or find new things to try and repeat the process until you get reproducible results that answer your research question (or start a new question).   
 
-We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to troubleshoot.   
+We all have some troubleshooting skills. In this workshop you will develop further skills and look at the social-emotional side of troubleshooting. You will also learn how to develop collaborative troubleshooting skills as using collaborators can be a great way to improve your troubleshooting.  
 
 ### Key Concepts
 - Ways of approaching problems
@@ -59,14 +57,13 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 - Research Process
 - Critical Thinking
 
+## Group Compass
 
-## Group Activity of the Week
+Develop research strategy for the project---how do you turn a two page proposal into a step-by-step plan?
 
-- Develop research strategy for the project---how do you turn a two page proposal into a step-by-step plan?
+Identify resources you will need at various stages
 
-- Identify resources you will need at various stages
-
-- Make a plan for how you'll keep a lab notebook.
+Make a plan for how you'll keep a lab notebook.
 
 ## Discussion Questions
 
@@ -84,7 +81,7 @@ We all have some troubleshooting skills. In this workshop you will develop furth
 
 - Why does explaining the problem to someone else help you solve it?
 
-- How does reproducibility and a lab journal help with troubleshooting?
+- How do reproducibility and a lab journal help with troubleshooting?
 
 - What's the strangest troubleshooting thing you've encountered?
 

@@ -26,60 +26,49 @@ This week’s schedule includes:
 -   Friday Symposium
 
 ## Workshop: Impactful Research with Scalable Venture Ideas
-
 In this workshop, you will learn how to create impactful, scalable ideas by building on the value proposition canvas you developed in the previous session. We’ll explore how to design scientific research with a strategic focus on long-term impact and scalability. Through interactive exercises with the business model canvas, you will transform initial concepts into well-rounded proposals suited for both scientific and commercial impact. Students will gain insights to convey the strategic value and feasibility of their research beyond standard academic formats. 
 
 ### Learning goals
 
 -   Understand what potential investors find attractive in proposals 
-
 -   Develop a scalable venture strategy that aligns with the value proposition and business model frameworks
-
 -   Create a clear actionable strategy for achieving long term impact in healthcare based on your research  
 
 ## Workshop: Giving a Talk
-
 In this workshop, you will work on your talk and practice delivering (parts of) it. 
 
 Giving a talk combines various communication skills we have already worked on: creating a compelling narrative, designing effective visuals, ensuring a clear and attractive delivery, active listening, and answering (challenging) questions. The secret to giving a great talk is to find the perfect balance between the rhetorical and the engagement elements, to adapt to different situations and audiences, and to keep your key message at the core of the presentation. For your talk, it is time to show that you can do this! 
 
 ### Key Concepts 
-
 -    Creating a compelling narrative
 -    Designing effective visuals
 -    Engaging delivery skills
 -    Handling questions effectively
 -    Adapting the talk to various audiences
-
 ### Learning goals
-
-At the end of this session, students are able to:
-
--   Prepare for delivering an effective talk, balancing all elements of the presentation situation
-
+-   Prepare for delivering an effective talk, balancing all elements of the presentation
 -   Practise the key concepts listed above
 
-## Group Activity of the Week
+## Group Compass
 
 Finalize the draft of your paper and plan your talk
 
 ## Discussion Questions
 
--    According to you, what is crucial to make your talk memorable for a mixed audience?
--   How will you apply this in your own talk?
+-    What do you think is crucial to make your talk memorable for a mixed audience? How will you apply this in your own talk?
 
 -    What have you learned about collaborations in science? What do you think is most important?
 
--    What do you hope will happen with your research project's results?
+-    What do you hope will happen with your research project’s results? How could it be integrated into healthcare?
 
--    Who do you think should be interested/excited in the research you've done?
+-    Who do you think should be interested/excited in the research you have done?
 
 ## Weekly Submitted Assignments
 
 ### Group
 
-- Submit draft of your paper 
-- Submit an outline for your talk.
+Submit a draft of your paper with its corresponding cover letter. 
+Submit an outline for your talk.
 
 ### Individual
 

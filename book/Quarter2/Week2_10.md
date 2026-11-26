@@ -8,14 +8,12 @@ Twenty weeks have gone by incredibly quickly. We will now conclude our journey w
 
 We will also have the opportunity to look back at everything we learned, experienced and achieved during these weeks.  
 
-
 This week’s schedule includes: 
 
 *Tuesday:*
 -	Presentation Practice with peers and peer feedback
 
 *Thursday:*
-
 -	Final presentations
 
 *Friday:*
@@ -26,28 +24,22 @@ This week’s schedule includes:
 
 Remember you will also have a graded individual oral exam with your supervisor at some point this week. This will have to be scheduled with your supervisor. 
 
-## Exam Questions - sample questions
+## Oral Exam - Sample Questions
+The oral exam is an important component of assessing your learning in the minor. This is to assess what you learned about the process of collaborative research and your contributions to your project. It will take place with your supervisor and one other supervisor or member of the teaching team. They will schedule it with you. Usually this is on Thursday or Friday.
 
 -   What are you proud of in collaborating with teammates?
-
 -   What were some of the cultural differences within your team, and what effect do you think they had on your work?
-
 -   What was your biggest challenge in the process of this project, and what did you learn from it?
-
 -   What thing can I (supervisor) give you feedback on?
-
 -   How did you go about learning about the content of your project?
-
 -   Where do you think this project could go?
-
 -   What interests you most about this project?
-
--   What biases did you encounter during this project and how do you think they affected your project?
-
+-   What do you think most people don’t understand about biomedical research projects that they should?  
+-   What biases did you encounter during this project, and how do you think they affected your project?
 -   What questions do you have? (Students should be prepared to ask something)
 
 
-## Group Activity of the Week
+## Group Compass
 This week will be mostly focused on final presentations and feedback.
 
 ## Weekly Submitted Assignments
@@ -58,9 +50,9 @@ Submit your final paper including cover letter, with the peer feedback you recei
 
 ### Individual
 
-- Do the course evaluation (anonymous).
+Do course evaluation (anonymous).
 
-- Submit your final thoughts on the minor and suggestions for improvements (not anonymous).
+Submit your final thoughts on the minor and suggestions for improvements (not anonymous).
 
 ## References
 
